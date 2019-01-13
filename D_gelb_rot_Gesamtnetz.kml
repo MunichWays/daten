@@ -1,0 +1,1564 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="docid">
+    <name>doc name</name>
+    <description>doc description</description>
+    <visibility>1</visibility>
+    <Folder>
+      <name>D_gelb_rot_Gesamtnetz</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>rot_Querung Wolfratshauser Str.
+</name>
+        <description>Gefährliche, viel befahrene Kreuzung -&gt; Ampel notwendig</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3713</styleUrl>
+        <LineString>
+          <coordinates>11.534293,48.086891,0.000000 11.534794,48.086665,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Radweg/Fußweg nahe Martha-Maria
+</name>
+        <description>Enger und recht steiler Schotterweg, geteilt mit Fußgängern -&gt; verbreitern und asphaltieren</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-FBC02D-3519</styleUrl>
+        <LineString>
+          <coordinates>11.534794,48.086665,0.000000 11.536827,48.086013,0.000000 11.537814,48.085848,0.000000 11.538201,48.085752,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Partnachplatz</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5814-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.526032,48.117173,0.000000 11.525989,48.116314,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Weigelstraße</name>
+        <description>Alternative Arnulfstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3519</styleUrl>
+        <LineString>
+          <coordinates>11.538861,48.147100,0.000000 11.541753,48.145640,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Thalkirchener Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2550-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.546363,48.101399,0.000000 11.545987,48.101900,0.000000 11.545687,48.103347,0.000000 11.545472,48.104523,0.000000 11.544914,48.105669,0.000000 11.544700,48.106801,0.000000 11.544828,48.107503,0.000000 11.545258,48.108062,0.000000 11.545665,48.108477,0.000000 11.546330,48.108878,0.000000 11.548519,48.112073,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Rosa-Luxemburgplatz</name>
+        <description>Ist: Zickzackkurs in Hinterhöfen, Alternative parallel Straße&lt;br&gt;Maßnahmen:&lt;br&gt;- Fahrradstraße&lt;br&gt;- durchgehende Radwegführung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2356</styleUrl>
+        <LineString>
+          <coordinates>11.547693,48.162600,0.000000 11.547790,48.162343,0.000000 11.547543,48.162901,0.000000 11.547371,48.163209,0.000000 11.547092,48.163667,0.000000 11.547242,48.163795,0.000000 11.546330,48.164640,0.000000 11.546406,48.164826,0.000000 11.544324,48.166694,0.000000 11.544989,48.167967,0.000000 11.543702,48.169270,0.000000 11.542532,48.169241,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Spiridon-Louis-Ring</name>
+        <description>kein Radweg, wenig motorisierte&lt;br&gt;Problem: Sackgasse: kein Anschluss an die Brücken</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-1775</styleUrl>
+        <LineString>
+          <coordinates>11.547602,48.175797,0.000000 11.547513,48.175725,0.000000 11.547071,48.175373,0.000000 11.546416,48.175022,0.000000 11.545622,48.174801,0.000000 11.545140,48.174657,0.000000 11.544710,48.174335,0.000000 11.544346,48.173935,0.000000 11.544228,48.173455,0.000000 11.544238,48.172819,0.000000 11.544603,48.172253,0.000000 11.545193,48.171760,0.000000 11.545794,48.171466,0.000000 11.546470,48.171316,0.000000 11.547403,48.171059,0.000000 11.548090,48.170679,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sophienstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.566415,48.140633,0.000000 11.566147,48.141692,0.000000 11.565960,48.141971,0.000000 11.565623,48.142279,0.000000 11.565175,48.142453,0.000000 11.565173,48.142466,0.000000 11.564816,48.142533,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Schlosspark und Hirschgartenallee</name>
+        <description>kein Radweg, aber ruhig und weitestgehend ohne kritische Kreuzungen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5069</styleUrl>
+        <LineString>
+          <coordinates>11.505218,48.161241,0.000000 11.505325,48.160661,0.000000 11.505529,48.160518,0.000000 11.505722,48.159029,0.000000 11.505346,48.158986,0.000000 11.505357,48.158686,0.000000 11.505110,48.158435,0.000000 11.505121,48.158213,0.000000 11.505411,48.158034,0.000000 11.505454,48.157719,0.000000 11.505851,48.157648,0.000000 11.505990,48.156059,0.000000 11.505743,48.155966,0.000000 11.505840,48.155107,0.000000 11.510743,48.150297,0.000000 11.510786,48.150068,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Clemensstr</name>
+        <description>Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4488</styleUrl>
+        <LineString>
+          <coordinates>11.586263,48.163323,0.000000 11.583999,48.163445,0.000000 11.582049,48.163788,0.000000 11.580684,48.163967,0.000000 11.579332,48.163982,0.000000 11.576371,48.163595,0.000000 11.574451,48.163490,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Kreuzung Ludwigsfelder Str.</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-FFD600-5456-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.495744,48.194071,0.000000 11.495487,48.194254,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_B304 --&gt; MTU</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-FFD600-4681-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.484833,48.210447,0.000000 11.484790,48.212077,0.000000 11.484468,48.212663,0.000000 11.484865,48.212828,0.000000 11.483695,48.213871,0.000000 11.482848,48.213478,0.000000 11.482065,48.213435,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hechtseestr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-1969-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.629801,48.118549,0.000000 11.620789,48.115483,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Schwere-Reiter-Str</name>
+        <description>Maßnahme: schmaler Radweg verbreitern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <LineString>
+          <coordinates>11.552864,48.161455,0.000000 11.550826,48.161344,0.000000 11.547564,48.159731,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Silberhornstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3131-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.577680,48.115658,0.000000 11.579338,48.115193,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hohenzollernstr</name>
+        <description>Maßnahme: Radweg verbreitern, intuitive Radwegführung herstellen, ebene Radwege</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <LineString>
+          <coordinates>11.568710,48.161220,0.000000 11.564870,48.160904,0.000000 11.563668,48.160804,0.000000 11.562038,48.161090,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>to do Großhadener Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-757575-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.481603,48.123240,0.000000 11.482022,48.121915,0.000000 11.481979,48.121285,0.000000 11.481507,48.120654,0.000000 11.481046,48.119981,0.000000 11.480852,48.119566,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Lincolnstr</name>
+        <description>kein Radweg, wenig Verkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.600662,48.096684,0.000000 11.593494,48.095494,0.000000 11.591542,48.095308,0.000000 11.590147,48.094835,0.000000 11.588945,48.094721,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Perlacher Forst Nord</name>
+        <description>breiter Schotterweg ab Autobahnbrücke A995 Harlaching-Nord</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.574450,48.089382,0.000000 11.576929,48.088801,0.000000 11.580362,48.088744,0.000000 11.583946,48.087547,0.000000 11.585812,48.087096,0.000000 11.586596,48.086806,0.000000 11.588452,48.086386,0.000000 11.589096,48.085949,0.000000 11.590094,48.085325,0.000000 11.592014,48.084150,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Herzogstraße</name>
+        <description>schlechter als Clemensstraße&lt;br&gt;Kreuzungen keine Vorfahrt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.568024,48.163244,0.000000 11.569258,48.163151,0.000000 11.570706,48.162965,0.000000 11.572080,48.162808,0.000000 11.573432,48.162629,0.000000 11.574569,48.162472,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Clemensstraße Schwabing-West</name>
+        <description>Fahrradstraße aber an Kreuzungen aufgehoben&lt;br&gt;Maßnahme: Kreuzngen Vorfahrt ändern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3519</styleUrl>
+        <LineString>
+          <coordinates>11.562716,48.164599,0.000000 11.563527,48.164624,0.000000 11.564380,48.164555,0.000000 11.566919,48.164304,0.000000 11.568131,48.164207,0.000000 11.569204,48.164085,0.000000 11.574418,48.163495,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Willibaldstr</name>
+        <description>enger Radweg&lt;br&gt;Maßnahme: Fahrspuren auf 3m verengen und Radweg an den Parkplätzen verbreitern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000</styleUrl>
+        <LineString>
+          <coordinates>11.485122,48.136760,0.000000 11.484414,48.135571,0.000000 11.483502,48.133652,0.000000 11.482934,48.132284,0.000000 11.482708,48.131554,0.000000 11.483009,48.130143,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Langbehnstr</name>
+        <description>wenig Verkehr, kein Radweg&lt;br&gt;Maßnahme: Fahrradstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.482762,48.124178,0.000000 11.483170,48.123970,0.000000 11.485959,48.123963,0.000000 11.488159,48.124006,0.000000 11.490122,48.124214,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unterführung Pasinger Bahnhof</name>
+        <description>Enge Querung im Fußgängerbereich nicht geregelt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.461540,48.148608,0.000000 11.461776,48.149259,0.000000 11.462563,48.150381,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Unterführung Tegernseeer Landstraße</name>
+        <description>Maßnahme: beidseitiger Radweg einrichten&lt;br&gt;Umlaufgeländer entfernen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000</styleUrl>
+        <LineString>
+          <coordinates>11.588945,48.094721,0.000000 11.587990,48.094445,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Harlachinger Quellbach</name>
+        <description>sehr steil</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.562322,48.100507,0.000000 11.562375,48.100786,0.000000 11.562740,48.101238,0.000000 11.562992,48.101700,0.000000 11.563320,48.102054,0.000000 11.563084,48.102169,0.000000 11.563030,48.102341,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Denninger Str</name>
+        <description>Radweg durchgehend vorhanden, viel Verkehr, Teils schmal, Teils schlechter Belag</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000</styleUrl>
+        <LineString>
+          <coordinates>11.649102,48.148694,0.000000 11.647954,48.148379,0.000000 11.647224,48.147878,0.000000 11.646345,48.147348,0.000000 11.645776,48.147190,0.000000 11.644392,48.147233,0.000000 11.643287,48.147112,0.000000 11.641495,48.146575,0.000000 11.639950,48.146374,0.000000 11.637944,48.146253,0.000000 11.635916,48.146353,0.000000 11.632333,48.146732,0.000000 11.626432,48.147813,0.000000 11.623128,48.148415,0.000000 11.620671,48.148694,0.000000 11.617645,48.148844,0.000000 11.615725,48.148923,0.000000 11.614008,48.149073,0.000000 11.612517,48.149381,0.000000 11.609641,48.150261,0.000000 11.608697,48.150677,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Elektrastraße</name>
+        <description>Maßnahme Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.628234,48.151042,0.000000 11.625230,48.151464,0.000000 11.621529,48.152144,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_S-Bahn-Daglfing</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.649520,48.148808,0.000000 11.650797,48.149037,0.000000 11.654842,48.147448,0.000000 11.656451,48.147105,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Mauerkircherstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.624050,48.166830,0.000000 11.624130,48.167340,0.000000 11.623084,48.168261,0.000000 11.621733,48.168690,0.000000 11.620316,48.168662,0.000000 11.618580,48.166800,0.000000 11.616640,48.167870,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hellabrunner Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.568153,48.110934,0.000000 11.567858,48.111274,0.000000 11.567713,48.111729,0.000000 11.565149,48.111952,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Brudermühlstraße</name>
+        <description>Mittlerer Ring:&lt;br&gt;gut ausgebaut und sicher, aber stinkt... &lt;br&gt;sehr viel Verkehr,  teilweise gemeinsamer Fuß-/Radweg.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.534100,48.110641,0.000000 11.539301,48.110512,0.000000 11.540793,48.110546,0.000000 11.541980,48.110568,0.000000 11.542833,48.110932,0.000000 11.543756,48.111414,0.000000 11.544989,48.111765,0.000000 11.548090,48.112045,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Großhesselohestr</name>
+        <description>Maßmahme: Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000</styleUrl>
+        <LineString>
+          <coordinates>11.533426,48.078754,0.000000 11.533290,48.078246,0.000000 11.533488,48.077885,0.000000 11.534990,48.076882,0.000000 11.535682,48.076147,0.000000 11.536310,48.075140,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linie 6</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.534615,48.119666,0.000000 11.534829,48.120382,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Weisenseepark</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.584954,48.109179,0.000000 11.584890,48.108592,0.000000 11.584675,48.108362,0.000000 11.584740,48.108119,0.000000 11.584289,48.107918,0.000000 11.585491,48.107402,0.000000 11.586134,48.107231,0.000000 11.586542,48.107001,0.000000 11.587100,48.106987,0.000000 11.587701,48.106758,0.000000 11.588302,48.106829,0.000000 11.588817,48.106686,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>St Querin Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.587261,48.104000,0.000000 11.585603,48.103742,0.000000 11.583431,48.103226,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Weningstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.574488,48.109333,0.000000 11.573791,48.109516,0.000000 11.572858,48.109702,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linie 5</name>
+        <description>Passauer und Hansastr.:&lt;br&gt;Einfahrten und Seitenwege sind huggelig, Weg könnte breiter sein;&lt;br&gt;Gefahrenstelle beim einbiegen in den Weg zur Unterführung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.534100,48.110641,0.000000 11.533585,48.116858,0.000000 11.534615,48.119666,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Deisenhofer Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.592749,48.110723,0.000000 11.591676,48.111056,0.000000 11.589549,48.111877,0.000000 11.588373,48.112313,0.000000 11.587860,48.112513,0.000000 11.587555,48.112627,0.000000 11.587412,48.112620,0.000000 11.585846,48.110511,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linie 22</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.582841,48.103082,0.000000 11.582728,48.103315,0.000000 11.582320,48.103211,0.000000 11.582116,48.103659,0.000000 11.581854,48.103595,0.000000 11.581478,48.104157,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 1</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.715460,48.110669,0.000000 11.709323,48.111414,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 2</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.709323,48.111414,0.000000 11.700182,48.113477,0.000000 11.690698,48.117546,0.000000 11.688766,48.117918,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 4</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.688252,48.117947,0.000000 11.683702,48.118434,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 6</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.683102,48.118491,0.000000 11.676879,48.119465,0.000000 11.671386,48.119580,0.000000 11.664820,48.121328,0.000000 11.654348,48.124794,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 8</name>
+        <description>U-Bahn Passanten kreuzen den Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.653876,48.124880,0.000000 11.644993,48.126054,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 12</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.609759,48.132556,0.000000 11.607485,48.132986,0.000000 11.605103,48.133144,0.000000 11.604330,48.133188,0.000000 11.601978,48.133696,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 14</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.601782,48.133763,0.000000 11.599583,48.134343,0.000000 11.598730,48.134640,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 10</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.644478,48.126169,0.000000 11.638298,48.126599,0.000000 11.630402,48.128346,0.000000 11.628299,48.128862,0.000000 11.612034,48.131611,0.000000 11.610317,48.132385,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost Anschluss Maximilianeum 2</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.597925,48.135721,0.000000 11.596445,48.136001,0.000000 11.595619,48.136298,0.000000 11.595232,48.136849,0.000000 11.594621,48.137103,0.000000 11.593977,48.137096,0.000000 11.593548,48.136906,0.000000 11.593178,48.136631,0.000000 11.592969,48.136634,0.000000 11.588988,48.137411,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab7c</name>
+        <description>stark befahren, gemalter Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.624013,48.136040,0.000000 11.622124,48.136802,0.000000 11.620810,48.137225,0.000000 11.620215,48.137354,0.000000 11.620043,48.137565,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab3c</name>
+        <description>weniger befahrene Alternative zum Anschluss Truderinger Str. - Einsteinstr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.677909,48.126183,0.000000 11.674862,48.127444,0.000000 11.674712,48.127229,0.000000 11.673746,48.127415,0.000000 11.673746,48.127787,0.000000 11.673596,48.127916,0.000000 11.669755,48.129262,0.000000 11.670163,48.129835,0.000000 11.669004,48.130193,0.000000 11.668339,48.130308,0.000000 11.665764,48.131139,0.000000 11.661816,48.132385,0.000000 11.660292,48.133115,0.000000 11.656044,48.134876,0.000000 11.654949,48.134547,0.000000 11.653726,48.133430,0.000000 11.652353,48.130523,0.000000 11.651022,48.129306,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab10b</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.602753,48.135829,0.000000 11.597925,48.135721,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost N Ab8b</name>
+        <description>stark befahren, viele Rechtsabbieger</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.622902,48.138363,0.000000 11.623031,48.138156,0.000000 11.622237,48.137848,0.000000 11.621196,48.137583,0.000000 11.620134,48.137583,0.000000 11.615081,48.137010,0.000000 11.613150,48.136899,0.000000 11.611830,48.136783,0.000000 11.610057,48.136575,0.000000 11.609183,48.136459,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab7</name>
+        <description>Abgetrennter Radweg aber sehr schmal, viele Fussgänger und Rechtsabbieger</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.606394,48.139734,0.000000 11.605914,48.139766,0.000000 11.605847,48.139809,0.000000 11.604333,48.139966,0.000000 11.603415,48.140142,0.000000 11.602524,48.140317,0.000000 11.601369,48.140554,0.000000 11.598843,48.141045,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab5</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.637424,48.140400,0.000000 11.634398,48.140225,0.000000 11.632295,48.139498,0.000000 11.630359,48.139083,0.000000 11.629731,48.139044,0.000000 11.628422,48.139119,0.000000 11.626990,48.139412,0.000000 11.625879,48.139344,0.000000 11.624694,48.139101,0.000000 11.624463,48.139190,0.000000 11.623820,48.138478,0.000000 11.623573,48.138456,0.000000 11.622902,48.138406,0.000000 11.620027,48.138195,0.000000 11.618482,48.138170,0.000000 11.617098,48.138195,0.000000 11.614652,48.138231,0.000000 11.613085,48.138310,0.000000 11.611685,48.138431,0.000000 11.610060,48.138632,0.000000 11.607801,48.139000,0.000000 11.607415,48.139086,0.000000 11.606659,48.139645,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost N Ab 2a2</name>
+        <description>holpriger Feldweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-FFD600-3000</styleUrl>
+        <LineString>
+          <coordinates>11.682866,48.126112,0.000000 11.678059,48.126126,0.000000 11.676493,48.125897,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Emplstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.678284,48.126129,0.000000 11.676815,48.125968,0.000000 11.675778,48.125739,0.000000 11.674862,48.125671,0.000000 11.674342,48.125686,0.000000 11.673762,48.125861,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Lehrer-Götz-Weg</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.669092,48.124445,0.000000 11.668159,48.123188,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Neumarkter Stre</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.616840,48.133029,0.000000 11.619716,48.132972,0.000000 11.621304,48.132685,0.000000 11.626561,48.131568,0.000000 11.631346,48.130637,0.000000 11.632698,48.130437,0.000000 11.634028,48.130193,0.000000 11.636152,48.130208,0.000000 11.637526,48.130093,0.000000 11.638706,48.129878,0.000000 11.639907,48.129563,0.000000 11.640809,48.129277,0.000000 11.645873,48.128446,0.000000 11.651044,48.127773,0.000000 11.653211,48.127229,0.000000 11.655056,48.126613,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Dingolfinger Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.615531,48.132934,0.000000 11.615035,48.132395,0.000000 11.614603,48.132453,0.000000 11.614491,48.132372,0.000000 11.614284,48.132104,0.000000 11.614096,48.131710,0.000000 11.613962,48.131298,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Groschenweg</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.656148,48.119431,0.000000 11.655169,48.119739,0.000000 11.653034,48.120464,0.000000 11.652103,48.119150,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Bajuwarenstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.659691,48.118878,0.000000 11.661539,48.119788,0.000000 11.662395,48.120217,0.000000 11.663339,48.120660,0.000000 11.663862,48.120928,0.000000 11.664195,48.121098,0.000000 11.664511,48.121299,0.000000 11.664798,48.121541,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Ost NN Ab4</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.661622,48.140667,0.000000 11.659662,48.140640,0.000000 11.658742,48.140594,0.000000 11.657591,48.140448,0.000000 11.655445,48.140035,0.000000 11.653911,48.139783,0.000000 11.652683,48.139722,0.000000 11.650006,48.139847,0.000000 11.649055,48.139883,0.000000 11.648414,48.139945,0.000000 11.643495,48.140082,0.000000 11.639242,48.140147,0.000000 11.638728,48.140210,0.000000 11.637481,48.140408,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Friedenspromenade</name>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/PDQ87YaENgHTBD6UqAJGSU02wYPLU7IEXEcu4mdfX7jTk316Ck8LyrlEJQ6317dj4RXv-Fs38wCO8pX5iPWlG56PrvzHVe21iWJ2EWUkO5NNYeZJuhafmIwGnApuCQ2jCS33rHLI04vGee7za6xAWCTCej7wDptVKoxvbXGg8uW_73Xyr9Y43eJ8tqptrRPD-nD3WcirdR7_ULdPI-CuDzmPWkv1mAAhHUiYx0iC97k-MSz2rLvQjEdSEfNOXT0FUqUZ90t3IO-LFZ3OU0h1_9rWdmab7phfMDi_Ue3TaYJRMCqntseXqEwZgSURgheQeJVjcgbI4L-BQBuTtUU9sdEu4ydU42fvd4gIu9npyiiCINxcOi3FmFFNP3DLaGtKJDVLQ_jZZ_y0ehpL9Fyrd5G_S-4V4pPOM9AY05j1Ql0aNRdqXXVgKTNxCl7actH8dYKd2-dQuCn8wScYbUq6NUaBJz2_lLEx5OPuicd4xqhEblZRD_cFEI3_6-h5XJ5DlMjqbO4p0VE_vvLxZV9hm1mynOgR90I71RygbOcvyC579r3_Awl9EPSTK-Ne3d610_LR9i9TfvbNYBMgk5goQzhMRFTS3qDXFhPFrGZdkgJEa9QiBUWkE-tfK8OvXa_ixAhW3kxdH8ci13Yj5MefAgN9DkZNMRAznLVYgSaofWUuWyo2t145bc71PWwG9w3vmdtzZeaJxx4nUzZj0uqyaa_BF0MPWP3jsBXF-OjarUBLuaSnK4ebvPfb0EIMgsTUaw_p3uY1K9grf_0xr_LNQ1_o-nmPGcFYcceXkBxZJH3OIfi03XBJxofStKBxwLKkzwq4VjPXW-NzeZ07ijvdZuzWQk_BH2bpgR2zkGYBeKyJw2c6CzpUFCWPWDlH81X08smdlnts-47S26N0AebBASDecQDw85c" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;2,50 breit aber beide Richtungen + Fußgänger</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/PDQ87YaENgHTBD6UqAJGSU02wYPLU7IEXEcu4mdfX7jTk316Ck8LyrlEJQ6317dj4RXv-Fs38wCO8pX5iPWlG56PrvzHVe21iWJ2EWUkO5NNYeZJuhafmIwGnApuCQ2jCS33rHLI04vGee7za6xAWCTCej7wDptVKoxvbXGg8uW_73Xyr9Y43eJ8tqptrRPD-nD3WcirdR7_ULdPI-CuDzmPWkv1mAAhHUiYx0iC97k-MSz2rLvQjEdSEfNOXT0FUqUZ90t3IO-LFZ3OU0h1_9rWdmab7phfMDi_Ue3TaYJRMCqntseXqEwZgSURgheQeJVjcgbI4L-BQBuTtUU9sdEu4ydU42fvd4gIu9npyiiCINxcOi3FmFFNP3DLaGtKJDVLQ_jZZ_y0ehpL9Fyrd5G_S-4V4pPOM9AY05j1Ql0aNRdqXXVgKTNxCl7actH8dYKd2-dQuCn8wScYbUq6NUaBJz2_lLEx5OPuicd4xqhEblZRD_cFEI3_6-h5XJ5DlMjqbO4p0VE_vvLxZV9hm1mynOgR90I71RygbOcvyC579r3_Awl9EPSTK-Ne3d610_LR9i9TfvbNYBMgk5goQzhMRFTS3qDXFhPFrGZdkgJEa9QiBUWkE-tfK8OvXa_ixAhW3kxdH8ci13Yj5MefAgN9DkZNMRAznLVYgSaofWUuWyo2t145bc71PWwG9w3vmdtzZeaJxx4nUzZj0uqyaa_BF0MPWP3jsBXF-OjarUBLuaSnK4ebvPfb0EIMgsTUaw_p3uY1K9grf_0xr_LNQ1_o-nmPGcFYcceXkBxZJH3OIfi03XBJxofStKBxwLKkzwq4VjPXW-NzeZ07ijvdZuzWQk_BH2bpgR2zkGYBeKyJw2c6CzpUFCWPWDlH81X08smdlnts-47S26N0AebBASDecQDw85c</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.674180,48.111368,0.000000 11.677008,48.113735,0.000000 11.679668,48.115340,0.000000 11.681299,48.116744,0.000000 11.684260,48.118634,0.000000 11.688252,48.123046,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Westendstraße A96</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.508340,48.124603,0.000000 11.508983,48.125922,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Friedenheimer Str.</name>
+        <description>Radweg schmal, teilmschlechter Belag&lt;br&gt;Maßnahme: Radweg verbreitern, Eben an Kreuzungen und Einfahrten</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.507803,48.128353,0.000000 11.508146,48.129843,0.000000 11.508769,48.132019,0.000000 11.509166,48.133509,0.000000 11.509380,48.135005,0.000000 11.509584,48.136552,0.000000 11.509627,48.136974,0.000000 11.509928,48.137690,0.000000 11.510292,48.138421,0.000000 11.511086,48.139280,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Ilmünsterstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.507213,48.126112,0.000000 11.506902,48.126914,0.000000 11.507192,48.128024,0.000000 11.507170,48.128418,0.000000 11.507803,48.128353,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Werdenfelsstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.507267,48.117073,0.000000 11.507546,48.116264,0.000000 11.507589,48.115218,0.000000 11.507803,48.112238,0.000000 11.508179,48.107137,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Lautensackstr</name>
+        <description>eng, wenig Verkehr, kein Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.517180,48.135098,0.000000 11.517309,48.136115,0.000000 11.517491,48.137168,0.000000 11.517802,48.138464,0.000000 11.518017,48.138929,0.000000 11.518194,48.139129,0.000000 11.518725,48.141256,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Einhornallee</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.508179,48.107137,0.000000 11.508887,48.106428,0.000000 11.505940,48.104930,0.000000 11.506320,48.104496,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Seeriederstr</name>
+        <description>Maßnahme: Fahrradstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.601960,48.133788,0.000000 11.602517,48.135657,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Trogerstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.602410,48.135908,0.000000 11.601702,48.138585,0.000000 11.601466,48.139738,0.000000 11.601466,48.140425,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Zubringer Isarradweg</name>
+        <description>unbefestigt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.559264,48.104877,0.000000 11.558347,48.105393,0.000000 11.558196,48.105601,0.000000 11.558282,48.105837,0.000000 11.558465,48.106188,0.000000 11.558508,48.106382,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Wilheln-Kuhnert-Str</name>
+        <description>kein Radweg&lt;br&gt;Verbindung Isarauen-Hochweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.562998,48.102355,0.000000 11.561265,48.103161,0.000000 11.561319,48.103258,0.000000 11.561619,48.103756,0.000000 11.560739,48.104168,0.000000 11.559264,48.104877,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Agatharieder-Str</name>
+        <description>Maßnahme Fahradstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.585233,48.093861,0.000000 11.583023,48.097243,0.000000 11.581628,48.098733,0.000000 11.581585,48.099292,0.000000 11.580770,48.099536,0.000000 11.579826,48.100138,0.000000 11.580191,48.100424,0.000000 11.577938,48.101599,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Klausener/Grödnerstr</name>
+        <description>Maßnahme: Fahradstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.577530,48.101786,0.000000 11.574032,48.103133,0.000000 11.569998,48.104580,0.000000 11.567660,48.105615,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Steg Bahngleise und Kronepark</name>
+        <description>kein Radweg, Schotter und Schlaglöscher im Park&lt;br&gt;Maßnahme: befestigerter Radweg, getrennter Fußweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.579418,48.119050,0.000000 11.579128,48.119480,0.000000 11.579869,48.119687,0.000000 11.580394,48.120146,0.000000 11.580577,48.120812,0.000000 11.580738,48.121027,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Hochstraße</name>
+        <description>wenig Verkehr, kein Radweg, Tempo 30&lt;br&gt;Maßnahme: Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000</styleUrl>
+        <LineString>
+          <coordinates>11.581988,48.121120,0.000000 11.582149,48.121718,0.000000 11.582669,48.122273,0.000000 11.583173,48.122534,0.000000 11.584740,48.123168,0.000000 11.585367,48.123834,0.000000 11.585872,48.124411,0.000000 11.586172,48.125292,0.000000 11.586328,48.125879,0.000000 11.586730,48.126556,0.000000 11.587883,48.128042,0.000000 11.588162,48.128622,0.000000 11.588564,48.129531,0.000000 11.589037,48.130176,0.000000 11.589519,48.130827,0.000000 11.590061,48.131132,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Königinnenstr-Biedersteinstr</name>
+        <description>wenig Verkehr, gegen Einbahn frei, kein Radweg&lt;br&gt;Maßnahme: Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2550</styleUrl>
+        <LineString>
+          <coordinates>11.584139,48.145415,0.000000 11.584675,48.146790,0.000000 11.584933,48.148364,0.000000 11.584547,48.149868,0.000000 11.584675,48.150598,0.000000 11.585233,48.151514,0.000000 11.585641,48.152316,0.000000 11.587036,48.153003,0.000000 11.587872,48.153404,0.000000 11.588602,48.155250,0.000000 11.589254,48.157497,0.000000 11.590920,48.158314,0.000000 11.591992,48.160046,0.000000 11.592529,48.160718,0.000000 11.592851,48.161777,0.000000 11.592958,48.162278,0.000000 11.592894,48.162980,0.000000 11.593924,48.164067,0.000000 11.594718,48.164683,0.000000 11.596112,48.167030,0.000000 11.597539,48.169957,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Elisabethstraße</name>
+        <description>alte Radwegfarbe auf Gehweg&lt;br&gt;Maßnahme: Fahrradstraße, baulich verkehrsberuhigen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.563196,48.159731,0.000000 11.564956,48.159537,0.000000 11.566565,48.159316,0.000000 11.567970,48.159065,0.000000 11.569580,48.158779,0.000000 11.570524,48.158521,0.000000 11.571768,48.158170,0.000000 11.572680,48.157927,0.000000 11.573946,48.157677,0.000000 11.574901,48.157584,0.000000 11.575813,48.157619,0.000000 11.577841,48.157748,0.000000 11.579300,48.157813,0.000000 11.580845,48.157748,0.000000 11.582454,48.157626,0.000000 11.584257,48.157269,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Hochleite</name>
+        <description>Maßnahme Fahrradstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.557338,48.095151,0.000000 11.556630,48.094491,0.000000 11.555708,48.094721,0.000000 11.554463,48.093875,0.000000 11.553390,48.093144,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Fallmerayerstr</name>
+        <description>kein Radweg&lt;br&gt;Maßnahme: Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.569188,48.163155,0.000000 11.571106,48.162931,0.000000 11.571624,48.162853,0.000000 11.571696,48.162550,0.000000 11.572380,48.161564,0.000000 11.572850,48.161049,0.000000 11.573182,48.160736,0.000000 11.573183,48.160398,0.000000 11.569665,48.154849,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Baslerstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.489644,48.092350,0.000000 11.489944,48.092067,0.000000 11.491168,48.091349,0.000000 11.494446,48.089260,0.000000 11.496291,48.088658,0.000000 11.496205,48.088085,0.000000 11.498222,48.087511,0.000000 11.498094,48.086967,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Mindelheimerstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.489350,48.081670,0.000000 11.492273,48.080262,0.000000 11.492016,48.079907,0.000000 11.495208,48.078369,0.000000 11.496111,48.080082,0.000000 11.497915,48.080108,0.000000 11.498951,48.079991,0.000000 11.499137,48.080162,0.000000 11.499938,48.080248,0.000000 11.500524,48.080491,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Emil-Dittler-Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.510879,48.078241,0.000000 11.511008,48.078209,0.000000 11.512805,48.078252,0.000000 11.514634,48.078345,0.000000 11.515120,48.078251,0.000000 11.515968,48.078853,0.000000 11.516880,48.078989,0.000000 11.517706,48.079204,0.000000 11.519165,48.080136,0.000000 11.520560,48.080208,0.000000 11.521193,48.081197,0.000000 11.522148,48.081993,0.000000 11.523360,48.082494,0.000000 11.525066,48.082960,0.000000 11.526074,48.083319,0.000000 11.527469,48.084000,0.000000 11.527930,48.085870,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Walweg Isartal Großhesselohe</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.531986,48.074703,0.000000 11.533193,48.074534,0.000000 11.534427,48.074606,0.000000 11.535290,48.074620,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Isartalradweg_Großhesselohe</name>
+        <description>Isartalradweg wenn Brücke saniert</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.531916,48.074344,0.000000 11.533370,48.073950,0.000000 11.534282,48.073842,0.000000 11.535419,48.073842,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Oberföhringer Straße</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/IvOf8IhUH6srACGstfQnItkAF6OptWdgEK8zzHMD4AQLpfk19qraGhHTpVJbAiElF-h1-FzLx2wRJU_JkLFjnOpPD5rA_XaG7w0Ksgbt2i9YlmVjf0clLZ1FNuFM_vPI7dWxPnm1WxxmsTCLVBRnHQpYKwqozHYBkyeP4LHsqTaCa4Tia9lYNOVv48ukhR3EOvWfuk5CKnAtRM4hELVbNvTDY_8Da2cPfTSZPpFJCc0_7dSlTCRGXdyyTalaoQoRSFo5Tfp7TRhbqckQRs3lViewG0SqupjuKt70CkXTyaqMdeyfrzilooSltGrTgydQTs-NEGHlf4KWgmtIWRfacCv82aMUabTs-UH2Qk4iTI3ZRVu5PYvxrVUzOCAYv5psZwVHrEZ-BzdrPapZlevUsY6ygTo" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Hochuferradweg Nord&lt;br&gt;wenig Verkehr, kein Radweg stadtauswärts&lt;br&gt;Maßnahme: Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/IvOf8IhUH6srACGstfQnItkAF6OptWdgEK8zzHMD4AQLpfk19qraGhHTpVJbAiElF-h1-FzLx2wRJU_JkLFjnOpPD5rA_XaG7w0Ksgbt2i9YlmVjf0clLZ1FNuFM_vPI7dWxPnm1WxxmsTCLVBRnHQpYKwqozHYBkyeP4LHsqTaCa4Tia9lYNOVv48ukhR3EOvWfuk5CKnAtRM4hELVbNvTDY_8Da2cPfTSZPpFJCc0_7dSlTCRGXdyyTalaoQoRSFo5Tfp7TRhbqckQRs3lViewG0SqupjuKt70CkXTyaqMdeyfrzilooSltGrTgydQTs-NEGHlf4KWgmtIWRfacCv82aMUabTs-UH2Qk4iTI3ZRVu5PYvxrVUzOCAYv5psZwVHrEZ-BzdrPapZlevUsY6ygTo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.624050,48.166830,0.000000 11.623128,48.165899,0.000000 11.621904,48.164296,0.000000 11.621218,48.163180,0.000000 11.620252,48.162364,0.000000 11.619265,48.161935,0.000000 11.615574,48.157856,0.000000 11.613472,48.155479,0.000000 11.611261,48.153618,0.000000 11.610940,48.153074,0.000000 11.610103,48.152516,0.000000 11.608450,48.151256,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ismaninger Str</name>
+        <description>Hochuferweg Nord&lt;br&gt;Maßnahme: breiter Radweg / Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.608450,48.151256,0.000000 11.607399,48.149954,0.000000 11.605961,48.148622,0.000000 11.604202,48.147090,0.000000 11.602807,48.145702,0.000000 11.602421,48.145487,0.000000 11.600189,48.146231,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Maximiliananlagen</name>
+        <description>kein Kfz-Verkehr, kein Radweg, Schotter&lt;br&gt;Maßnahme: breiter Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.600018,48.146217,0.000000 11.599245,48.145845,0.000000 11.599138,48.145444,0.000000 11.598215,48.144041,0.000000 11.598129,48.143511,0.000000 11.598065,48.142365,0.000000 11.598237,48.141435,0.000000 11.598108,48.140790,0.000000 11.598043,48.139845,0.000000 11.597786,48.139215,0.000000 11.597400,48.138700,0.000000 11.596327,48.137970,0.000000 11.595962,48.137425,0.000000 11.595898,48.136853,0.000000 11.596048,48.136251,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wiener Platz, Steinstraße</name>
+        <description>Hochuferradweg Nord&lt;br&gt;Maßnahme: Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.596048,48.136251,0.000000 11.596305,48.135707,0.000000 11.595876,48.134719,0.000000 11.596305,48.134003,0.000000 11.596134,48.133373,0.000000 11.596348,48.132313,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Am Gasteig</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.590437,48.132385,0.000000 11.589432,48.131702,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Fernpassstraße</name>
+        <description>kein Radweg&lt;br&gt;Maßnahme Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.522577,48.121270,0.000000 11.522470,48.118806,0.000000 11.522770,48.115920,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Rampe Bergsteig/Giesinger Berg</name>
+        <description>Im April 2018 wurde der Teerbelag erneuert. Die versteckt liegende Rampe ist kaum bekannt, obwohl sie eine prima Verbindung für Radler darstellt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.577500,48.117356,0.000000 11.577452,48.117388,0.000000 11.577444,48.117467,0.000000 11.577423,48.117553,0.000000 11.577382,48.117612,0.000000 11.577380,48.117682,0.000000 11.577401,48.117754,0.000000 11.577401,48.117807,0.000000 11.577382,48.117875,0.000000 11.577353,48.117845,0.000000 11.577313,48.117780,0.000000 11.577275,48.117707,0.000000 11.577251,48.117625,0.000000 11.577205,48.117537,0.000000 11.577178,48.117512,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Deisenhofernerstr</name>
+        <description>schmaler Radweg, sehr uneben</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3131</styleUrl>
+        <LineString>
+          <coordinates>11.580877,48.114795,0.000000 11.582787,48.114258,0.000000 11.584407,48.113778,0.000000 11.587336,48.112675,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leonrodstr</name>
+        <description>Maßnahme: Radweg verbreitern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2550</styleUrl>
+        <LineString>
+          <coordinates>11.546534,48.159158,0.000000 11.539850,48.155451,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Blutenburg --&gt; Inselmühle</name>
+        <description>keine Autos aber Weg wird mit Fußgängern geteilt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000</styleUrl>
+        <LineString>
+          <coordinates>11.459620,48.168497,0.000000 11.459341,48.169008,0.000000 11.458901,48.168987,0.000000 11.458810,48.169506,0.000000 11.459486,48.169996,0.000000 11.459556,48.170103,0.000000 11.460092,48.170296,0.000000 11.461326,48.171105,0.000000 11.461664,48.171191,0.000000 11.461986,48.171366,0.000000 11.462125,48.171728,0.000000 11.462275,48.171928,0.000000 11.462399,48.172200,0.000000 11.462592,48.172364,0.000000 11.462780,48.172608,0.000000 11.462855,48.173727,0.000000 11.462796,48.173835,0.000000 11.463128,48.174303,0.000000 11.463280,48.174900,0.000000 11.462530,48.175460,0.000000 11.462244,48.175706,0.000000 11.461637,48.175881,0.000000 11.461190,48.176280,0.000000 11.461267,48.176600,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>derzeitige Alternative zur Sonnenstraße Richtung Stachus</name>
+        <description>kein Radweg keine Fahrradstraße aber weniger Motorisierte.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.573603,48.133473,0.000000 11.572638,48.134103,0.000000 11.572552,48.134819,0.000000 11.572208,48.135363,0.000000 11.571693,48.135163,0.000000 11.571093,48.135650,0.000000 11.570749,48.135908,0.000000 11.569634,48.136280,0.000000 11.569161,48.136165,0.000000 11.566860,48.136523,0.000000 11.565117,48.136595,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Breslauer Str, Bunzlauer Str</name>
+        <description>Zufahrt S-Bahnhof Moosach und Einkaufszentrum Meile Moosach. Kein Radweg. Wenig Kfz Verkehr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2000</styleUrl>
+        <LineString>
+          <coordinates>11.509601,48.182311,0.000000 11.508240,48.181032,0.000000 11.507773,48.180920,0.000000 11.506261,48.179540,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kreitmayerstr.</name>
+        <description>Teil der Verbindung von Hackerbrücke zur Dachauer Str. Wenig Kfz-Verkehr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.551683,48.153074,0.000000 11.552679,48.152304,0.000000 11.552885,48.152414,0.000000 11.553204,48.152361,0.000000 11.553315,48.152160,0.000000 11.553200,48.151961,0.000000 11.554590,48.151436,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Baldurstraße</name>
+        <description>Radweg. Mittelstarker Kfz-Verkehr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.528423,48.169163,0.000000 11.527222,48.169104,0.000000 11.527107,48.168836,0.000000 11.526732,48.168816,0.000000 11.527096,48.167328,0.000000 11.528301,48.165159,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tengstraße</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/YoFIay6IXVhqhqtBg6l6g3hcNdvGsTVUJum9kMzE1QwoSs9fnw_tZ7e2-yfXFcOudTjp-t3FhgDIrD39gqFwd9vdywzrkBV_VXsSnh2olmlHt41Bsgc8soe3oLXrGgz6XwRt" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Maßnahme Fahrradstraße&lt;br&gt;Beispielbild geschützter Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3131</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/YoFIay6IXVhqhqtBg6l6g3hcNdvGsTVUJum9kMzE1QwoSs9fnw_tZ7e2-yfXFcOudTjp-t3FhgDIrD39gqFwd9vdywzrkBV_VXsSnh2olmlHt41Bsgc8soe3oLXrGgz6XwRt</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.569090,48.158900,0.000000 11.568710,48.161220,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kapuzienerhölzl</name>
+        <description>Route durchs Gründe, Teils unbefestigt&lt;br&gt;Quelle Sonja Hauder</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <LineString>
+          <coordinates>11.488212,48.172418,0.000000 11.488590,48.172330,0.000000 11.490680,48.172590,0.000000 11.491828,48.172583,0.000000 11.492536,48.172426,0.000000 11.492944,48.172433,0.000000 11.493019,48.170709,0.000000 11.493598,48.170236,0.000000 11.493609,48.169578,0.000000 11.494736,48.168569,0.000000 11.495851,48.168261,0.000000 11.496903,48.168583,0.000000 11.498051,48.169370,0.000000 11.499134,48.169213,0.000000 11.499403,48.169056,0.000000 11.499767,48.169163,0.000000 11.500550,48.168963,0.000000 11.501044,48.169828,0.000000 11.501795,48.169878,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Weinbergstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-1770-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.467688,48.140354,0.000000 11.461766,48.140409,0.000000 11.460886,48.142685,0.000000 11.461036,48.144131,0.000000 11.461079,48.144076,0.000000 11.461036,48.144131,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Querung Dachauer-Str</name>
+        <description>Problem: freilaufender Rechtsabbieger&lt;br&gt;Maßnahme: sichere Radwegführung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3519</styleUrl>
+        <LineString>
+          <coordinates>11.547564,48.159731,0.000000 11.546534,48.159158,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Bäckerstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.461042,48.144098,0.000000 11.461256,48.144570,0.000000 11.461390,48.145100,0.000000 11.461487,48.145391,0.000000 11.461508,48.145827,0.000000 11.461363,48.146578,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Hackerbrücke</name>
+        <description>Maßnahme: Brücke nur für Fußgänger und Radfahrer</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-5000</styleUrl>
+        <LineString>
+          <coordinates>11.548519,48.142050,0.000000 11.548313,48.140614,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Balanstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.600018,48.119294,0.000000 11.599245,48.121070,0.000000 11.598312,48.122552,0.000000 11.596970,48.123863,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Thakirchner bis Schäftlarnstraße</name>
+        <description>unaufmerksame Autofahrer, die noch die Geschwindigkeiten vom Ring drauf haben, viele Fußgänger, Radweg könnte ebenfalls breiter sein (evtl auch nicht wg Allee und Fußweg?); Ampelschaltung auf 20km/h abstimmen?&lt;br&gt;Radwege rot markieren! Kopfsteinpflaster bei den Seitenwegen wegmachen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.548090,48.112045,0.000000 11.548862,48.112188,0.000000 11.550837,48.112302,0.000000 11.553283,48.112302,0.000000 11.554012,48.112188,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_LHM-Route-Bordeauplatz</name>
+        <description>schmaler Radstreifen zwischen Parken,Buslinie, Tram: maxmimal gefährlich</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.597732,48.132277,0.000000 11.599578,48.130952,0.000000 11.599706,48.130659,0.000000 11.601444,48.129513,0.000000 11.601895,48.129399,0.000000 11.603043,48.128697,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Querung St-Quirin-Platz</name>
+        <description>stark befahren, mehrer Ampeln</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5000</styleUrl>
+        <LineString>
+          <coordinates>11.582620,48.104939,0.000000 11.581520,48.104160,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wettersteinplatz</name>
+        <description>schwierige Wegeführung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5000</styleUrl>
+        <LineString>
+          <coordinates>11.575202,48.108484,0.000000 11.574488,48.109333,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost Anschluss Maximilianeum 1</name>
+        <description>Trambahnschienen und viel Autoverkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4000</styleUrl>
+        <LineString>
+          <coordinates>11.598730,48.134640,0.000000 11.598387,48.134680,0.000000 11.597743,48.135038,0.000000 11.597925,48.135721,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bajuwarenstr</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.666654,48.123943,0.000000 11.666440,48.123553,0.000000 11.666086,48.123042,0.000000 11.665587,48.122484,0.000000 11.664798,48.121541,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 9</name>
+        <description>Übergang Kreillerstraße, viele Rechtsabbieger kreuzen den Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-9000</styleUrl>
+        <LineString>
+          <coordinates>11.644993,48.126054,0.000000 11.644478,48.126169,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 5</name>
+        <description>Übergang Friedenspromenade, viele Rechtsabbieger kreuzen den Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5000</styleUrl>
+        <LineString>
+          <coordinates>11.683702,48.118434,0.000000 11.683102,48.118491,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kirchtruderinger Str</name>
+        <description>kein Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.673762,48.125861,0.000000 11.672373,48.126258,0.000000 11.671252,48.126602,0.000000 11.670388,48.126924,0.000000 11.669964,48.125965,0.000000 11.669653,48.125342,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 7</name>
+        <description>Übergang Schatzbogen, viele Rechtsabbieger kreuzen den Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-6000</styleUrl>
+        <LineString>
+          <coordinates>11.654348,48.124794,0.000000 11.653876,48.124880,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab3</name>
+        <description>stark befahrene Strasse und Kreuzung mit Rechtsabbiegern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.667792,48.140006,0.000000 11.666880,48.140085,0.000000 11.664444,48.140583,0.000000 11.663087,48.140644,0.000000 11.661918,48.140665,0.000000 11.661644,48.140665,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 3</name>
+        <description>Übergang Hagebaumarkt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5000</styleUrl>
+        <LineString>
+          <coordinates>11.688766,48.117918,0.000000 11.688252,48.117947,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab6</name>
+        <description>viele Linksabbieger kreuzen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.606659,48.139645,0.000000 11.606660,48.139713,0.000000 11.606407,48.139734,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 13</name>
+        <description>Abschüssiger schmaler, schlecht geteerter (aufbrechende Wurzeln) Radweg endet an (früh abends schon ausgeschalteter) Ampel</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-8000</styleUrl>
+        <LineString>
+          <coordinates>11.601978,48.133696,0.000000 11.601782,48.133763,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab8</name>
+        <description>Radweg zusammen mit Autos, steil und endet uneinsichtig auf Kopfsteinpflaster mit Randstein und Fussgängern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.598843,48.141045,0.000000 11.598580,48.141166,0.000000 11.598212,48.141247,0.000000 11.597400,48.141426,0.000000 11.597233,48.141539,0.000000 11.597182,48.141698,0.000000 11.597341,48.142206,0.000000 11.597284,48.142448,0.000000 11.597027,48.142573,0.000000 11.596681,48.142593,0.000000 11.596359,48.142464,0.000000 11.596254,48.142254,0.000000 11.596069,48.141830,0.000000 11.595866,48.141684,0.000000 11.595688,48.141666,0.000000 11.594664,48.141895,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab9b</name>
+        <description>nur durch Linie abgetrennt, parkende Autos auf dem Radweg, Buslinie kreuzt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.609173,48.136456,0.000000 11.608614,48.136296,0.000000 11.608464,48.136230,0.000000 11.607284,48.135898,0.000000 11.606838,48.135818,0.000000 11.605933,48.135721,0.000000 11.605708,48.135728,0.000000 11.605173,48.135706,0.000000 11.604748,48.135720,0.000000 11.604262,48.135735,0.000000 11.602929,48.135813,0.000000 11.602830,48.135835,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 8a</name>
+        <description>Ubahnaufgang mit Passanten</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5000</styleUrl>
+        <LineString>
+          <coordinates>11.647080,48.125779,0.000000 11.646372,48.125870,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab5c</name>
+        <description>stark befahren, kein Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4000</styleUrl>
+        <LineString>
+          <coordinates>11.651065,48.129384,0.000000 11.648399,48.130097,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ost NN Ab7c</name>
+        <description>verwirrende Kreuzung, Rechtsabbieger kreuzen den Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4000</styleUrl>
+        <LineString>
+          <coordinates>11.624592,48.135875,0.000000 11.624045,48.136018,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>HR Ost 11</name>
+        <description>Rechtsabbieger mit Grünem Pfeil kreuzen den Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-6000</styleUrl>
+        <LineString>
+          <coordinates>11.610317,48.132385,0.000000 11.609759,48.132556,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Fürstenrieder Str</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-3000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.502857,48.135559,0.000000 11.503222,48.143835,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Querung Vollmannstr</name>
+        <description>Ampelschaltung ungünstig&lt;br&gt;Maßnahme: vorgezogener Aufstellbereich</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-2000</styleUrl>
+        <LineString>
+          <coordinates>11.628706,48.150705,0.000000 11.628600,48.150990,0.000000 11.628234,48.151042,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mae West</name>
+        <description>schwierige Wegeführung, viel Verkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-3000</styleUrl>
+        <LineString>
+          <coordinates>11.621390,48.152150,0.000000 11.621389,48.153754,0.000000 11.618686,48.153597,0.000000 11.616905,48.153754,0.000000 11.615617,48.154084,0.000000 11.614319,48.152538,0.000000 11.610811,48.151385,0.000000 11.609287,48.150963,0.000000 11.608729,48.150927,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Am Bergsteig</name>
+        <description>kein Radweg, Pflastersteine&lt;br&gt;Maßnahme: Radweg auf der Wiese zwischen Fußwegund Parkstreifen oder Fahrradstr mit Asphalt</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.577248,48.116590,0.000000 11.577584,48.117574,0.000000 11.577841,48.118491,0.000000 11.578689,48.118849,0.000000 11.579418,48.119050,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Rheinstraße</name>
+        <description>eng, schlechter Belag, viel Pkw-Verkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2000</styleUrl>
+        <LineString>
+          <coordinates>11.586049,48.167345,0.000000 11.583302,48.167144,0.000000 11.580813,48.167087,0.000000 11.578002,48.166787,0.000000 11.566951,48.167760,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Karl-Wieninger-Weg</name>
+        <description>Einmündung ist meist durch parkende Fahrzeuge oder Anhänger versperrt. &lt;br&gt;Maßnahme: Absenken des Bürgersteigs in der Kurve und ZickzackMarkierung in der Einmündung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.488733,48.081634,0.000000 11.488904,48.081663,0.000000 11.489156,48.081813,0.000000 11.489350,48.081670,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Querung Geiselgasteig</name>
+        <description>Ist: keine Querungsmöglichkeit&lt;br&gt;Maßnahme: sicher Querung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3325</styleUrl>
+        <LineString>
+          <coordinates>11.547790,48.071527,0.000000 11.547049,48.071634,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hohenzollernstrasse Einbahn</name>
+        <description>Einkaufsstr., kein Anwohnerparken erlaubt&lt;br&gt;Maßnahme: Radweg gegen die Einbahn&lt;br&gt;(eine Seite der Parkplätze umwandeln)</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2550</styleUrl>
+        <LineString>
+          <coordinates>11.585298,48.159301,0.000000 11.582980,48.159816,0.000000 11.577106,48.160157,0.000000 11.575113,48.160320,0.000000 11.574057,48.160468,0.000000 11.572207,48.160516,0.000000 11.571146,48.160783,0.000000 11.568710,48.161220,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leonrodstr</name>
+        <description>kein Radweg oder Radstreifen auf der Straße&lt;br&gt;Maßnahme: geschützter Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3713</styleUrl>
+        <LineString>
+          <coordinates>11.539722,48.155394,0.000000 11.537790,48.154363,0.000000 11.536996,48.153676,0.000000 11.533480,48.153040,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wendl-Dietrich-Str</name>
+        <description>Ist: schmaler Radstreifen zwischen Straße mit Buslinie und Parkplätzen bei Tempo 50!&lt;br&gt;Maßnahme: geschützter Radweg und Tempo 30</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3906</styleUrl>
+        <LineString>
+          <coordinates>11.533053,48.152977,0.000000 11.529851,48.152316,0.000000 11.526933,48.151686,0.000000 11.520581,48.151113,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Winzererstr R.Lothstr</name>
+        <description>schmaler unebener Radstreifen&lt;br&gt;Maßnahme: Längsparker statt Querparker, Radweg verbessern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4488</styleUrl>
+        <LineString>
+          <coordinates>11.561742,48.161080,0.000000 11.561576,48.160643,0.000000 11.561378,48.160085,0.000000 11.561206,48.159602,0.000000 11.560702,48.158199,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Querung Schlicherweg</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.547098,48.071584,0.000000 11.547596,48.071512,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Schlicherweg gelb oder grün?</name>
+        <description>to do</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-757575-6000</styleUrl>
+        <LineString>
+          <coordinates>11.547098,48.071584,0.000000 11.545005,48.071835,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Feldmochingerstraße</name>
+        <description>Kein Radweg, viel Kfz Verkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2000</styleUrl>
+        <LineString>
+          <coordinates>11.521246,48.181935,0.000000 11.521387,48.178141,0.000000 11.520424,48.176677,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>derzeitige Altstadt Nord-Süd Querung</name>
+        <description>sehr eng, viele Fußgänger</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-3000</styleUrl>
+        <LineString>
+          <coordinates>11.566930,48.133459,0.000000 11.568003,48.133745,0.000000 11.568646,48.133831,0.000000 11.569827,48.133946,0.000000 11.571028,48.134676,0.000000 11.573410,48.135721,0.000000 11.574182,48.135392,0.000000 11.575148,48.135292,0.000000 11.576157,48.135807,0.000000 11.576908,48.136251,0.000000 11.577251,48.136652,0.000000 11.578335,48.137454,0.000000 11.579096,48.138460,0.000000 11.580228,48.139165,0.000000 11.581269,48.141567,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dachauer Str. am Westfriedhof</name>
+        <description>Radweg. Sehr starker Kfz-Verkehr!</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2000</styleUrl>
+        <LineString>
+          <coordinates>11.521890,48.175848,0.000000 11.528369,48.172524,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hackerbrücke, Grasserstr.</name>
+        <description>Kein Radweg. Häufige Konflikte mit Kfz-Verkehr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2000</styleUrl>
+        <LineString>
+          <coordinates>11.548791,48.143555,0.000000 11.548286,48.140429,0.000000 11.547432,48.139775,0.000000 11.547048,48.139301,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Feldmochingerstraße</name>
+        <description>Schlechter enger Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2000</styleUrl>
+        <LineString>
+          <coordinates>11.521124,48.186200,0.000000 11.521253,48.181980,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Verbindung zw Hackerbrücke u Nymphenburgerstr.</name>
+        <description>Radweg. Teils beengt. Mittlerer Kfz-Verkehr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-3000</styleUrl>
+        <LineString>
+          <coordinates>11.548762,48.143563,0.000000 11.549565,48.145999,0.000000 11.549798,48.146329,0.000000 11.551778,48.147429,0.000000 11.553098,48.148567,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linie 21</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.581264,48.124135,0.000000 11.582208,48.122789,0.000000 11.582036,48.121986,0.000000 11.581564,48.121328,0.000000 11.581607,48.120640,0.000000 11.581993,48.120239,0.000000 11.582422,48.119551,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kapuzinerstraße</name>
+        <description>Teilstück ab Lindwurmstraße&lt;br&gt;IST: viele motorisierte, schmaler Radstreifen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-1775</styleUrl>
+        <LineString>
+          <coordinates>11.558240,48.126262,0.000000 11.555686,48.128682,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Königsplatz</name>
+        <description>teils sehr schmal, teils Kopfsteinpflaster</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-5263</styleUrl>
+        <LineString>
+          <coordinates>11.559055,48.147577,0.000000 11.563851,48.146131,0.000000 11.563840,48.145866,0.000000 11.564366,48.145716,0.000000 11.564870,48.145923,0.000000 11.566522,48.145422,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Marsstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-6000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.556888,48.143826,0.000000 11.552360,48.145301,0.000000 11.551116,48.145716,0.000000 11.550236,48.145974,0.000000 11.549699,48.146102,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Marsstraße 2</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.549565,48.146099,0.000000 11.546127,48.146811,0.000000 11.545349,48.146951,0.000000 11.544694,48.146994,0.000000 11.544136,48.146961,0.000000 11.544002,48.146940,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Thalkirchener Brücke-Boschetsrieder Str</name>
+        <description>wie kommt man von der Boschetsrieder zur Thalkirchener Brücke? Auf der Straße und dann muss man hoch schieben auf dem Fußweg nach NW oder den Schmiedberg hoch radeln ohne Radweg nach SW&lt;br&gt;Die Alternative ist Greinerberg, Zennerstr. und Pognerstr.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-7000</styleUrl>
+        <LineString>
+          <coordinates>11.547566,48.101145,0.000000 11.546701,48.101283,0.000000 11.546351,48.100575,0.000000 11.545093,48.100436,0.000000 11.544393,48.100335,0.000000 11.542685,48.100027,0.000000 11.542486,48.099873,0.000000 11.542108,48.099923,0.000000 11.541629,48.100728,0.000000 11.541408,48.101176,0.000000 11.541368,48.101180,0.000000 11.541302,48.101150,0.000000 11.541236,48.100744,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Nördliche Auffahrtallee</name>
+        <description>kein Radweg, viele "Rechts vor Links-Kreuzungen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5456</styleUrl>
+        <LineString>
+          <coordinates>11.515241,48.158882,0.000000 11.527963,48.159344,0.000000 11.528413,48.159588,0.000000 11.530087,48.159731,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Südliche Auffahrtallee</name>
+        <description>kein Radweg, viele "Rechts vor Links"-Kreuzungen</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4681</styleUrl>
+        <LineString>
+          <coordinates>11.511526,48.158342,0.000000 11.528049,48.158943,0.000000 11.528542,48.158714,0.000000 11.530216,48.158815,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Werinherstr.</name>
+        <description>Radweg vorhanden (jedoch schmal + Dooring-Problematik von Beifahrern bei parkenden Autos)</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3906</styleUrl>
+        <LineString>
+          <coordinates>11.592507,48.114974,0.000000 11.594750,48.114960,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Werinherstr.</name>
+        <description>Radweg vorhanden (jedoch schmal + Dooring-Problematik von Beifahrern bei parkenden Autos)</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3906</styleUrl>
+        <LineString>
+          <coordinates>11.595554,48.114974,0.000000 11.597196,48.114974,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Werinherstr.</name>
+        <description>Radweg vorhanden (jedoch schmal)</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4100</styleUrl>
+        <LineString>
+          <coordinates>11.597196,48.114974,0.000000 11.599524,48.115089,0.000000 11.600983,48.115290,0.000000 11.601713,48.115461,0.000000 11.602163,48.115691,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Ungsteiner Str.</name>
+        <description>schlechter Belag, kein Radweg, enge Straße mit  oft entgegenkommenden Autos</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-4681</styleUrl>
+        <LineString>
+          <coordinates>11.597196,48.114974,0.000000 11.597131,48.114050,0.000000 11.597260,48.112510,0.000000 11.596949,48.111593,0.000000 11.597110,48.111314,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Frankenthaler Str. / Perlacher Weg</name>
+        <description>kein Radweg, aber ruhige Straße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4294</styleUrl>
+        <LineString>
+          <coordinates>11.597110,48.111314,0.000000 11.597260,48.111314,0.000000 11.597614,48.110390,0.000000 11.597850,48.109244,0.000000 11.597904,48.108814,0.000000 11.598076,48.108069,0.000000 11.598237,48.107438,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chiemgaustr. / Mittlerer Ring</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4875-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.596273,48.106643,0.000000 11.597722,48.107173,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chiemgaustr. / Mittlerer Ring</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3906-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.598269,48.107266,0.000000 11.600865,48.107868,0.000000 11.602593,48.108262,0.000000 11.604105,48.108527,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Nibelungenstr.</name>
+        <description>Radstreifen / Radweg, ABER Problematik der Enge durch Einbahnstr. bzw. Dooring</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4294</styleUrl>
+        <LineString>
+          <coordinates>11.531031,48.153704,0.000000 11.529980,48.153418,0.000000 11.527855,48.153089,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Nibelungenstr.</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-4488-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.513243,48.153890,0.000000 11.513994,48.154105,0.000000 11.525302,48.153003,0.000000 11.526954,48.152931,0.000000 11.527855,48.153089,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Hubertusstraße</name>
+        <description>Nebenstraße, wenig Verkehr, kein oder sehr schmaler Radweg </description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <LineString>
+          <coordinates>11.519680,48.158586,0.000000 11.520320,48.151000,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Würmradweg-Allach-Behringstr</name>
+        <description>grün oder gelb?</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2356</styleUrl>
+        <LineString>
+          <coordinates>11.461080,48.176323,0.000000 11.460811,48.176444,0.000000 11.460479,48.176358,0.000000 11.460372,48.176559,0.000000 11.460071,48.176494,0.000000 11.459900,48.176902,0.000000 11.459460,48.177374,0.000000 11.459824,48.178147,0.000000 11.459867,48.178712,0.000000 11.459610,48.180100,0.000000 11.460039,48.180522,0.000000 11.459942,48.180873,0.000000 11.460275,48.181917,0.000000 11.459470,48.183555,0.000000 11.459430,48.184360,0.000000 11.458998,48.185437,0.000000 11.459130,48.186230,0.000000 11.459481,48.186717,0.000000 11.459524,48.187668,0.000000 11.459910,48.188498,0.000000 11.459749,48.189285,0.000000 11.459277,48.189964,0.000000 11.458150,48.191040,0.000000 11.457925,48.191838,0.000000 11.458118,48.192825,0.000000 11.457078,48.194070,0.000000 11.457260,48.194960,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Gabrielenstr</name>
+        <description>wenig Verkehr, kein Radweg, keine Fahrradstr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3906</styleUrl>
+        <LineString>
+          <coordinates>11.538725,48.147413,0.000000 11.538952,48.148861,0.000000 11.539135,48.149551,0.000000 11.539347,48.150049,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Helne-Weber-Allee</name>
+        <description>to do</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2163</styleUrl>
+        <LineString>
+          <coordinates>11.539829,48.168292,0.000000 11.540044,48.165014,0.000000 11.542790,48.163340,0.000000 11.543327,48.163655,0.000000 11.546653,48.161694,0.000000 11.547382,48.161866,0.000000 11.547546,48.161695,0.000000 11.547838,48.161567,0.000000 11.548401,48.161684,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Forsthaus Kasten</name>
+        <description>Schotterweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3000</styleUrl>
+        <LineString>
+          <coordinates>11.418529,48.077161,0.000000 11.433935,48.089260,0.000000 11.435223,48.089747,0.000000 11.441917,48.087913,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Herterichstraße</name>
+        <description>Beidseitige Radwege auf diesem Abschnitt vorhanden, jedoch schmal. Maßnahmen: Verbreitern und sichtbarer machen.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3519</styleUrl>
+        <LineString>
+          <coordinates>11.507878,48.078402,0.000000 11.505875,48.078614,0.000000 11.503676,48.079174,0.000000 11.503139,48.079359,0.000000 11.500661,48.080549,0.000000 11.500524,48.080491,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>gelb_Thalkirchner Straße 114 bis Ecke Walterstraße</name>
+        <description>Sehr schmaler Radweg, den großteil der Strecke eingeklemmt zwischen Fußweg, parkenden Autos und Straßenverkehr mit 50km/h</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-3131</styleUrl>
+        <LineString>
+          <coordinates>11.564300,48.128095,0.000000 11.561884,48.125166,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Arnulfstraße</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2744-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.541588,48.145530,0.000000 11.541224,48.145422,0.000000 11.540859,48.145379,0.000000 11.540494,48.145422,0.000000 11.539722,48.145601,0.000000 11.539185,48.145773,0.000000 11.538777,48.145873,0.000000 11.537460,48.146164,0.000000 11.535607,48.146426,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Menzingerstraße</name>
+        <description>Ist: kein Radweg, keine Fahrradstraße&lt;br&gt;Maßnahme: Kombination aus Fahrradstraße und Radweg. In der Menzinger Straße wäre problemlos ein Fahrradweg realisierbar, die Straße ist breit genug. Im südlichsten Abschnitt ist für 200 m bereits einer Vorhanden.&lt;br&gt;Initiatorin: Julia Lindemann</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-2744</styleUrl>
+        <LineString>
+          <coordinates>11.474248,48.177413,0.000000 11.474334,48.176397,0.000000 11.475300,48.175153,0.000000 11.479591,48.172205,0.000000 11.482702,48.170301,0.000000 11.485728,48.168284,0.000000 11.487723,48.166767,0.000000 11.488882,48.165579,0.000000 11.494189,48.165516,0.000000 11.503860,48.164369,0.000000 11.506878,48.163850,0.000000 11.510962,48.161840,0.000000 11.511483,48.160632,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Zentralländstraße</name>
+        <description>Kein Radweg, Fußweg für Kinder mit Rad zu schmal, Auto zu schnell</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-2000</styleUrl>
+        <LineString>
+          <coordinates>11.548283,48.100912,0.000000 11.548090,48.099608,0.000000 11.547983,48.098576,0.000000 11.547747,48.097515,0.000000 11.547146,48.096885,0.000000 11.546802,48.096412,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>rot_Herterichstr</name>
+        <description>gefährliche Kreuzung</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-4000</styleUrl>
+        <LineString>
+          <coordinates>11.507878,48.078402,0.000000 11.508948,48.078160,0.000000 11.509101,48.078208,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>to do Greinerberg</name>
+        <description>Ist:&lt;br&gt;Soll/Maßnahme: </description>
+        <visibility>1</visibility>
+        <styleUrl>#line-757575-4875</styleUrl>
+        <LineString>
+          <coordinates>11.546609,48.101384,0.000000 11.545944,48.102402,0.000000 11.545837,48.103964,0.000000 11.541360,48.103140,0.000000 11.541368,48.101180,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pienzenauerstr</name>
+        <description>Alternative Mauerkircherstr&lt;br&gt;Quelle BürgerInnen Radlnetz 2018</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-2356</styleUrl>
+        <LineString>
+          <coordinates>11.606096,48.156419,0.000000 11.607066,48.156039,0.000000 11.606965,48.155939,0.000000 11.607024,48.155839,0.000000 11.607383,48.155671,0.000000 11.607812,48.156251,0.000000 11.607930,48.156501,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

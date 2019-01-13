@@ -1,0 +1,167 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="docid">
+    <name>doc name</name>
+    <description>doc description</description>
+    <visibility>1</visibility>
+    <Folder>
+      <name>A_Radlring-Altstadt</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>Radlring_Karl-Scharnagl-Ring</name>
+        <description>2,30 meter breiter und geschützter Radweg</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-097138-6425</styleUrl>
+        <LineString>
+          <coordinates>11.584579,48.138353,0.000000 11.584826,48.139111,0.000000 11.584729,48.139376,0.000000 11.583002,48.141037,0.000000 11.583002,48.141266,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Kreuzung Maximilian-Str.</name>
+        <description>Ist: Benachteiligung Ampelschaltung an Maximilianstraße &lt;br&gt;Maßnahme: Ampelschaltung an Maximilianstraße verbessern</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5650</styleUrl>
+        <LineString>
+          <coordinates>11.584579,48.138353,0.000000 11.584450,48.137869,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Thomas-Wimmer-R.</name>
+        <description>Radfreundliche Lösung nach Bauarbeiten Thomas-Wimmer-R.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000</styleUrl>
+        <LineString>
+          <coordinates>11.584450,48.137869,0.000000 11.583828,48.135972,0.000000 11.582251,48.134977,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Blumenstraße
+
+</name>
+        <description>(ab Corneliusstr.)</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-6000</styleUrl>
+        <LineString>
+          <coordinates>11.573603,48.133473,0.000000 11.570846,48.131926,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Hofgartenstraße</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/rVy4rf-PLqNrYSJ2im57sSOH9D37TDqzDZ0qbM4ZTMlQAL4CmNCWkAYmZJNfrbQ_AB2qY3nBykkD7-MFzEt9r246vOmXIg0g6H5268ZLIWMAI-KCVpGL4R3lzHFPXFv3lPHpf45cgf9D885iLyrNK80MM1MEfdJoDdLmgEGPczrhSHuy9LtKpvtyvw_XHUahwuKLs_K6MKRqr_oy4gkCG0sneUJ2DBCn8xiJKMO6d_FTPKcLKisEPqWa8Xhs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;markierte Wegeführung im Hofgarten,&lt;br&gt;Hofgartenstraße als Fahrradstraße</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/rVy4rf-PLqNrYSJ2im57sSOH9D37TDqzDZ0qbM4ZTMlQAL4CmNCWkAYmZJNfrbQ_AB2qY3nBykkD7-MFzEt9r246vOmXIg0g6H5268ZLIWMAI-KCVpGL4R3lzHFPXFv3lPHpf45cgf9D885iLyrNK80MM1MEfdJoDdLmgEGPczrhSHuy9LtKpvtyvw_XHUahwuKLs_K6MKRqr_oy4gkCG0sneUJ2DBCn8xiJKMO6d_FTPKcLKisEPqWa8Xhs</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.577680,48.142609,0.000000 11.582680,48.141334,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Maximilanplatz</name>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/XWIODSceHwT1QwgXYOQY3JiiRe0DwhFQsTTWw-oM0RXbu8_Bh27v3AB2mkH94Rq1Tvdn22hCY-7LYhS6Ny-uWGoxJKgV00dpYcZNgnugB8ezIZaZuCnTVWdnq0bPjn9rF-PPWGJuAN4hHGCHecLEJjIe1F0-WgxWthsww8VbrXlaQMp1QfnmfPxAKm7Qkg-M6OpqTJKBiIxsp1J4dFraObLqvfSrMnXh8QEXsDtf7p7hPtsW5bLJGBzl" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: geschützte und breite Radwege</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/XWIODSceHwT1QwgXYOQY3JiiRe0DwhFQsTTWw-oM0RXbu8_Bh27v3AB2mkH94Rq1Tvdn22hCY-7LYhS6Ny-uWGoxJKgV00dpYcZNgnugB8ezIZaZuCnTVWdnq0bPjn9rF-PPWGJuAN4hHGCHecLEJjIe1F0-WgxWthsww8VbrXlaQMp1QfnmfPxAKm7Qkg-M6OpqTJKBiIxsp1J4dFraObLqvfSrMnXh8QEXsDtf7p7hPtsW5bLJGBzl</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.567981,48.140604,0.000000 11.573088,48.142208,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Maximilianplatz</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.573088,48.142208,0.000000 11.573281,48.142437,0.000000 11.573689,48.143439,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Karlsplatz-Sonnenstraße</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/rdLghq7HL1E7kzwWJUiVa87BqWiaPYbB01f4HEiPrCL-Lb2cwtXG87DmcWepVI89odPpT6tElT50WNRFlR057_j5d8xgBgbNxjZMGIPwk174YJ-10YRpZPemHo-yvUg2PzF1rzrn2CMWFMRTGi87NWP0mLfLcQfqySa1W4rPCVaNtd2pDlpiItGV381dgrXJwjxU2aNq4eg8HmZLjjl65SvWXI5XPgV1W1N0rk0kXZL78dZ3IB6miCDg" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-6000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/rdLghq7HL1E7kzwWJUiVa87BqWiaPYbB01f4HEiPrCL-Lb2cwtXG87DmcWepVI89odPpT6tElT50WNRFlR057_j5d8xgBgbNxjZMGIPwk174YJ-10YRpZPemHo-yvUg2PzF1rzrn2CMWFMRTGi87NWP0mLfLcQfqySa1W4rPCVaNtd2pDlpiItGV381dgrXJwjxU2aNq4eg8HmZLjjl65SvWXI5XPgV1W1N0rk0kXZL78dZ3IB6miCDg</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.566415,48.140633,0.000000 11.565406,48.139659,0.000000 11.565084,48.139316,0.000000 11.564634,48.136795,0.000000 11.564591,48.136380,0.000000 11.566608,48.133430,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Sonnenstraße</name>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/BQ6QjHW0BlOGvtyN-sw0FSZXqEeAnpCuSNfdcd8n_bkYzlYitHy-DkKcoModttqn_3EICwShPUQltYTKxrmZ0ofIONdFfVolVoDmDH7ywnenABQo9fep0L7pwNe2tHjvMUWpgL7NkSzgrVokmBVYG6T0DswfUGAnCwQZqP4PdlFgDSvNUlbdE3PRETfuogpBlqEYUNh-J3QdwiiOsbJwKp329qyU2RRS-UfUlROwPRY6e0USX1TWb0ucnjs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: geschützter, breiter Radweg, getrennt von KfZ- und Fußgängerverkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-A52714-6000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/BQ6QjHW0BlOGvtyN-sw0FSZXqEeAnpCuSNfdcd8n_bkYzlYitHy-DkKcoModttqn_3EICwShPUQltYTKxrmZ0ofIONdFfVolVoDmDH7ywnenABQo9fep0L7pwNe2tHjvMUWpgL7NkSzgrVokmBVYG6T0DswfUGAnCwQZqP4PdlFgDSvNUlbdE3PRETfuogpBlqEYUNh-J3QdwiiOsbJwKp329qyU2RRS-UfUlROwPRY6e0USX1TWb0ucnjs</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.566737,48.133416,0.000000 11.565181,48.136015,0.000000 11.565117,48.136595,0.000000 11.565546,48.139151,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Karlsplatz</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-5000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.565567,48.139237,0.000000 11.566898,48.140418,0.000000 11.567423,48.140411,0.000000 11.567938,48.140533,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Maximilanplatz</name>
+        <visibility>1</visibility>
+        <styleUrl>#line-C2185B-6000-nodesc</styleUrl>
+        <LineString>
+          <coordinates>11.573689,48.143439,0.000000 11.573474,48.143389,0.000000 11.573088,48.142931,0.000000 11.572584,48.142738,0.000000 11.569247,48.141664,0.000000 11.567895,48.140726,0.000000 11.567531,48.140597,0.000000 11.566554,48.140604,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Blumenstraße  -
+Sendling Tor</name>
+        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/OXWi0bz4MTYOhXdfkI70utb_kEbl1s2tpcmvlFw7TpNnVe1z175KkzdPWbQGPuUcyOFYcj0ySZs_5gwJKRov1DRx330-StZz8jlKioYGPMHPC-1fy5UI6hhEqm27qZvlgsfhwdR8pBehda_77I5AWMkpkSstjPt8MLYF28OS1zOMZgnCA9HiLhEs_wYGS4SgRr3fCRVzdjsNiTtP5tc0umGIn16guL7kBjINWpOVRQ3YhXU-aAnNE7gz" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: geschützter, breiter Radweg, getrennt von KfZ- und Fußgängerverkehr</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-000000-6000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/OXWi0bz4MTYOhXdfkI70utb_kEbl1s2tpcmvlFw7TpNnVe1z175KkzdPWbQGPuUcyOFYcj0ySZs_5gwJKRov1DRx330-StZz8jlKioYGPMHPC-1fy5UI6hhEqm27qZvlgsfhwdR8pBehda_77I5AWMkpkSstjPt8MLYF28OS1zOMZgnCA9HiLhEs_wYGS4SgRr3fCRVzdjsNiTtP5tc0umGIn16guL7kBjINWpOVRQ3YhXU-aAnNE7gz</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.570846,48.131926,0.000000 11.570331,48.131790,0.000000 11.568958,48.132270,0.000000 11.568314,48.132642,0.000000 11.567262,48.132671,0.000000 11.566737,48.133416,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Frauenstraße</name>
+        <description>/ Blumenstraße&lt;br&gt;(bis Corneliusstr.) Soll: Einbahnstraße am Viktualienmarkt (d.h. Frauenstr/Blumenstr. bis Ecke Corneliusstraße.</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-000000-6000</styleUrl>
+        <LineString>
+          <coordinates>11.582251,48.134977,0.000000 11.581349,48.134662,0.000000 11.577015,48.134418,0.000000 11.576221,48.134461,0.000000 11.575513,48.134690,0.000000 11.573603,48.133473,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Radlring_Brienner Straße</name>
+        <description>&lt;img src="https://lh6.googleusercontent.com/proxy/khKSsZa7m6E-1P3DpwCAt3Q7xhuuNXN042KgSjws9F02dqr4GuCwLcw0xiKk58MmIMPbBThOuWVUUy3HJpQqEXMMWaxGyfoErx9hXbRjL4PPg82k8kKd3hXBc7lM9MNnsyazoXmmFcGn9SGjgviOZHdvUVLo3hE2V4vjJd9yWqOLb-3Wy0X_JHjA7xTbIIflFiBDsV9116GZ-Xr2TgSK2zDOThb-mqKhJaPPk4_xXO3Ou610_nGdlABE_Cw" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: Brienner Straße wird zwischen Maximiliansplatz in Richtung Odeonsplatz zur Einbahnstraße&lt;br&gt;Beschlossen 07.2018, Bau 2019?</description>
+        <visibility>1</visibility>
+        <styleUrl>#line-000000-6000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/khKSsZa7m6E-1P3DpwCAt3Q7xhuuNXN042KgSjws9F02dqr4GuCwLcw0xiKk58MmIMPbBThOuWVUUy3HJpQqEXMMWaxGyfoErx9hXbRjL4PPg82k8kKd3hXBc7lM9MNnsyazoXmmFcGn9SGjgviOZHdvUVLo3hE2V4vjJd9yWqOLb-3Wy0X_JHjA7xTbIIflFiBDsV9116GZ-Xr2TgSK2zDOThb-mqKhJaPPk4_xXO3Ou610_nGdlABE_Cw</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <coordinates>11.573689,48.143439,0.000000 11.577680,48.142609,0.000000</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

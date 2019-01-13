@@ -7,12 +7,12 @@ if sys.version_info.major < 3:
     sys.setdefaultencoding('utf-8')
 
 
-doc = None
-with open("RadlVorrangnetz-Master.kml", "r") as fp:
-    doc = fp.read()
+# fastkml usage examples https://github.com/cleder/fastkml/tree/master/examples
 
 k = kml.KML()
-k.from_string(doc)
+with open("RadlVorrangnetz-Master.kml", "r") as fp:
+    doc = fp.read()
+    k.from_string(doc)
 
 features = list(k.features())
 

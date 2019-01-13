@@ -2,8 +2,7 @@
 
 Visualisierung per umap: https://umap.openstreetmap.fr/de/map/munichways_282033
 
-<iframe width="100%" height="300px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/munichways_282033?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/munichways_282033">Vollbildanzeige</a></p>
-
+![image](https://user-images.githubusercontent.com/40266/51090140-afd48b80-1777-11e9-80a1-7e5b3141f9d2.png)
 
 ## Layer zu umap hinzufügen
 * Karte in Bearbeiten-Modus schalten

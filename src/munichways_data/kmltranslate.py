@@ -7,8 +7,11 @@ class KMLTranslator:
     """
     Reads in RadlVorrangnetz KML from Google MyMaps, processes it and produces KML files that can be read in by uMap
     """
-    def __init__(self, input_file='RadlVorrangnetz-Master.kml'):
+    def __init__(self,
+                 input_file='RadlVorrangnetz-Master.kml',
+                 output_dir='output/'):
         self.input_file = input_file
+        self.output_dir = output_dir
         self.k = fastkml.kml.KML()
         self.features = None
         self.layers = None
@@ -35,13 +38,15 @@ class KMLTranslator:
             k_out = fastkml.kml.KML()
             ns = '{http://www.opengis.net/kml/2.2}'
 
-            # Create a KML Document and add it to the KML root object
+            # Create a KML document and add it to the KML root object
             doc = fastkml.kml.Document(ns, 'docid', 'doc name', 'doc description')
             k_out.append(doc)
+
+            # Add layer to KML document
             doc.append(layer)
 
-            # Write each layer to separate KML file
-            with open(u"{}.kml".format(layer.name), "w") as fp:
+            # Write KML object for this layer to KML file
+            with open(u"{}{}.kml".format(self.output_dir, layer.name), "w") as fp:
                 fp.write(k_out.to_string(prettyprint=True))
 
 

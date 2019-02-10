@@ -8,7 +8,7 @@
       <visibility>1</visibility>
       <Placemark>
         <name>Olympiapark-Nord-Feldbahnstr</name>
-        <description>&lt;img src="https://lh5.googleusercontent.com/rBA77WaEe_UuPNndBIJIZ5xN5uvTdZSydzeM7U4V6vXZgGQPWkEzObRqWeIVIT0O_RxuWqPt0NDV_zZgbk_NMvDdyfnTMpTyRpxAmez6hp4-ShfW3oTBEDnq5UmLkkYNwWEt2A" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Schotter mit SchlaglÃ¶chern&lt;br&gt;MaÃŸnahme: Belag verbessern</description>
+        <description>&lt;img src="https://lh5.googleusercontent.com/rBA77WaEe_UuPNndBIJIZ5xN5uvTdZSydzeM7U4V6vXZgGQPWkEzObRqWeIVIT0O_RxuWqPt0NDV_zZgbk_NMvDdyfnTMpTyRpxAmez6hp4-ShfW3oTBEDnq5UmLkkYNwWEt2A" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Schotter mit Schlaglöchern&lt;br&gt;Maßnahme: Belag verbessern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4875</styleUrl>
         <ExtendedData>
@@ -42,7 +42,7 @@
       </Placemark>
       <Placemark>
         <name>Zillertalstr</name>
-        <description>MaÃŸnahme: FahrradstraÃŸe</description>
+        <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5814</styleUrl>
         <LineString>
@@ -50,8 +50,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>HeÃŸstraÃŸe</name>
-        <description>MaÃŸnahme: FahrradstraÃŸe</description>
+        <name>Heßstraße</name>
+        <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5814</styleUrl>
         <LineString>
@@ -60,7 +60,7 @@
       </Placemark>
       <Placemark>
         <name>Kapuzienerstr</name>
-        <description>breiter Radweg auf der Fahrbahn vorhanden&lt;br&gt;teilweise zwischen Fahrspur und parkenden Autos.&lt;br&gt;MaÃŸnahme: gechÃ¼tzte Radwege</description>
+        <description>breiter Radweg auf der Fahrbahn vorhanden&lt;br&gt;teilweise zwischen Fahrspur und parkenden Autos.&lt;br&gt;Maßnahme: gechützte Radwege</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5429</styleUrl>
         <LineString>
@@ -68,7 +68,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Gotthardstr - stadtauswÃ¤rts
+        <name>Gotthardstr - stadtauswärts
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2925-nodesc</styleUrl>
@@ -77,7 +77,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Beethoven-NuÃŸbaum</name>
+        <name>Beethoven-Nußbaum</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5814-nodesc</styleUrl>
         <LineString>
@@ -85,7 +85,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>TÃ¼bingerstr</name>
+        <name>Tübingerstr</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5814-nodesc</styleUrl>
         <LineString>
@@ -93,7 +93,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>WaisenhausstraÃŸe</name>
+        <name>Waisenhausstraße</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6199-nodesc</styleUrl>
         <LineString>
@@ -101,7 +101,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>TintorettostraÃŸe</name>
+        <name>Tintorettostraße</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5429-nodesc</styleUrl>
         <LineString>
@@ -109,7 +109,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Birnauer StraÃŸe
+        <name>Birnauer Straße
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5814-nodesc</styleUrl>
@@ -119,7 +119,7 @@
       </Placemark>
       <Placemark>
         <name>Petruelpark</name>
-        <description>Viele FuÃŸgÃ¤nger, kein gerader Radweg, 90 grad Kurven, blendende StÃ©hlen&lt;br&gt;MaÃŸnahme: geraden Radweg, getrennt von FuÃŸgÃ¤ngern</description>
+        <description>Viele Fußgänger, kein gerader Radweg, 90 grad Kurven, blendende Stéhlen&lt;br&gt;Maßnahme: geraden Radweg, getrennt von Fußgängern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6391</styleUrl>
         <LineString>
@@ -177,7 +177,7 @@
       </Placemark>
       <Placemark>
         <name>Querung Keferloher str</name>
-        <description>UnÃ¼bersichtlicher Ãœbergang</description>
+        <description>Unübersichtlicher Übergang</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5650</styleUrl>
         <LineString>
@@ -259,7 +259,7 @@
       <Placemark>
         <name>Gotthardstr Kurve Parkplatz
 </name>
-        <description>Kurve Ã¼ber Parkplatz begradigen</description>
+        <description>Kurve über Parkplatz begradigen</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4658</styleUrl>
         <LineString>
@@ -295,9 +295,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Isarradweg Zeppelinstr MÃ¼ller'sches Volksbad
+        <name>gelb_Isarradweg Zeppelinstr Müller'sches Volksbad
 </name>
-        <description>sehr eng. Zu schmal fÃ¼r so viele Radler, Ã¼berholen gefÃ¤hrlich, parkende Autos direkt daneben, fÃ¼r die Parkuhren muss man Ã¼ber den Radweg laufen (mehr Platz durch weniger ParkplÃ¤tze?)</description>
+        <description>sehr eng. Zu schmal für so viele Radler, überholen gefährlich, parkende Autos direkt daneben, für die Parkuhren muss man über den Radweg laufen (mehr Platz durch weniger Parkplätze?)</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6231</styleUrl>
         <LineString>
@@ -305,8 +305,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_KapuzinerstraÃŸe</name>
-        <description>breite Radwege aber ungeschÃ¼tzt</description>
+        <name>gelb_Kapuzinerstraße</name>
+        <description>breite Radwege aber ungeschützt</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-7000</styleUrl>
         <LineString>
@@ -314,7 +314,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_WeiÃŸenburger StraÃŸe</name>
+        <name>gelb_Weißenburger Straße</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6000-nodesc</styleUrl>
         <LineString>
@@ -322,8 +322,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_WaldstraÃŸe</name>
-        <description>MaÃŸnahme: FahrradstraÃŸe</description>
+        <name>gelb_Waldstraße</name>
+        <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6000</styleUrl>
         <LineString>
@@ -331,8 +331,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_UnterfÃ¼hrung</name>
-        <description>zu schmal fÃ¼r beide Richtungen + FuÃŸgÃ¤nger</description>
+        <name>gelb_Unterführung</name>
+        <description>zu schmal für beide Richtungen + Fußgänger</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-7000</styleUrl>
         <LineString>
@@ -349,8 +349,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_St. Augustinus-StraÃŸe</name>
-        <description>kein Radweg. Breite ruhige Strasse, aber beidseitig befahren, Radweg wÃ¼rde helfen</description>
+        <name>gelb_St. Augustinus-Straße</name>
+        <description>kein Radweg. Breite ruhige Strasse, aber beidseitig befahren, Radweg würde helfen</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6000</styleUrl>
         <LineString>
@@ -359,7 +359,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Freibadstr</name>
-        <description>FahrradstraÃŸe</description>
+        <description>Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3888</styleUrl>
         <LineString>
@@ -368,7 +368,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Donaustr</name>
-        <description>MaÃŸnahme: FahrradstraÃŸe</description>
+        <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5814</styleUrl>
         <LineString>
@@ -377,7 +377,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Brombergstr</name>
-        <description>MaÃŸnahme: FahrradstraÃŸe</description>
+        <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4658</styleUrl>
         <LineString>
@@ -395,7 +395,7 @@
       <Placemark>
         <name>gelb_Schrammingerweg
 </name>
-        <description>Waldweg ohne Autos, aber in schlechter QualitÃ¤t</description>
+        <description>Waldweg ohne Autos, aber in schlechter Qualität</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-7000</styleUrl>
         <LineString>
@@ -403,8 +403,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_ArcisstraÃŸe</name>
-        <description>Ist: schmaler Radweg, LÃ¼cke Kreuzung Luisenstr Richtung Hbf&lt;br&gt;&lt;br&gt;MaÃŸnahme: &lt;br&gt;- echte FahrradstraÃŸe,&lt;br&gt;- Querung Luisenstr. Richtung Hbf</description>
+        <name>gelb_Arcisstraße</name>
+        <description>Ist: schmaler Radweg, Lücke Kreuzung Luisenstr Richtung Hbf&lt;br&gt;&lt;br&gt;Maßnahme: &lt;br&gt;- echte Fahrradstraße,&lt;br&gt;- Querung Luisenstr. Richtung Hbf</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5650</styleUrl>
         <LineString>
@@ -421,7 +421,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Alternative AnschluÃŸ Olymia Nord Sapporobogen</name>
+        <name>Alternative Anschluß Olymia Nord Sapporobogen</name>
         <description>kein Radweg, wenig motorisierte</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2744</styleUrl>
@@ -430,8 +430,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>FernpassstraÃŸe</name>
-        <description>Kein Radweg, wenig Verkehr&lt;br&gt;MaÃŸnahme: FahrradstraÃŸe</description>
+        <name>Fernpassstraße</name>
+        <description>Kein Radweg, wenig Verkehr&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6038</styleUrl>
         <LineString>
@@ -439,8 +439,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Querung Albert-RoÃŸhaupter-Str - Fernpassstr</name>
-        <description>Ist: Zick-Zack ohne Ampel&lt;br&gt;MaÃŸnahme:Â  geradlinige FÃ¼hrung mit Ampel</description>
+        <name>Querung Albert-Roßhaupter-Str - Fernpassstr</name>
+        <description>Ist: Zick-Zack ohne Ampel&lt;br&gt;Maßnahme:  geradlinige Führung mit Ampel</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5263</styleUrl>
         <LineString>
@@ -449,7 +449,7 @@
       </Placemark>
       <Placemark>
         <name>Gotthardstr. 4-spurig</name>
-        <description>hier wÃ¤re Platz fÃ¼r einen breiten Radweg</description>
+        <description>hier wäre Platz für einen breiten Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5456</styleUrl>
         <LineString>
@@ -467,7 +467,7 @@
       <Placemark>
         <name>rot_Querung Richard-Strauss-Str
 </name>
-        <description>MaÃŸnahme: Ampelanlage</description>
+        <description>Maßnahme: Ampelanlage</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5236</styleUrl>
         <LineString>
@@ -477,7 +477,7 @@
       <Placemark>
         <name>rot_Querung Weltenburger Str
 </name>
-        <description>MaÃŸnahme: gerader Ãœbergang mit Ampel</description>
+        <description>Maßnahme: gerader Übergang mit Ampel</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-4658</styleUrl>
         <LineString>
@@ -485,8 +485,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Friedrich-Eckhart-StraÃŸe</name>
-        <description>MaÃŸnahme: QuerungsmÃ¶glichkeit schaffen, Ampel</description>
+        <name>rot_Friedrich-Eckhart-Straße</name>
+        <description>Maßnahme: Querungsmöglichkeit schaffen, Ampel</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5043</styleUrl>
         <LineString>
@@ -494,7 +494,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_LudwigsbrÃ¼cke</name>
+        <name>rot_Ludwigsbrücke</name>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6199-nodesc</styleUrl>
         <LineString>
@@ -502,9 +502,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_WestendstraÃŸe - Kreuzung
+        <name>rot_Westendstraße - Kreuzung
 </name>
-        <description>Kurven U-Bahneingang begradigen&lt;br&gt;Querung WestendstraÃŸe verbessern</description>
+        <description>Kurven U-Bahneingang begradigen&lt;br&gt;Querung Westendstraße verbessern</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5814</styleUrl>
         <LineString>
@@ -512,9 +512,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Parkhaus Donnersberger BrÃ¼cke
+        <name>rot_Parkhaus Donnersberger Brücke
 </name>
-        <description>Radweg in der UnterfÃ¼hrung Donnersberger BrÃ¼cke anpassen</description>
+        <description>Radweg in der Unterführung Donnersberger Brücke anpassen</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5814</styleUrl>
         <LineString>
@@ -522,8 +522,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_ZweibrÃ¼ckenstraÃŸe</name>
-        <description>das Ã¼bliche Innenstadt-Problem mit den Ã¼blichen LÃ¶sungsmÃ¶glichkeiten:&lt;br&gt;eine Fahrspur (pro Seite, da Bus in der Mitte) auflÃ¶sen und zum Radweg erklÃ¤ren (Radweg unbedingt von den vielen FuÃŸgÃ¤ngern trennen!), Isartor-Marienplatz Autos so weit wie mÃ¶glich raus aus der Innenstadt;&lt;br&gt;mehr AbstellplÃ¤tze!</description>
+        <name>rot_Zweibrückenstraße</name>
+        <description>das übliche Innenstadt-Problem mit den üblichen Lösungsmöglichkeiten:&lt;br&gt;eine Fahrspur (pro Seite, da Bus in der Mitte) auflösen und zum Radweg erklären (Radweg unbedingt von den vielen Fußgängern trennen!), Isartor-Marienplatz Autos so weit wie möglich raus aus der Innenstadt;&lt;br&gt;mehr Abstellplätze!</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5814</styleUrl>
         <LineString>
@@ -531,7 +531,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_TivolibrÃ¼cke</name>
+        <name>rot_Tivolibrücke</name>
         <description>Radweg auf 2. Kfz-Spur</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6199</styleUrl>
@@ -550,9 +550,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Kreuzung SchleiÃŸheimer/Petruelring
+        <name>rot_Kreuzung Schleißheimer/Petruelring
 </name>
-        <description>sehr lange Rotphase, Idee Radlkreisel SchleiÃŸpetruel</description>
+        <description>sehr lange Rotphase, Idee Radlkreisel Schleißpetruel</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6006</styleUrl>
         <LineString>
@@ -581,7 +581,7 @@
       <Placemark>
         <name>rot_Querung Stemmer Hof
 </name>
-        <description>MaÃŸnahme: RadwegfÃ¼hrung verbessern</description>
+        <description>Maßnahme: Radwegführung verbessern</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5621</styleUrl>
         <LineString>
@@ -589,9 +589,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Querung TheresienhÃ¶he
+        <name>rot_Querung Theresienhöhe
 </name>
-        <description>MaÃŸnahme: bevorrechtigung Radwege</description>
+        <description>Maßnahme: bevorrechtigung Radwege</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6391</styleUrl>
         <LineString>
@@ -600,7 +600,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Mozartstr</name>
-        <description>kein Radweg&lt;br&gt;MaÃŸnahme: FahrradstraÃŸe</description>
+        <description>kein Radweg&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6006</styleUrl>
         <LineString>
@@ -608,7 +608,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Colmarer/Sankt Wedel StraÃŸe </name>
+        <name>rot_Colmarer/Sankt Wedel Straße </name>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5429-nodesc</styleUrl>
         <LineString>
@@ -616,8 +616,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_TÃ¶lzerstr</name>
-        <description>BÃ¼rgerversammlung BA6 am 26.10.2017</description>
+        <name>rot_Tölzerstr</name>
+        <description>Bürgerversammlung BA6 am 26.10.2017</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6006</styleUrl>
         <LineString>
@@ -626,7 +626,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Goethestr</name>
-        <description>MaÃŸnahme: EinbahnstraÃŸe</description>
+        <description>Maßnahme: Einbahnstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6006</styleUrl>
         <LineString>
@@ -643,7 +643,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Hauptbahnhof</name>
-        <description>MaÃŸnahme: QuerungsmÃ¶glichkeit fÃ¼r Radler</description>
+        <description>Maßnahme: Querungsmöglichkeit für Radler</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5429</styleUrl>
         <LineString>
@@ -652,7 +652,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Prielmayerstr</name>
-        <description>- PrielmayerstraÃŸe als FahrradstraÃŸe, Ã–ffnung entgegen der EinbahnstraÃŸe&lt;br&gt;- ArnulfstraÃŸe am Hauptbahnhof als FahrradstraÃŸe</description>
+        <description>- Prielmayerstraße als Fahrradstraße, Öffnung entgegen der Einbahnstraße&lt;br&gt;- Arnulfstraße am Hauptbahnhof als Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5429</styleUrl>
         <LineString>
@@ -679,7 +679,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Querung Milbertshoferner str</name>
-        <description>Bettelampel&lt;br&gt;MaÃŸnahme: GrÃ¼n Radler, Kontaktschleife fÃ¼r KfZ</description>
+        <description>Bettelampel&lt;br&gt;Maßnahme: Grün Radler, Kontaktschleife für KfZ</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5844</styleUrl>
         <LineString>
@@ -687,9 +687,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_MÃ¼llerisches Volksbad
+        <name>rot_Müllerisches Volksbad
 </name>
-        <description>viel zu schmal, ein Ãœbergang mit Ampel Ã¼ber die LudwigsbrÃ¼cke wÃ¼rde das Problem lÃ¶sen (schon in Planung, oder?)</description>
+        <description>viel zu schmal, ein Übergang mit Ampel über die Ludwigsbrücke würde das Problem lösen (schon in Planung, oder?)</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5236</styleUrl>
         <LineString>
@@ -697,7 +697,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_LiebigstraÃŸe</name>
+        <name>rot_Liebigstraße</name>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-7000-nodesc</styleUrl>
         <LineString>
@@ -748,7 +748,7 @@
       <Placemark>
         <name>rot_Kreuzung Freibadstr-Pilgersheimer
 </name>
-        <description>Vorfahrt Ã¤ndern Richtung FreibadstraÃŸe</description>
+        <description>Vorfahrt ändern Richtung Freibadstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5236</styleUrl>
         <LineString>
@@ -757,7 +757,7 @@
       </Placemark>
       <Placemark>
         <name>Claude-Lorrain-Str</name>
-        <description>MaÃŸnahme: LinksabiegemÃ¶glichkeit zur BrÃ¼cke&lt;br&gt;Vorgezogene AufstellflÃ¤che</description>
+        <description>Maßnahme: Linksabiegemöglichkeit zur Brücke&lt;br&gt;Vorgezogene Aufstellfläche</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-2540</styleUrl>
         <LineString>
@@ -765,9 +765,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Kreuzung Albert-RoÃŸhaupt-StraÃŸe
+        <name>Kreuzung Albert-Roßhaupt-Straße
 </name>
-        <description>U.Bahn Harras, Bettelampel!&lt;br&gt;MaÃŸnahme:&lt;br&gt;Verbesserung der Querung Albert-RoÃŸhaupt.StraÃŸe, Bettelampel ersetzen</description>
+        <description>U.Bahn Harras, Bettelampel!&lt;br&gt;Maßnahme:&lt;br&gt;Verbesserung der Querung Albert-Roßhaupt.Straße, Bettelampel ersetzen</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6776</styleUrl>
         <LineString>
@@ -784,7 +784,7 @@
       </Placemark>
       <Placemark>
         <name>Olympiapark Coubertinplatz</name>
-        <description>kein Radweg, massiv FussgÃ¤nger, hÃ¤ufig gesperrt bei Events (auch Werktags)&lt;br&gt;MaÃŸnahme:Â  Umgehung bauen und ausschildern</description>
+        <description>kein Radweg, massiv Fussgänger, häufig gesperrt bei Events (auch Werktags)&lt;br&gt;Maßnahme:  Umgehung bauen und ausschildern</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5263</styleUrl>
         <LineString>
@@ -793,7 +793,7 @@
       </Placemark>
       <Placemark>
         <name>Alternative Anschluss Olympia Nord Dachauer Str</name>
-        <description>sehr viel Verkehr und Tram, gefÃ¤hrliche Kreuzungen&lt;br&gt;MaÃŸnahme: je 1 Fahrspur umwidmen in geschÃ¼tzten, breiten Radweg</description>
+        <description>sehr viel Verkehr und Tram, gefährliche Kreuzungen&lt;br&gt;Maßnahme: je 1 Fahrspur umwidmen in geschützten, breiten Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-4488</styleUrl>
         <LineString>
@@ -803,7 +803,7 @@
       <Placemark>
         <name>Baustelle 2. Stammstrecke 1
 </name>
-        <description>Ist: 70cm Asphalt neben dem neuen Baustellenweg nutzbar (stand 11.08.2018)&lt;br&gt;Soll schmaler Radweg (1.20-1,50) mÃ¶glich!</description>
+        <description>Ist: 70cm Asphalt neben dem neuen Baustellenweg nutzbar (stand 11.08.2018)&lt;br&gt;Soll schmaler Radweg (1.20-1,50) möglich!</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5043</styleUrl>
         <LineString>
@@ -811,8 +811,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Georg-Habel-StraÃŸe</name>
-        <description>MaÃŸnahme: FahrradstraÃŸe&lt;br&gt;Pasinger Tangente zw. Radl-Stammstrecke und Ammerseeradweg</description>
+        <name>Georg-Habel-Straße</name>
+        <description>Maßnahme: Fahrradstraße&lt;br&gt;Pasinger Tangente zw. Radl-Stammstrecke und Ammerseeradweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3696</styleUrl>
         <LineString>
@@ -821,7 +821,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Josef-Retzer-Str</name>
-        <description>kein Radweg&lt;br&gt;MaÃŸnahme Fahrradstr</description>
+        <description>kein Radweg&lt;br&gt;Maßnahme Fahrradstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-4000</styleUrl>
         <LineString>
@@ -831,7 +831,7 @@
       <Placemark>
         <name>Theresienwiese Disire Line
 </name>
-        <description>fehlende direkte Ost-West Verbindung&lt;br&gt;MaÃŸnahme. Direktverbindung asphaltieren</description>
+        <description>fehlende direkte Ost-West Verbindung&lt;br&gt;Maßnahme. Direktverbindung asphaltieren</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-4466</styleUrl>
         <LineString>
@@ -839,8 +839,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>schwarz_SchyrenstraÃŸe_LÃ¼cke</name>
-        <description>Kopfsteinplaster, keine QuerungsmÃ¶glichkeit&lt;br&gt;MaÃŸnahme: Ampel abbauen, Vorfahrt Rad&lt;br&gt; glatte Pflaster, FahrradstraÃŸe</description>
+        <name>schwarz_Schyrenstraße_Lücke</name>
+        <description>Kopfsteinplaster, keine Querungsmöglichkeit&lt;br&gt;Maßnahme: Ampel abbauen, Vorfahrt Rad&lt;br&gt; glatte Pflaster, Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5621</styleUrl>
         <LineString>
@@ -857,7 +857,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>BrÃ¼cke/UnterfÃ¼hrung Ostbahnhof</name>
+        <name>Brücke/Unterführung Ostbahnhof</name>
         <description>geplante Querung Ostbahnhof</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-9000</styleUrl>
@@ -866,7 +866,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>schwarz_FriedenstraÃŸe</name>
+        <name>schwarz_Friedenstraße</name>
         <description>kein Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-7000</styleUrl>
@@ -875,7 +875,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>schwarz_LÃ¼cke Anschluss PiusstraÃŸe</name>
+        <name>schwarz_Lücke Anschluss Piusstraße</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-7000-nodesc</styleUrl>
         <LineString>
@@ -885,7 +885,7 @@
       <Placemark>
         <name>schwarz_Trampelpfad Denning 2
 </name>
-        <description>MaÃŸnahme: befestigter Radweg</description>
+        <description>Maßnahme: befestigter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5236</styleUrl>
         <LineString>
@@ -895,7 +895,7 @@
       <Placemark>
         <name>schwarz_Trampelpfad Denning
 </name>
-        <description>MaÃŸnahme: befestigter Radweg</description>
+        <description>Maßnahme: befestigter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-4851</styleUrl>
         <LineString>
@@ -921,7 +921,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Querung BrÃ¼cke Radlstammstrecke
+        <name>Querung Brücke Radlstammstrecke
 </name>
         <description>Hildachstr-Nymphenburgpark</description>
         <visibility>1</visibility>
@@ -931,7 +931,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>UnterfÃ¼hrung Landshuter Allee
+        <name>Unterführung Landshuter Allee
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-8702-nodesc</styleUrl>
@@ -949,8 +949,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke UnterfÃ¼hrung Landsuter Allee Olympiapark</name>
-        <description>fehlende Verbindung zum Nordradweg und Olympiaradweg&lt;br&gt;MaÃŸnahme: bestehende UnterfÃ¼hrung umbauen undÂ  breiten Radweg bauen</description>
+        <name>Lücke Unterführung Landsuter Allee Olympiapark</name>
+        <description>fehlende Verbindung zum Nordradweg und Olympiaradweg&lt;br&gt;Maßnahme: bestehende Unterführung umbauen und  breiten Radweg bauen</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6425</styleUrl>
         <LineString>
@@ -958,8 +958,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Querung TriebstraÃŸe</name>
-        <description>wichtige LÃ¼ckeÂ &lt;br&gt;MaÃŸnahme: BrÃ¼cke oder UnterfÃ¼hrung</description>
+        <name>Lücke Querung Triebstraße</name>
+        <description>wichtige Lücke &lt;br&gt;Maßnahme: Brücke oder Unterführung</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5650</styleUrl>
         <LineString>
@@ -967,7 +967,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Geisterbahnhof Olympiapark Nord</name>
+        <name>Lücke Geisterbahnhof Olympiapark Nord</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5650-nodesc</styleUrl>
         <LineString>
@@ -976,7 +976,7 @@
       </Placemark>
       <Placemark>
         <name>Isarradweg-Kabelsteg</name>
-        <description>Ist: FuÃŸ/Radweg gemischt, zu schmal&lt;br&gt;Soll: separater breiter Radweg</description>
+        <description>Ist: Fuß/Radweg gemischt, zu schmal&lt;br&gt;Soll: separater breiter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5456</styleUrl>
         <LineString>
@@ -984,8 +984,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Isarradweg-Max-Josef-BrÃ¼cke</name>
-        <description>sehr schmal, nur in Richtung Norden erlaubt.&lt;br&gt;MaÃŸnahme: breiterer Radweg</description>
+        <name>Isarradweg-Max-Josef-Brücke</name>
+        <description>sehr schmal, nur in Richtung Norden erlaubt.&lt;br&gt;Maßnahme: breiterer Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5263</styleUrl>
         <LineString>
@@ -994,7 +994,7 @@
       </Placemark>
       <Placemark>
         <name>Donnersbergerstr.</name>
-        <description>kein Radweg, aber relativ ruhige StraÃŸe</description>
+        <description>kein Radweg, aber relativ ruhige Straße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4681</styleUrl>
         <LineString>
@@ -1002,8 +1002,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>PlinganserstraÃŸe</name>
-        <description>Ist: ungeschÃ¼tzte Radstreifen zwischen Parkstreifen und dem rasenden Verkehr, unterbrochen von Bushaltestelle&lt;br&gt;MaÃŸnahme: geschÃ¼tzte Radstreifen, Tempo 30Â </description>
+        <name>Plinganserstraße</name>
+        <description>Ist: ungeschützte Radstreifen zwischen Parkstreifen und dem rasenden Verkehr, unterbrochen von Bushaltestelle&lt;br&gt;Maßnahme: geschützte Radstreifen, Tempo 30 </description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6038</styleUrl>
         <LineString>
@@ -1011,8 +1011,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LindenschmitstraÃŸe</name>
-        <description>Ist: wenig Verkehr, kein Radweg, ebener Asphalt, Ampel an Plinganserstr vorhanden&lt;br&gt;MaÃŸnahme: FahrradstraÃŸe</description>
+        <name>Lindenschmitstraße</name>
+        <description>Ist: wenig Verkehr, kein Radweg, ebener Asphalt, Ampel an Plinganserstr vorhanden&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5456</styleUrl>
         <LineString>
@@ -1021,7 +1021,7 @@
       </Placemark>
       <Placemark>
         <name>Margaretenplatz</name>
-        <description>Pflastersteine, kein Radweg,keine Ampel an Plinganerstr&lt;br&gt;MaÃŸnahme: keine, Parallel StraÃŸe nutzen</description>
+        <description>Pflastersteine, kein Radweg,keine Ampel an Plinganerstr&lt;br&gt;Maßnahme: keine, Parallel Straße nutzen</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2163</styleUrl>
         <LineString>
@@ -1029,8 +1029,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>RichelstraÃŸe</name>
-        <description>wenig Verkehr, kein Radweg&lt;br&gt;MaÃŸnahme: FahrradstraÃŸe</description>
+        <name>Richelstraße</name>
+        <description>wenig Verkehr, kein Radweg&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5069</styleUrl>
         <LineString>
@@ -1039,7 +1039,7 @@
       </Placemark>
       <Placemark>
         <name>Donnersberger Str. -Querung Arnulfstr</name>
-        <description>enger Zweirichtungsradweg&lt;br&gt;MaÃŸnahme: Ampel fÃ¼r geradlinige Querung Donnersberger Str/Richelstr.</description>
+        <description>enger Zweirichtungsradweg&lt;br&gt;Maßnahme: Ampel für geradlinige Querung Donnersberger Str/Richelstr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5263</styleUrl>
         <LineString>
@@ -1047,7 +1047,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Querung Arnulfstr</name>
+        <name>Lücke Querung Arnulfstr</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5263-nodesc</styleUrl>
         <LineString>
@@ -1056,7 +1056,7 @@
       </Placemark>
       <Placemark>
         <name>Bettelampel-Herterichstr-Drygalski-Alle</name>
-        <description>MaÃŸnahme: verbesserte Ampelschaltung, Vorgezogene AufsterllflÃ¤che</description>
+        <description>Maßnahme: verbesserte Ampelschaltung, Vorgezogene Aufsterllfläche</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5650</styleUrl>
         <LineString>
@@ -1064,8 +1064,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Drygalski-Allee stadteinwÃ¤rts</name>
-        <description>zu schmal, viel Verkehr, viele Einfahrten&lt;br&gt;MaÃŸnahme: breiter Radweg, umwidmung einer Fahrspur oderParkplÃ¤tze</description>
+        <name>Drygalski-Allee stadteinwärts</name>
+        <description>zu schmal, viel Verkehr, viele Einfahrten&lt;br&gt;Maßnahme: breiter Radweg, umwidmung einer Fahrspur oderParkplätze</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-6231</styleUrl>
         <LineString>

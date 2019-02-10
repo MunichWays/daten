@@ -69,7 +69,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hauptroute Marienplatz-FÃ¼rstenried</name>
+        <name>Hauptroute Marienplatz-Fürstenried</name>
         <description>www.muenchen.de/radlnetz (http://www.muenchen.de/radlnetz)</description>
         <visibility>1</visibility>
         <styleUrl>#line-0288D1-2733</styleUrl>
@@ -78,7 +78,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hauptroute Marienplatz-GroÃŸhadern</name>
+        <name>Hauptroute Marienplatz-Großhadern</name>
         <description>www.muenchen.de/radlnetz (http://www.muenchen.de/radlnetz)</description>
         <visibility>1</visibility>
         <styleUrl>#line-0288D1-2733</styleUrl>
@@ -140,7 +140,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Fortsetzung der Route bis Bad WÃ¶rishofen</name>
+        <name>Fortsetzung der Route bis Bad Wörishofen</name>
         <visibility>1</visibility>
         <styleUrl>#line-0288D1-2733-nodesc</styleUrl>
         <LineString>
@@ -173,7 +173,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Ã„uÃŸerer Radlring</name>
+        <name>Äußerer Radlring</name>
         <description>(48 km) Verbindung zwischen den einzelnen Hauptrouten.</description>
         <visibility>1</visibility>
         <styleUrl>#line-0288D1-2733</styleUrl>
@@ -192,7 +192,7 @@
       </Placemark>
       <Placemark>
         <name>Isarradweg</name>
-        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/p2PTDPIlQlOo9acY1SOmEv5Twewti3SGXLh7lYM2zQ-U_J044i1zC7Ym-xeN9UUrK3EoKl3QQjanWuM__cEuVm5kH2wW3wktgaEuC2nBm6ygUiqzBZM10IT1O-73L-uAY8jyuuQwePTChqo1QKJDyz3YwAiR5maNelBddeb1XYAXkfuHdqmp_AqEAcUSHWz9uOqgu1YFImlUdIHMfDk0PeEKup5B0Om6zAhqEgqqrC6FHhue_95iYmbEH_uHqEBX7KFnboGP4SlUaBhuUlaBwD6wQci-aofTJEH2j6JNcDnxih7fe8Khs9fm4wEa_Mkx6MODnDVRET2h9h8QXDRbSJhRf22aQ04oBAeMQCcr7rV-2Z46OmqPNuJfZPve1QDoCrwuLScdtIKBqH84qAaIF1DzA___Z3w-pLne_XV05UvfdG0_pmXHoPWZbMtvNLvvvGe12MvLX2bkDluDX_bf9IZUygZn0jdqcE21GfeWixKIw7Usa3bw9g0vbHMOb-a4n7Y" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;=&gt; Informationen zum Isarradweg im Bayernnetz fÃ¼r Radler (http://87.234.63.51/bfr/rw/rw_33.htm)&lt;br&gt;&lt;br&gt;&lt;br&gt;www.muenchen.de/radlnetz (http://www.muenchen.de/radlnetz)</description>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/p2PTDPIlQlOo9acY1SOmEv5Twewti3SGXLh7lYM2zQ-U_J044i1zC7Ym-xeN9UUrK3EoKl3QQjanWuM__cEuVm5kH2wW3wktgaEuC2nBm6ygUiqzBZM10IT1O-73L-uAY8jyuuQwePTChqo1QKJDyz3YwAiR5maNelBddeb1XYAXkfuHdqmp_AqEAcUSHWz9uOqgu1YFImlUdIHMfDk0PeEKup5B0Om6zAhqEgqqrC6FHhue_95iYmbEH_uHqEBX7KFnboGP4SlUaBhuUlaBwD6wQci-aofTJEH2j6JNcDnxih7fe8Khs9fm4wEa_Mkx6MODnDVRET2h9h8QXDRbSJhRf22aQ04oBAeMQCcr7rV-2Z46OmqPNuJfZPve1QDoCrwuLScdtIKBqH84qAaIF1DzA___Z3w-pLne_XV05UvfdG0_pmXHoPWZbMtvNLvvvGe12MvLX2bkDluDX_bf9IZUygZn0jdqcE21GfeWixKIw7Usa3bw9g0vbHMOb-a4n7Y" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;=&gt; Informationen zum Isarradweg im Bayernnetz für Radler (http://87.234.63.51/bfr/rw/rw_33.htm)&lt;br&gt;&lt;br&gt;&lt;br&gt;www.muenchen.de/radlnetz (http://www.muenchen.de/radlnetz)</description>
         <visibility>1</visibility>
         <styleUrl>#line-0288D1-2733</styleUrl>
         <ExtendedData>
@@ -214,8 +214,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>WÃ¼rmradweg</name>
-        <description>=&gt; Informationen zum GrÃ¼nzug WÃ¼rm (http://www.muenchen.de/rathaus/Stadtverwaltung/baureferat/freizeit-sport-natur/gruene-oasen/Wuerm.html)&lt;br&gt;&lt;br&gt;www.muenchen.de/radlnetz (http://www.muenchen.de/radlnetz)</description>
+        <name>Würmradweg</name>
+        <description>=&gt; Informationen zum Grünzug Würm (http://www.muenchen.de/rathaus/Stadtverwaltung/baureferat/freizeit-sport-natur/gruene-oasen/Wuerm.html)&lt;br&gt;&lt;br&gt;www.muenchen.de/radlnetz (http://www.muenchen.de/radlnetz)</description>
         <visibility>1</visibility>
         <styleUrl>#line-0288D1-2733</styleUrl>
         <LineString>

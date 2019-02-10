@@ -4,7 +4,7 @@
     <description>doc description</description>
     <visibility>1</visibility>
     <Folder>
-      <name>D_gr√ºn_Gesamtnetz</name>
+      <name>D_gr¸n_Gesamtnetz</name>
       <visibility>1</visibility>
       <Placemark>
         <name>Negrelistr. S-Bahn Langwied</name>
@@ -16,7 +16,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gr√ºn_Parallele A99</name>
+        <name>gr¸n_Parallele A99</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4100-nodesc</styleUrl>
         <LineString>
@@ -24,7 +24,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Bahngel√§nde - Am Neubruch</name>
+        <name>Bahngel‰nde - Am Neubruch</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-5069-nodesc</styleUrl>
         <LineString>
@@ -32,7 +32,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gr√ºn_√úberquerung Bahntrasse</name>
+        <name>gr¸n_‹berquerung Bahntrasse</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4875-nodesc</styleUrl>
         <LineString>
@@ -40,7 +40,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gr√ºn_Parallele Ludwigsfelder Str.</name>
+        <name>gr¸n_Parallele Ludwigsfelder Str.</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4875-nodesc</styleUrl>
         <LineString>
@@ -48,7 +48,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gr√ºn_Allacher Lohe - √úberquerung A99</name>
+        <name>gr¸n_Allacher Lohe - ‹berquerung A99</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4488-nodesc</styleUrl>
         <LineString>
@@ -157,7 +157,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gr√ºn_Alt√∂ttingerstra√üe</name>
+        <name>gr¸n_Altˆttingerstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3503-nodesc</styleUrl>
         <LineString>
@@ -165,7 +165,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>F√ºrstenried West Wallieser Str
+        <name>F¸rstenried West Wallieser Str
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4273-nodesc</styleUrl>
@@ -182,7 +182,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Bruderm√ºhlbr√ºke</name>
+        <name>Bruderm¸hlbr¸ke</name>
         <description>Isarradweg halt...</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2733</styleUrl>
@@ -216,7 +216,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Gr√ºnwalder Stadion
+        <name>Gr¸nwalder Stadion
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3713-nodesc</styleUrl>
@@ -225,7 +225,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke Candidstr
+        <name>Br¸cke Candidstr
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2733-nodesc</styleUrl>
@@ -243,7 +243,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gr√ºn_Gro√üer Stadtbach
+        <name>gr¸n_Groﬂer Stadtbach
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3311-nodesc</styleUrl>
@@ -261,7 +261,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unterf√ºhrung Bahngleise Trudering</name>
+        <name>Unterf¸hrung Bahngleise Trudering</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2925-nodesc</styleUrl>
         <LineString>
@@ -278,7 +278,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unterf√ºhrung Kapuzinerstr
+        <name>Unterf¸hrung Kapuzinerstr
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1200-nodesc</styleUrl>
@@ -288,7 +288,7 @@
       </Placemark>
       <Placemark>
         <name>Hirschgarten</name>
-        <description>gr√ºn aber Fu√üg√§nger Radler gemischt</description>
+        <description>gr¸n aber Fuﬂg‰nger Radler gemischt</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4100</styleUrl>
         <LineString>
@@ -330,7 +330,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Westpark-S√ºdwest</name>
+        <name>Westpark-S¸dwest</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1963-nodesc</styleUrl>
         <LineString>
@@ -362,7 +362,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Schlo√ümauer-Obermenzing</name>
+        <name>Schloﬂmauer-Obermenzing</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-5043-nodesc</styleUrl>
         <LineString>
@@ -378,7 +378,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Friedenheimer Br√ºcke
+        <name>Friedenheimer Br¸cke
 </name>
         <description>viel Verkehr, oft schneller als 50 KM/h,&lt;br&gt;2017/2018: neuer breiter Radweg direkt am Gehweg</description>
         <visibility>1</visibility>
@@ -388,7 +388,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Denninger Fahrradstra√üen
+        <name>Denninger Fahrradstraﬂen
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3118-nodesc</styleUrl>
@@ -397,7 +397,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>An der Salzbr√ºcke
+        <name>An der Salzbr¸cke
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4273-nodesc</styleUrl>
@@ -415,7 +415,7 @@
       </Placemark>
       <Placemark>
         <name>Preysingstr</name>
-        <description>Fahrradstra√üe</description>
+        <description>Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4081</styleUrl>
         <LineString>
@@ -423,9 +423,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>√ñBZ Bogenhausen
+        <name>÷BZ Bogenhausen
 </name>
-        <description>gr√ºne Route Nord/S√ºd Richtung in Bogenhausen</description>
+        <description>gr¸ne Route Nord/S¸d Richtung in Bogenhausen</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2925</styleUrl>
         <LineString>
@@ -434,7 +434,7 @@
       </Placemark>
       <Placemark>
         <name>Isartalradweg</name>
-        <description>gut ausgebaute Strecke im Gr√ºnen</description>
+        <description>gut ausgebaute Strecke im Gr¸nen</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-5621</styleUrl>
         <LineString>
@@ -459,7 +459,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unterf√ºhrung Domagstr
+        <name>Unterf¸hrung Domagstr
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2540-nodesc</styleUrl>
@@ -468,7 +468,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke Ackermannstra√üe
+        <name>Br¸cke Ackermannstraﬂe
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-5814-nodesc</styleUrl>
@@ -477,7 +477,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>M√ºnchner-Kindl-Weg Perlacher Forst
+        <name>M¸nchner-Kindl-Weg Perlacher Forst
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2348-nodesc</styleUrl>
@@ -486,7 +486,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Max-Friedl√§nder-Bogen</name>
+        <name>Max-Friedl‰nder-Bogen</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3503-nodesc</styleUrl>
         <LineString>
@@ -494,7 +494,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Ammerseestra√üe</name>
+        <name>Ammerseestraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2348-nodesc</styleUrl>
         <LineString>
@@ -502,7 +502,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Senftenaustra√üe</name>
+        <name>Senftenaustraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3118-nodesc</styleUrl>
         <LineString>
@@ -510,7 +510,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke A96 Ammerseestr Westpark
+        <name>Br¸cke A96 Ammerseestr Westpark
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2348-nodesc</styleUrl>
@@ -527,7 +527,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke A96 Walter-Hopf-Weg
+        <name>Br¸cke A96 Walter-Hopf-Weg
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2540-nodesc</styleUrl>
@@ -536,7 +536,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke A96 Hadener Steg
+        <name>Br¸cke A96 Hadener Steg
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2155-nodesc</styleUrl>
@@ -588,7 +588,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Ackermannstra√üe</name>
+        <name>Ackermannstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2155-nodesc</styleUrl>
         <LineString>
@@ -596,7 +596,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Berliner Stra√üe
+        <name>Berliner Straﬂe
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2155-nodesc</styleUrl>
@@ -607,7 +607,7 @@
       <Placemark>
         <name>Ungerer Bad
 </name>
-        <description>Nebenweg, Fu√ü/Rad gemischt</description>
+        <description>Nebenweg, Fuﬂ/Rad gemischt</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2550</styleUrl>
         <LineString>
@@ -648,7 +648,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke Candidstr. Gr√ºnwalder Stadion
+        <name>Br¸cke Candidstr. Gr¸nwalder Stadion
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3696-nodesc</styleUrl>
@@ -657,7 +657,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Sudetendeutsche Stra√üe 2 S√ºd</name>
+        <name>Sudetendeutsche Straﬂe 2 S¸d</name>
         <visibility>1</visibility>
         <styleUrl>#line-558B2F-3118-nodesc</styleUrl>
         <LineString>
@@ -665,7 +665,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Franz-Josef-Stra√üe w√§hrend Baustelle</name>
+        <name>Franz-Josef-Straﬂe w‰hrend Baustelle</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1770-nodesc</styleUrl>
         <LineString>
@@ -673,7 +673,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Destouchestra√üe West</name>
+        <name>Destouchestraﬂe West</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1963-nodesc</styleUrl>
         <LineString>
@@ -681,7 +681,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Mittermayerstra√üe</name>
+        <name>Mittermayerstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2155-nodesc</styleUrl>
         <LineString>
@@ -689,7 +689,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Erich-K√§stner/Bayernpark</name>
+        <name>Erich-K‰stner/Bayernpark</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2155-nodesc</styleUrl>
         <LineString>
@@ -697,7 +697,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hiltenspergerstra√üe/Schwabing-West</name>
+        <name>Hiltenspergerstraﬂe/Schwabing-West</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1963-nodesc</styleUrl>
         <LineString>
@@ -705,7 +705,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Angererstra√üe</name>
+        <name>Angererstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2348-nodesc</styleUrl>
         <LineString>
@@ -713,8 +713,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Erich-K√§stner-Str</name>
-        <description>Fahrradstra√üe</description>
+        <name>Erich-K‰stner-Str</name>
+        <description>Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2925</styleUrl>
         <LineString>
@@ -730,7 +730,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke Bruderm√ºhlstra√üe
+        <name>Br¸cke Bruderm¸hlstraﬂe
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2540-nodesc</styleUrl>
@@ -739,7 +739,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Gro√ühesseloher Br√ºcke
+        <name>Groﬂhesseloher Br¸cke
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4466-nodesc</styleUrl>
@@ -748,7 +748,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Gro√ühesseloher Br√ºcke 2
+        <name>Groﬂhesseloher Br¸cke 2
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1963-nodesc</styleUrl>
@@ -757,7 +757,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Noestras√üe</name>
+        <name>Noestrasﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3503-nodesc</styleUrl>
         <LineString>
@@ -773,7 +773,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>M√ºnchner Stra√üe
+        <name>M¸nchner Straﬂe
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1200-nodesc</styleUrl>
@@ -782,7 +782,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unterf√ºhrung S-Bahn Fasanenpark
+        <name>Unterf¸hrung S-Bahn Fasanenpark
 </name>
         <description>kreuzungsfreier, schmaler Kreisbogenweg</description>
         <visibility>1</visibility>
@@ -802,7 +802,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>S√ºdpark A95</name>
+        <name>S¸dpark A95</name>
         <description>Alternativroute</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2733</styleUrl>
@@ -811,8 +811,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Verbindung Drygalski zu S√ºdparkroute</name>
-        <description>kein Radweg, aber Einbahnstra√üe (in beide Richtungen, getrennt durch Gr√ºnstreifen) durch ein ruhiges Viertel</description>
+        <name>Verbindung Drygalski zu S¸dparkroute</name>
+        <description>kein Radweg, aber Einbahnstraﬂe (in beide Richtungen, getrennt durch Gr¸nstreifen) durch ein ruhiges Viertel</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2540</styleUrl>
         <LineString>
@@ -820,7 +820,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Verbindung Drygalski/H√∂glw√∂rther zu F√ºrstenried West</name>
+        <name>Verbindung Drygalski/Hˆglwˆrther zu F¸rstenried West</name>
         <description>meist gut zu fahren, eigener Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3000</styleUrl>
@@ -829,7 +829,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>S√ºdparkb√ºcke</name>
+        <name>S¸dparkb¸cke</name>
         <description>&lt;img src="https://lh6.googleusercontent.com/proxy/L4q77sgytHjzINXO9UuDU2ZkJrONIEGe2O6Z_NCDxcge1pyYd0qDGOjodn36K9A7OSafuDGSXccXjRRs5-kS-JMO2_6XdNhsh8uYV37gJvgnvD1fco6MNzxXbUzkkFodqnNw-k5O6VAsjZjaNp8EtRhCPHgPOJt3gqOB1KV5ZVFKRRBSlwB_uzrPQO4K6_42sWquX9j5vjbL3t0KDXLOzkUauoRo-tMxuF5LsxiuBSLYA04URmMiub5Z" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
         <visibility>1</visibility>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -844,7 +844,7 @@
       </Placemark>
       <Placemark>
         <name>Radweg Garmischer Autobahn</name>
-        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/p99ViyV9dEsxkONU3tiuDlgKWuiCVF-9OVkW2HXZN1EXQI5yzIIPcBP-iMGXBKm4T3c7ondp-zNhPaUoume2yTjaHTqnrSSS4mBazhNsVgOTRFpnt9KrojzfBwNVkW6wWEkAFfgg8lOxzxUaknijmZRMITOcwu_OcbkIX77l9fAjxhsA8kYKFqgVgEEedTVrWcJCFN6NtXSOIFnCImtrq8j_WyaYLauHDqdd_jDyCW02AlnCqNpU9yo5-vs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;NOx Gehalt der Luft??? Sonst die sch√∂nste Strecke...</description>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/p99ViyV9dEsxkONU3tiuDlgKWuiCVF-9OVkW2HXZN1EXQI5yzIIPcBP-iMGXBKm4T3c7ondp-zNhPaUoume2yTjaHTqnrSSS4mBazhNsVgOTRFpnt9KrojzfBwNVkW6wWEkAFfgg8lOxzxUaknijmZRMITOcwu_OcbkIX77l9fAjxhsA8kYKFqgVgEEedTVrWcJCFN6NtXSOIFnCImtrq8j_WyaYLauHDqdd_jDyCW02AlnCqNpU9yo5-vs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;NOx Gehalt der Luft??? Sonst die schˆnste Strecke...</description>
         <visibility>1</visibility>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -872,7 +872,7 @@
       </Placemark>
       <Placemark>
         <name>mittl. Ring</name>
-        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/E-1I-97f4Wjo-FfO3Mj6CFPTQApsWL_s8Av5vtR-MCLw7mfofkKjCwPSMrke4-ckT4i0mRig5fbZppdRAGpvBZq9MktSVwO84OiDA__h5qdQ3g_CdNXBbDrOh_yKR0gqFpOKFUfXRK1neazEoP_XT44_MlbTJhpTbI1ZIKmsLzQOODA99-zqUiG3uIJR3As9ffyCmWXaJEmgQrC_1GD5ZiE8kmG-g9G1RSWYgRk13gNQt4yv-TJN1-uDN_g" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;nur Anlieger, fast kein Verkehr, L√§rmschutzwand zum Ring</description>
+        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/E-1I-97f4Wjo-FfO3Mj6CFPTQApsWL_s8Av5vtR-MCLw7mfofkKjCwPSMrke4-ckT4i0mRig5fbZppdRAGpvBZq9MktSVwO84OiDA__h5qdQ3g_CdNXBbDrOh_yKR0gqFpOKFUfXRK1neazEoP_XT44_MlbTJhpTbI1ZIKmsLzQOODA99-zqUiG3uIJR3As9ffyCmWXaJEmgQrC_1GD5ZiE8kmG-g9G1RSWYgRk13gNQt4yv-TJN1-uDN_g" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;nur Anlieger, fast kein Verkehr, L‰rmschutzwand zum Ring</description>
         <visibility>1</visibility>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -886,7 +886,7 @@
       </Placemark>
       <Placemark>
         <name>mittl. Ring 2.0</name>
-        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/p3jNCXeKIDuDjkYIRuXsCcg-h885M3Z-n0_7hnRdre1KvoPBYgzDKGU6Yb4EFo00L0CRGzMzX8Kd5qijE0gRpBCMvVDEwTWo-TqpoCWxgzk_ysZjfK6PB3qEp0duF6ztY0OFtGQtZnMtkshNUt_ASDUhi2WdOV4XTG8R-hiUhFcuD_2cyJ3O4tVDcpzP7AWiPb1B0OruNb99g6FDDUsth5v0a3ItduvNf8zcNE-HClzXQdlm4gUjqVlF79c" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;keine Trennung Fu√ü/Rad, aber auch keine Autos</description>
+        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/p3jNCXeKIDuDjkYIRuXsCcg-h885M3Z-n0_7hnRdre1KvoPBYgzDKGU6Yb4EFo00L0CRGzMzX8Kd5qijE0gRpBCMvVDEwTWo-TqpoCWxgzk_ysZjfK6PB3qEp0duF6ztY0OFtGQtZnMtkshNUt_ASDUhi2WdOV4XTG8R-hiUhFcuD_2cyJ3O4tVDcpzP7AWiPb1B0OruNb99g6FDDUsth5v0a3ItduvNf8zcNE-HClzXQdlm4gUjqVlF79c" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;keine Trennung Fuﬂ/Rad, aber auch keine Autos</description>
         <visibility>1</visibility>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -907,7 +907,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Quartiersplatz-Theresienh√∂he</name>
+        <name>Quartiersplatz-Theresienhˆhe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-1770-nodesc</styleUrl>
         <LineString>
@@ -924,7 +924,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Naumburgerstra√üe</name>
+        <name>Naumburgerstraﬂe</name>
         <description>Verkehrsberuhigt! Gute Radstrecke.</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3000</styleUrl>
@@ -933,7 +933,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unterf√ºhrung St√§ndlerstra√üe</name>
+        <name>Unterf¸hrung St‰ndlerstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2938-nodesc</styleUrl>
         <LineString>
@@ -941,7 +941,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Riesengebirgstra√üe</name>
+        <name>Riesengebirgstraﬂe</name>
         <description>Gut, wenig Kfz Verkehr</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2000</styleUrl>
@@ -950,8 +950,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Jakob-Hagenbucher Stra√üe</name>
-        <description>Fahrradstra√üe</description>
+        <name>Jakob-Hagenbucher Straﬂe</name>
+        <description>Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3000</styleUrl>
         <LineString>
@@ -960,7 +960,7 @@
       </Placemark>
       <Placemark>
         <name>Rangierbahnhof</name>
-        <description>Fuss- Radweg im Gr√ºnbereich. Kein Kfz-Verkehr!</description>
+        <description>Fuss- Radweg im Gr¸nbereich. Kein Kfz-Verkehr!</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-4000</styleUrl>
         <LineString>
@@ -978,7 +978,7 @@
       </Placemark>
       <Placemark>
         <name>Schwere-Reiter-Str.</name>
-        <description>Fahrradstra√üe parallel auf Nebenspur.</description>
+        <description>Fahrradstraﬂe parallel auf Nebenspur.</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-5000</styleUrl>
         <LineString>
@@ -995,7 +995,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Feldmochingerstra√üe</name>
+        <name>Feldmochingerstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2938-nodesc</styleUrl>
         <LineString>
@@ -1003,7 +1003,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Br√ºcke √ºber Isar</name>
+        <name>Br¸cke ¸ber Isar</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-6000-nodesc</styleUrl>
         <LineString>
@@ -1051,8 +1051,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Seldweg / An der W√ºrm</name>
-        <description>Unterf√ºhrung f√ºr Fu√üg√§nger + Radfahrer / Fahrradstra√üe</description>
+        <name>Seldweg / An der W¸rm</name>
+        <description>Unterf¸hrung f¸r Fuﬂg‰nger + Radfahrer / Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-7000</styleUrl>
         <LineString>
@@ -1061,7 +1061,7 @@
       </Placemark>
       <Placemark>
         <name>Botanischer Garten II.</name>
-        <description>kein expliziter Radweg, daf√ºr breit und ohne Autos</description>
+        <description>kein expliziter Radweg, daf¸r breit und ohne Autos</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3713</styleUrl>
         <LineString>
@@ -1070,7 +1070,7 @@
       </Placemark>
       <Placemark>
         <name>De La Paz- Str.</name>
-        <description>De La Paz- Str. ist Fahrradstra√üe</description>
+        <description>De La Paz- Str. ist Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3906</styleUrl>
         <LineString>
@@ -1079,7 +1079,7 @@
       </Placemark>
       <Placemark>
         <name>Hirschgarten</name>
-        <description>vom MIV abgeschirmte Route, muss jedoch mit Fu√üg√§ngern geteilt werden</description>
+        <description>vom MIV abgeschirmte Route, muss jedoch mit Fuﬂg‰ngern geteilt werden</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3906</styleUrl>
         <LineString>
@@ -1087,8 +1087,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Bruderm√ºhlstra√üe-Unterf√ºhrung Plinganser</name>
-        <description>schwer zu finden, Unterf√ºhrung Richtung Westen</description>
+        <name>Bruderm¸hlstraﬂe-Unterf¸hrung Plinganser</name>
+        <description>schwer zu finden, Unterf¸hrung Richtung Westen</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3906</styleUrl>
         <LineString>
@@ -1128,7 +1128,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Forstenrieder Park, Max-Joseph Ger√§umt</name>
+        <name>Forstenrieder Park, Max-Joseph Ger‰umt</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3325-nodesc</styleUrl>
         <LineString>
@@ -1136,7 +1136,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Forstenrieder Park, Link Ger√§umt</name>
+        <name>Forstenrieder Park, Link Ger‰umt</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3325-nodesc</styleUrl>
         <LineString>
@@ -1144,7 +1144,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Forstenrieder Park, Neurieder Str√§√ül, Ludwigs Ger√§umt</name>
+        <name>Forstenrieder Park, Neurieder Str‰ﬂl, Ludwigs Ger‰umt</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3713-nodesc</styleUrl>
         <LineString>
@@ -1152,7 +1152,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Forstenrieder Park, Karolinen Ger√§umt</name>
+        <name>Forstenrieder Park, Karolinen Ger‰umt</name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2744-nodesc</styleUrl>
         <LineString>
@@ -1181,7 +1181,7 @@
       </Placemark>
       <Placemark>
         <name>S7 - Sendlinger Feldweg</name>
-        <description>Gute Radlm√∂glichkeit vom Heimeranplatz (Garmischer Str.) bis zur Margaretenstr., sogar mit Br√ºcke √ºber die Baumgartnerstr.. Leider fehlt eine Br√ºcke von der Martin-Behaim-Str. zur Konrad-Peutinger-Str., dann w√§re n√§mlich eine durchgehende Verbindung bis zum Harras m√∂glich. Fotos folgen</description>
+        <description>Gute Radlmˆglichkeit vom Heimeranplatz (Garmischer Str.) bis zur Margaretenstr., sogar mit Br¸cke ¸ber die Baumgartnerstr.. Leider fehlt eine Br¸cke von der Martin-Behaim-Str. zur Konrad-Peutinger-Str., dann w‰re n‰mlich eine durchgehende Verbindung bis zum Harras mˆglich. Fotos folgen</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-2356</styleUrl>
         <LineString>
@@ -1189,7 +1189,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>St√§blistra√üe</name>
+        <name>St‰blistraﬂe</name>
         <description>Beiderseitige Radwege vorhanden</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3713</styleUrl>
@@ -1198,7 +1198,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radweg Begasweg - Herterichstra√üe
+        <name>Radweg Begasweg - Herterichstraﬂe
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-097138-3519-nodesc</styleUrl>

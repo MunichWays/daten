@@ -9,7 +9,7 @@
       <Placemark>
         <name>rot_Querung Wolfratshauser Str.
 </name>
-        <description>Gef√§hrliche, viel befahrene Kreuzung -&gt; Ampel notwendig</description>
+        <description>Gef‰hrliche, viel befahrene Kreuzung -&gt; Ampel notwendig</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3713</styleUrl>
         <LineString>
@@ -17,9 +17,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Radweg/Fu√üweg nahe Martha-Maria
+        <name>gelb_Radweg/Fuﬂweg nahe Martha-Maria
 </name>
-        <description>Enger und recht steiler Schotterweg, geteilt mit Fu√üg√§ngern -&gt; verbreitern und asphaltieren</description>
+        <description>Enger und recht steiler Schotterweg, geteilt mit Fuﬂg‰ngern -&gt; verbreitern und asphaltieren</description>
         <visibility>1</visibility>
         <styleUrl>#line-FBC02D-3519</styleUrl>
         <LineString>
@@ -35,7 +35,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Weigelstra√üe</name>
+        <name>Weigelstraﬂe</name>
         <description>Alternative Arnulfstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3519</styleUrl>
@@ -53,7 +53,7 @@
       </Placemark>
       <Placemark>
         <name>Rosa-Luxemburgplatz</name>
-        <description>Ist: Zickzackkurs in Hinterh√∂fen, Alternative parallel Stra√üe&lt;br&gt;Ma√ünahmen:&lt;br&gt;- Fahrradstra√üe&lt;br&gt;- durchgehende Radwegf√ºhrung</description>
+        <description>Ist: Zickzackkurs in Hinterhˆfen, Alternative parallel Straﬂe&lt;br&gt;Maﬂnahmen:&lt;br&gt;- Fahrradstraﬂe&lt;br&gt;- durchgehende Radwegf¸hrung</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2356</styleUrl>
         <LineString>
@@ -62,7 +62,7 @@
       </Placemark>
       <Placemark>
         <name>Spiridon-Louis-Ring</name>
-        <description>kein Radweg, wenig motorisierte&lt;br&gt;Problem: Sackgasse: kein Anschluss an die Br√ºcken</description>
+        <description>kein Radweg, wenig motorisierte&lt;br&gt;Problem: Sackgasse: kein Anschluss an die Br¸cken</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-1775</styleUrl>
         <LineString>
@@ -70,7 +70,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Sophienstra√üe</name>
+        <name>Sophienstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
         <LineString>
@@ -88,7 +88,7 @@
       </Placemark>
       <Placemark>
         <name>Clemensstr</name>
-        <description>Fahrradstra√üe</description>
+        <description>Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4488</styleUrl>
         <LineString>
@@ -121,7 +121,7 @@
       </Placemark>
       <Placemark>
         <name>Schwere-Reiter-Str</name>
-        <description>Ma√ünahme: schmaler Radweg verbreitern</description>
+        <description>Maﬂnahme: schmaler Radweg verbreitern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2938</styleUrl>
         <LineString>
@@ -138,7 +138,7 @@
       </Placemark>
       <Placemark>
         <name>Hohenzollernstr</name>
-        <description>Ma√ünahme: Radweg verbreitern, intuitive Radwegf√ºhrung herstellen, ebene Radwege</description>
+        <description>Maﬂnahme: Radweg verbreitern, intuitive Radwegf¸hrung herstellen, ebene Radwege</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2938</styleUrl>
         <LineString>
@@ -146,7 +146,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>to do Gro√ühadener Str</name>
+        <name>to do Groﬂhadener Str</name>
         <visibility>1</visibility>
         <styleUrl>#line-757575-4000-nodesc</styleUrl>
         <LineString>
@@ -164,7 +164,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Perlacher Forst Nord</name>
-        <description>breiter Schotterweg ab Autobahnbr√ºcke A995 Harlaching-Nord</description>
+        <description>breiter Schotterweg ab Autobahnbr¸cke A995 Harlaching-Nord</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2000</styleUrl>
         <LineString>
@@ -172,8 +172,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Herzogstra√üe</name>
-        <description>schlechter als Clemensstra√üe&lt;br&gt;Kreuzungen keine Vorfahrt</description>
+        <name>gelb_Herzogstraﬂe</name>
+        <description>schlechter als Clemensstraﬂe&lt;br&gt;Kreuzungen keine Vorfahrt</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -181,8 +181,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Clemensstra√üe Schwabing-West</name>
-        <description>Fahrradstra√üe aber an Kreuzungen aufgehoben&lt;br&gt;Ma√ünahme: Kreuzngen Vorfahrt √§ndern</description>
+        <name>Clemensstraﬂe Schwabing-West</name>
+        <description>Fahrradstraﬂe aber an Kreuzungen aufgehoben&lt;br&gt;Maﬂnahme: Kreuzngen Vorfahrt ‰ndern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3519</styleUrl>
         <LineString>
@@ -191,7 +191,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Willibaldstr</name>
-        <description>enger Radweg&lt;br&gt;Ma√ünahme: Fahrspuren auf 3m verengen und Radweg an den Parkpl√§tzen verbreitern</description>
+        <description>enger Radweg&lt;br&gt;Maﬂnahme: Fahrspuren auf 3m verengen und Radweg an den Parkpl‰tzen verbreitern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4000</styleUrl>
         <LineString>
@@ -200,7 +200,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Langbehnstr</name>
-        <description>wenig Verkehr, kein Radweg&lt;br&gt;Ma√ünahme: Fahrradstr</description>
+        <description>wenig Verkehr, kein Radweg&lt;br&gt;Maﬂnahme: Fahrradstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -208,8 +208,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unterf√ºhrung Pasinger Bahnhof</name>
-        <description>Enge Querung im Fu√üg√§ngerbereich nicht geregelt</description>
+        <name>Unterf¸hrung Pasinger Bahnhof</name>
+        <description>Enge Querung im Fuﬂg‰ngerbereich nicht geregelt</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -217,8 +217,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Unterf√ºhrung Tegernseeer Landstra√üe</name>
-        <description>Ma√ünahme: beidseitiger Radweg einrichten&lt;br&gt;Umlaufgel√§nder entfernen</description>
+        <name>gelb_Unterf¸hrung Tegernseeer Landstraﬂe</name>
+        <description>Maﬂnahme: beidseitiger Radweg einrichten&lt;br&gt;Umlaufgel‰nder entfernen</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4000</styleUrl>
         <LineString>
@@ -244,8 +244,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Elektrastra√üe</name>
-        <description>Ma√ünahme Fahrradstra√üe</description>
+        <name>gelb_Elektrastraﬂe</name>
+        <description>Maﬂnahme Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -261,7 +261,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Mauerkircherstra√üe</name>
+        <name>gelb_Mauerkircherstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
         <LineString>
@@ -277,8 +277,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Bruderm√ºhlstra√üe</name>
-        <description>Mittlerer Ring:&lt;br&gt;gut ausgebaut und sicher, aber stinkt...¬†&lt;br&gt;sehr viel Verkehr,¬† teilweise gemeinsamer Fu√ü-/Radweg.</description>
+        <name>Bruderm¸hlstraﬂe</name>
+        <description>Mittlerer Ring:&lt;br&gt;gut ausgebaut und sicher, aber stinkt...†&lt;br&gt;sehr viel Verkehr,† teilweise gemeinsamer Fuﬂ-/Radweg.</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -286,8 +286,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Gro√ühesselohestr</name>
-        <description>Ma√ümahme: Radweg</description>
+        <name>Groﬂhesselohestr</name>
+        <description>Maﬂmahme: Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4000</styleUrl>
         <LineString>
@@ -328,7 +328,7 @@
       </Placemark>
       <Placemark>
         <name>Linie 5</name>
-        <description>Passauer und Hansastr.:&lt;br&gt;Einfahrten und Seitenwege sind huggelig, Weg k√∂nnte breiter sein;&lt;br&gt;Gefahrenstelle beim einbiegen in den Weg zur Unterf√ºhrung</description>
+        <description>Passauer und Hansastr.:&lt;br&gt;Einfahrten und Seitenwege sind huggelig, Weg kˆnnte breiter sein;&lt;br&gt;Gefahrenstelle beim einbiegen in den Weg zur Unterf¸hrung</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -461,7 +461,7 @@
       </Placemark>
       <Placemark>
         <name>Ost NN Ab7</name>
-        <description>Abgetrennter Radweg aber sehr schmal, viele Fussg√§nger und Rechtsabbieger</description>
+        <description>Abgetrennter Radweg aber sehr schmal, viele Fussg‰nger und Rechtsabbieger</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -494,7 +494,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Lehrer-G√∂tz-Weg</name>
+        <name>Lehrer-Gˆtz-Weg</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
         <LineString>
@@ -543,7 +543,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Friedenspromenade</name>
-        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/PDQ87YaENgHTBD6UqAJGSU02wYPLU7IEXEcu4mdfX7jTk316Ck8LyrlEJQ6317dj4RXv-Fs38wCO8pX5iPWlG56PrvzHVe21iWJ2EWUkO5NNYeZJuhafmIwGnApuCQ2jCS33rHLI04vGee7za6xAWCTCej7wDptVKoxvbXGg8uW_73Xyr9Y43eJ8tqptrRPD-nD3WcirdR7_ULdPI-CuDzmPWkv1mAAhHUiYx0iC97k-MSz2rLvQjEdSEfNOXT0FUqUZ90t3IO-LFZ3OU0h1_9rWdmab7phfMDi_Ue3TaYJRMCqntseXqEwZgSURgheQeJVjcgbI4L-BQBuTtUU9sdEu4ydU42fvd4gIu9npyiiCINxcOi3FmFFNP3DLaGtKJDVLQ_jZZ_y0ehpL9Fyrd5G_S-4V4pPOM9AY05j1Ql0aNRdqXXVgKTNxCl7actH8dYKd2-dQuCn8wScYbUq6NUaBJz2_lLEx5OPuicd4xqhEblZRD_cFEI3_6-h5XJ5DlMjqbO4p0VE_vvLxZV9hm1mynOgR90I71RygbOcvyC579r3_Awl9EPSTK-Ne3d610_LR9i9TfvbNYBMgk5goQzhMRFTS3qDXFhPFrGZdkgJEa9QiBUWkE-tfK8OvXa_ixAhW3kxdH8ci13Yj5MefAgN9DkZNMRAznLVYgSaofWUuWyo2t145bc71PWwG9w3vmdtzZeaJxx4nUzZj0uqyaa_BF0MPWP3jsBXF-OjarUBLuaSnK4ebvPfb0EIMgsTUaw_p3uY1K9grf_0xr_LNQ1_o-nmPGcFYcceXkBxZJH3OIfi03XBJxofStKBxwLKkzwq4VjPXW-NzeZ07ijvdZuzWQk_BH2bpgR2zkGYBeKyJw2c6CzpUFCWPWDlH81X08smdlnts-47S26N0AebBASDecQDw85c" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;2,50 breit aber beide Richtungen + Fu√üg√§nger</description>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/PDQ87YaENgHTBD6UqAJGSU02wYPLU7IEXEcu4mdfX7jTk316Ck8LyrlEJQ6317dj4RXv-Fs38wCO8pX5iPWlG56PrvzHVe21iWJ2EWUkO5NNYeZJuhafmIwGnApuCQ2jCS33rHLI04vGee7za6xAWCTCej7wDptVKoxvbXGg8uW_73Xyr9Y43eJ8tqptrRPD-nD3WcirdR7_ULdPI-CuDzmPWkv1mAAhHUiYx0iC97k-MSz2rLvQjEdSEfNOXT0FUqUZ90t3IO-LFZ3OU0h1_9rWdmab7phfMDi_Ue3TaYJRMCqntseXqEwZgSURgheQeJVjcgbI4L-BQBuTtUU9sdEu4ydU42fvd4gIu9npyiiCINxcOi3FmFFNP3DLaGtKJDVLQ_jZZ_y0ehpL9Fyrd5G_S-4V4pPOM9AY05j1Ql0aNRdqXXVgKTNxCl7actH8dYKd2-dQuCn8wScYbUq6NUaBJz2_lLEx5OPuicd4xqhEblZRD_cFEI3_6-h5XJ5DlMjqbO4p0VE_vvLxZV9hm1mynOgR90I71RygbOcvyC579r3_Awl9EPSTK-Ne3d610_LR9i9TfvbNYBMgk5goQzhMRFTS3qDXFhPFrGZdkgJEa9QiBUWkE-tfK8OvXa_ixAhW3kxdH8ci13Yj5MefAgN9DkZNMRAznLVYgSaofWUuWyo2t145bc71PWwG9w3vmdtzZeaJxx4nUzZj0uqyaa_BF0MPWP3jsBXF-OjarUBLuaSnK4ebvPfb0EIMgsTUaw_p3uY1K9grf_0xr_LNQ1_o-nmPGcFYcceXkBxZJH3OIfi03XBJxofStKBxwLKkzwq4VjPXW-NzeZ07ijvdZuzWQk_BH2bpgR2zkGYBeKyJw2c6CzpUFCWPWDlH81X08smdlnts-47S26N0AebBASDecQDw85c" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;2,50 breit aber beide Richtungen + Fuﬂg‰nger</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <ExtendedData>
@@ -556,7 +556,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Westendstra√üe A96</name>
+        <name>gelb_Westendstraﬂe A96</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
         <LineString>
@@ -565,7 +565,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Friedenheimer Str.</name>
-        <description>Radweg schmal, teilmschlechter Belag&lt;br&gt;Ma√ünahme: Radweg verbreitern, Eben an Kreuzungen und Einfahrten</description>
+        <description>Radweg schmal, teilmschlechter Belag&lt;br&gt;Maﬂnahme: Radweg verbreitern, Eben an Kreuzungen und Einfahrten</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -573,7 +573,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Ilm√ºnsterstr</name>
+        <name>gelb_Ilm¸nsterstr</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
         <LineString>
@@ -581,7 +581,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Werdenfelsstra√üe</name>
+        <name>gelb_Werdenfelsstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
         <LineString>
@@ -607,7 +607,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Seeriederstr</name>
-        <description>Ma√ünahme: Fahrradstr</description>
+        <description>Maﬂnahme: Fahrradstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -642,7 +642,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Agatharieder-Str</name>
-        <description>Ma√ünahme Fahradstr</description>
+        <description>Maﬂnahme Fahradstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2000</styleUrl>
         <LineString>
@@ -650,8 +650,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Klausener/Gr√∂dnerstr</name>
-        <description>Ma√ünahme: Fahradstr</description>
+        <name>Klausener/Grˆdnerstr</name>
+        <description>Maﬂnahme: Fahradstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -660,7 +660,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Steg Bahngleise und Kronepark</name>
-        <description>kein Radweg, Schotter und Schlagl√∂scher im Park&lt;br&gt;Ma√ünahme: befestigerter Radweg, getrennter Fu√üweg</description>
+        <description>kein Radweg, Schotter und Schlaglˆscher im Park&lt;br&gt;Maﬂnahme: befestigerter Radweg, getrennter Fuﬂweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -668,8 +668,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Hochstra√üe</name>
-        <description>wenig Verkehr, kein Radweg, Tempo 30&lt;br&gt;Ma√ünahme: Fahrradstra√üe</description>
+        <name>gelb_Hochstraﬂe</name>
+        <description>wenig Verkehr, kein Radweg, Tempo 30&lt;br&gt;Maﬂnahme: Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4000</styleUrl>
         <LineString>
@@ -677,8 +677,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_K√∂niginnenstr-Biedersteinstr</name>
-        <description>wenig Verkehr, gegen Einbahn frei, kein Radweg&lt;br&gt;Ma√ünahme: Fahrradstra√üe</description>
+        <name>gelb_Kˆniginnenstr-Biedersteinstr</name>
+        <description>wenig Verkehr, gegen Einbahn frei, kein Radweg&lt;br&gt;Maﬂnahme: Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2550</styleUrl>
         <LineString>
@@ -686,8 +686,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Elisabethstra√üe</name>
-        <description>alte Radwegfarbe auf Gehweg&lt;br&gt;Ma√ünahme: Fahrradstra√üe, baulich verkehrsberuhigen</description>
+        <name>gelb_Elisabethstraﬂe</name>
+        <description>alte Radwegfarbe auf Gehweg&lt;br&gt;Maﬂnahme: Fahrradstraﬂe, baulich verkehrsberuhigen</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -696,7 +696,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Hochleite</name>
-        <description>Ma√ünahme Fahrradstr</description>
+        <description>Maﬂnahme Fahrradstr</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -705,7 +705,7 @@
       </Placemark>
       <Placemark>
         <name>gelb_Fallmerayerstr</name>
-        <description>kein Radweg&lt;br&gt;Ma√ünahme: Fahrradstra√üe</description>
+        <description>kein Radweg&lt;br&gt;Maﬂnahme: Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -713,7 +713,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Baslerstra√üe</name>
+        <name>gelb_Baslerstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000-nodesc</styleUrl>
         <LineString>
@@ -721,7 +721,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Mindelheimerstra√üe</name>
+        <name>gelb_Mindelheimerstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
         <LineString>
@@ -737,7 +737,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Walweg Isartal Gro√ühesselohe</name>
+        <name>gelb_Walweg Isartal Groﬂhesselohe</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4000-nodesc</styleUrl>
         <LineString>
@@ -745,8 +745,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Isartalradweg_Gro√ühesselohe</name>
-        <description>Isartalradweg wenn Br√ºcke saniert</description>
+        <name>gelb_Isartalradweg_Groﬂhesselohe</name>
+        <description>Isartalradweg wenn Br¸cke saniert</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -754,8 +754,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Oberf√∂hringer Stra√üe</name>
-        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/IvOf8IhUH6srACGstfQnItkAF6OptWdgEK8zzHMD4AQLpfk19qraGhHTpVJbAiElF-h1-FzLx2wRJU_JkLFjnOpPD5rA_XaG7w0Ksgbt2i9YlmVjf0clLZ1FNuFM_vPI7dWxPnm1WxxmsTCLVBRnHQpYKwqozHYBkyeP4LHsqTaCa4Tia9lYNOVv48ukhR3EOvWfuk5CKnAtRM4hELVbNvTDY_8Da2cPfTSZPpFJCc0_7dSlTCRGXdyyTalaoQoRSFo5Tfp7TRhbqckQRs3lViewG0SqupjuKt70CkXTyaqMdeyfrzilooSltGrTgydQTs-NEGHlf4KWgmtIWRfacCv82aMUabTs-UH2Qk4iTI3ZRVu5PYvxrVUzOCAYv5psZwVHrEZ-BzdrPapZlevUsY6ygTo" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Hochuferradweg Nord&lt;br&gt;wenig Verkehr, kein Radweg stadtausw√§rts&lt;br&gt;Ma√ünahme: Fahrradstra√üe</description>
+        <name>Oberfˆhringer Straﬂe</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/IvOf8IhUH6srACGstfQnItkAF6OptWdgEK8zzHMD4AQLpfk19qraGhHTpVJbAiElF-h1-FzLx2wRJU_JkLFjnOpPD5rA_XaG7w0Ksgbt2i9YlmVjf0clLZ1FNuFM_vPI7dWxPnm1WxxmsTCLVBRnHQpYKwqozHYBkyeP4LHsqTaCa4Tia9lYNOVv48ukhR3EOvWfuk5CKnAtRM4hELVbNvTDY_8Da2cPfTSZPpFJCc0_7dSlTCRGXdyyTalaoQoRSFo5Tfp7TRhbqckQRs3lViewG0SqupjuKt70CkXTyaqMdeyfrzilooSltGrTgydQTs-NEGHlf4KWgmtIWRfacCv82aMUabTs-UH2Qk4iTI3ZRVu5PYvxrVUzOCAYv5psZwVHrEZ-BzdrPapZlevUsY6ygTo" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Hochuferradweg Nord&lt;br&gt;wenig Verkehr, kein Radweg stadtausw‰rts&lt;br&gt;Maﬂnahme: Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <ExtendedData>
@@ -769,7 +769,7 @@
       </Placemark>
       <Placemark>
         <name>Ismaninger Str</name>
-        <description>Hochuferweg Nord&lt;br&gt;Ma√ünahme: breiter Radweg / Fahrradstra√üe</description>
+        <description>Hochuferweg Nord&lt;br&gt;Maﬂnahme: breiter Radweg / Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -778,7 +778,7 @@
       </Placemark>
       <Placemark>
         <name>Maximiliananlagen</name>
-        <description>kein Kfz-Verkehr, kein Radweg, Schotter&lt;br&gt;Ma√ünahme: breiter Radweg</description>
+        <description>kein Kfz-Verkehr, kein Radweg, Schotter&lt;br&gt;Maﬂnahme: breiter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -786,8 +786,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Wiener Platz, Steinstra√üe</name>
-        <description>Hochuferradweg Nord&lt;br&gt;Ma√ünahme: Fahrradstra√üe</description>
+        <name>Wiener Platz, Steinstraﬂe</name>
+        <description>Hochuferradweg Nord&lt;br&gt;Maﬂnahme: Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -803,8 +803,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Fernpassstra√üe</name>
-        <description>kein Radweg&lt;br&gt;Ma√ünahme Fahrradstra√üe</description>
+        <name>gelb_Fernpassstraﬂe</name>
+        <description>kein Radweg&lt;br&gt;Maﬂnahme Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -813,7 +813,7 @@
       </Placemark>
       <Placemark>
         <name>Rampe Bergsteig/Giesinger Berg</name>
-        <description>Im April 2018 wurde der Teerbelag erneuert. Die versteckt liegende Rampe ist kaum bekannt, obwohl sie eine prima Verbindung f√ºr Radler darstellt</description>
+        <description>Im April 2018 wurde der Teerbelag erneuert. Die versteckt liegende Rampe ist kaum bekannt, obwohl sie eine prima Verbindung f¸r Radler darstellt</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2000</styleUrl>
         <LineString>
@@ -831,7 +831,7 @@
       </Placemark>
       <Placemark>
         <name>Leonrodstr</name>
-        <description>Ma√ünahme: Radweg verbreitern</description>
+        <description>Maﬂnahme: Radweg verbreitern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2550</styleUrl>
         <LineString>
@@ -839,8 +839,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Blutenburg --&gt; Inselm√ºhle</name>
-        <description>keine Autos aber Weg wird mit Fu√üg√§ngern geteilt</description>
+        <name>Blutenburg --&gt; Inselm¸hle</name>
+        <description>keine Autos aber Weg wird mit Fuﬂg‰ngern geteilt</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000</styleUrl>
         <LineString>
@@ -848,8 +848,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>derzeitige Alternative zur Sonnenstra√üe Richtung Stachus</name>
-        <description>kein Radweg keine Fahrradstra√üe aber weniger Motorisierte.</description>
+        <name>derzeitige Alternative zur Sonnenstraﬂe Richtung Stachus</name>
+        <description>kein Radweg keine Fahrradstraﬂe aber weniger Motorisierte.</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2000</styleUrl>
         <LineString>
@@ -867,7 +867,7 @@
       </Placemark>
       <Placemark>
         <name>Kreitmayerstr.</name>
-        <description>Teil der Verbindung von Hackerbr√ºcke zur Dachauer Str. Wenig Kfz-Verkehr.</description>
+        <description>Teil der Verbindung von Hackerbr¸cke zur Dachauer Str. Wenig Kfz-Verkehr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
         <LineString>
@@ -875,7 +875,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Baldurstra√üe</name>
+        <name>Baldurstraﬂe</name>
         <description>Radweg. Mittelstarker Kfz-Verkehr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3000</styleUrl>
@@ -884,8 +884,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Tengstra√üe</name>
-        <description>&lt;img src="https://lh3.googleusercontent.com/YoFIay6IXVhqhqtBg6l6g3hcNdvGsTVUJum9kMzE1QwoSs9fnw_tZ7e2-yfXFcOudTjp-t3FhgDIrD39gqFwd9vdywzrkBV_VXsSnh2olmlHt41Bsgc8soe3oLXrGgz6XwRt" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ma√ünahme Fahrradstra√üe&lt;br&gt;Beispielbild gesch√ºtzter Radweg</description>
+        <name>Tengstraﬂe</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/YoFIay6IXVhqhqtBg6l6g3hcNdvGsTVUJum9kMzE1QwoSs9fnw_tZ7e2-yfXFcOudTjp-t3FhgDIrD39gqFwd9vdywzrkBV_VXsSnh2olmlHt41Bsgc8soe3oLXrGgz6XwRt" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Maﬂnahme Fahrradstraﬂe&lt;br&gt;Beispielbild gesch¸tzter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3131</styleUrl>
         <ExtendedData>
@@ -898,8 +898,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Kapuzienerh√∂lzl</name>
-        <description>Route durchs Gr√ºnde, Teils unbefestigt&lt;br&gt;Quelle Sonja Hauder</description>
+        <name>Kapuzienerhˆlzl</name>
+        <description>Route durchs Gr¸nde, Teils unbefestigt&lt;br&gt;Quelle Sonja Hauder</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2938</styleUrl>
         <LineString>
@@ -916,7 +916,7 @@
       </Placemark>
       <Placemark>
         <name>Querung Dachauer-Str</name>
-        <description>Problem: freilaufender Rechtsabbieger&lt;br&gt;Ma√ünahme: sichere Radwegf√ºhrung</description>
+        <description>Problem: freilaufender Rechtsabbieger&lt;br&gt;Maﬂnahme: sichere Radwegf¸hrung</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3519</styleUrl>
         <LineString>
@@ -924,7 +924,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_B√§ckerstr</name>
+        <name>rot_B‰ckerstr</name>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-4000-nodesc</styleUrl>
         <LineString>
@@ -932,8 +932,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Hackerbr√ºcke</name>
-        <description>Ma√ünahme: Br√ºcke nur f√ºr Fu√üg√§nger und Radfahrer</description>
+        <name>rot_Hackerbr¸cke</name>
+        <description>Maﬂnahme: Br¸cke nur f¸r Fuﬂg‰nger und Radfahrer</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5000</styleUrl>
         <LineString>
@@ -941,7 +941,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Balanstra√üe</name>
+        <name>rot_Balanstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-5000-nodesc</styleUrl>
         <LineString>
@@ -949,8 +949,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Thakirchner bis Sch√§ftlarnstra√üe</name>
-        <description>unaufmerksame Autofahrer, die noch die Geschwindigkeiten vom Ring drauf haben, viele Fu√üg√§nger, Radweg k√∂nnte ebenfalls breiter sein (evtl auch nicht wg Allee und Fu√üweg?); Ampelschaltung auf 20km/h abstimmen?&lt;br&gt;Radwege rot markieren! Kopfsteinpflaster bei den Seitenwegen wegmachen</description>
+        <name>rot_Thakirchner bis Sch‰ftlarnstraﬂe</name>
+        <description>unaufmerksame Autofahrer, die noch die Geschwindigkeiten vom Ring drauf haben, viele Fuﬂg‰nger, Radweg kˆnnte ebenfalls breiter sein (evtl auch nicht wg Allee und Fuﬂweg?); Ampelschaltung auf 20km/h abstimmen?&lt;br&gt;Radwege rot markieren! Kopfsteinpflaster bei den Seitenwegen wegmachen</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3000</styleUrl>
         <LineString>
@@ -959,7 +959,7 @@
       </Placemark>
       <Placemark>
         <name>rot_LHM-Route-Bordeauplatz</name>
-        <description>schmaler Radstreifen zwischen Parken,Buslinie, Tram: maxmimal gef√§hrlich</description>
+        <description>schmaler Radstreifen zwischen Parken,Buslinie, Tram: maxmimal gef‰hrlich</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3000</styleUrl>
         <LineString>
@@ -977,7 +977,7 @@
       </Placemark>
       <Placemark>
         <name>Wettersteinplatz</name>
-        <description>schwierige Wegef√ºhrung</description>
+        <description>schwierige Wegef¸hrung</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5000</styleUrl>
         <LineString>
@@ -1003,7 +1003,7 @@
       </Placemark>
       <Placemark>
         <name>HR Ost 9</name>
-        <description>√úbergang Kreillerstra√üe, viele Rechtsabbieger kreuzen den Radweg</description>
+        <description>‹bergang Kreillerstraﬂe, viele Rechtsabbieger kreuzen den Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-9000</styleUrl>
         <LineString>
@@ -1012,7 +1012,7 @@
       </Placemark>
       <Placemark>
         <name>HR Ost 5</name>
-        <description>√úbergang Friedenspromenade, viele Rechtsabbieger kreuzen den Radweg</description>
+        <description>‹bergang Friedenspromenade, viele Rechtsabbieger kreuzen den Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5000</styleUrl>
         <LineString>
@@ -1030,7 +1030,7 @@
       </Placemark>
       <Placemark>
         <name>HR Ost 7</name>
-        <description>√úbergang Schatzbogen, viele Rechtsabbieger kreuzen den Radweg</description>
+        <description>‹bergang Schatzbogen, viele Rechtsabbieger kreuzen den Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6000</styleUrl>
         <LineString>
@@ -1048,7 +1048,7 @@
       </Placemark>
       <Placemark>
         <name>HR Ost 3</name>
-        <description>√úbergang Hagebaumarkt</description>
+        <description>‹bergang Hagebaumarkt</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5000</styleUrl>
         <LineString>
@@ -1066,7 +1066,7 @@
       </Placemark>
       <Placemark>
         <name>HR Ost 13</name>
-        <description>Absch√ºssiger schmaler, schlecht geteerter (aufbrechende Wurzeln) Radweg endet an (fr√ºh abends schon ausgeschalteter) Ampel</description>
+        <description>Absch¸ssiger schmaler, schlecht geteerter (aufbrechende Wurzeln) Radweg endet an (fr¸h abends schon ausgeschalteter) Ampel</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-8000</styleUrl>
         <LineString>
@@ -1075,7 +1075,7 @@
       </Placemark>
       <Placemark>
         <name>Ost NN Ab8</name>
-        <description>Radweg zusammen mit Autos, steil und endet uneinsichtig auf Kopfsteinpflaster mit Randstein und Fussg√§ngern</description>
+        <description>Radweg zusammen mit Autos, steil und endet uneinsichtig auf Kopfsteinpflaster mit Randstein und Fussg‰ngern</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3000</styleUrl>
         <LineString>
@@ -1120,7 +1120,7 @@
       </Placemark>
       <Placemark>
         <name>HR Ost 11</name>
-        <description>Rechtsabbieger mit Gr√ºnem Pfeil kreuzen den Radweg</description>
+        <description>Rechtsabbieger mit Gr¸nem Pfeil kreuzen den Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6000</styleUrl>
         <LineString>
@@ -1128,7 +1128,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_F√ºrstenrieder Str</name>
+        <name>rot_F¸rstenrieder Str</name>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-3000-nodesc</styleUrl>
         <LineString>
@@ -1137,7 +1137,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Querung Vollmannstr</name>
-        <description>Ampelschaltung ung√ºnstig&lt;br&gt;Ma√ünahme: vorgezogener Aufstellbereich</description>
+        <description>Ampelschaltung ung¸nstig&lt;br&gt;Maﬂnahme: vorgezogener Aufstellbereich</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-2000</styleUrl>
         <LineString>
@@ -1146,7 +1146,7 @@
       </Placemark>
       <Placemark>
         <name>Mae West</name>
-        <description>schwierige Wegef√ºhrung, viel Verkehr</description>
+        <description>schwierige Wegef¸hrung, viel Verkehr</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-3000</styleUrl>
         <LineString>
@@ -1155,7 +1155,7 @@
       </Placemark>
       <Placemark>
         <name>Am Bergsteig</name>
-        <description>kein Radweg, Pflastersteine&lt;br&gt;Ma√ünahme: Radweg auf der Wiese zwischen Fu√üwegund Parkstreifen oder Fahrradstr mit Asphalt</description>
+        <description>kein Radweg, Pflastersteine&lt;br&gt;Maﬂnahme: Radweg auf der Wiese zwischen Fuﬂwegund Parkstreifen oder Fahrradstr mit Asphalt</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3000</styleUrl>
         <LineString>
@@ -1163,7 +1163,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Rheinstra√üe</name>
+        <name>rot_Rheinstraﬂe</name>
         <description>eng, schlechter Belag, viel Pkw-Verkehr</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2000</styleUrl>
@@ -1173,7 +1173,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Karl-Wieninger-Weg</name>
-        <description>Einm√ºndung ist meist durch parkende Fahrzeuge oder Anh√§nger versperrt. &lt;br&gt;Ma√ünahme: Absenken des B√ºrgersteigs in der Kurve und ZickzackMarkierung in der Einm√ºndung</description>
+        <description>Einm¸ndung ist meist durch parkende Fahrzeuge oder Anh‰nger versperrt. &lt;br&gt;Maﬂnahme: Absenken des B¸rgersteigs in der Kurve und ZickzackMarkierung in der Einm¸ndung</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3000</styleUrl>
         <LineString>
@@ -1182,7 +1182,7 @@
       </Placemark>
       <Placemark>
         <name>Querung Geiselgasteig</name>
-        <description>Ist: keine Querungsm√∂glichkeit&lt;br&gt;Ma√ünahme: sicher Querung</description>
+        <description>Ist: keine Querungsmˆglichkeit&lt;br&gt;Maﬂnahme: sicher Querung</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3325</styleUrl>
         <LineString>
@@ -1191,7 +1191,7 @@
       </Placemark>
       <Placemark>
         <name>Hohenzollernstrasse Einbahn</name>
-        <description>Einkaufsstr., kein Anwohnerparken erlaubt&lt;br&gt;Ma√ünahme: Radweg gegen die Einbahn&lt;br&gt;(eine Seite der Parkpl√§tze umwandeln)</description>
+        <description>Einkaufsstr., kein Anwohnerparken erlaubt&lt;br&gt;Maﬂnahme: Radweg gegen die Einbahn&lt;br&gt;(eine Seite der Parkpl‰tze umwandeln)</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2550</styleUrl>
         <LineString>
@@ -1200,7 +1200,7 @@
       </Placemark>
       <Placemark>
         <name>Leonrodstr</name>
-        <description>kein Radweg oder Radstreifen auf der Stra√üe&lt;br&gt;Ma√ünahme: gesch√ºtzter Radweg</description>
+        <description>kein Radweg oder Radstreifen auf der Straﬂe&lt;br&gt;Maﬂnahme: gesch¸tzter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3713</styleUrl>
         <LineString>
@@ -1209,7 +1209,7 @@
       </Placemark>
       <Placemark>
         <name>Wendl-Dietrich-Str</name>
-        <description>Ist: schmaler Radstreifen zwischen Stra√üe mit Buslinie und Parkpl√§tzen bei Tempo 50!&lt;br&gt;Ma√ünahme: gesch√ºtzter Radweg und Tempo 30</description>
+        <description>Ist: schmaler Radstreifen zwischen Straﬂe mit Buslinie und Parkpl‰tzen bei Tempo 50!&lt;br&gt;Maﬂnahme: gesch¸tzter Radweg und Tempo 30</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3906</styleUrl>
         <LineString>
@@ -1218,7 +1218,7 @@
       </Placemark>
       <Placemark>
         <name>Winzererstr R.Lothstr</name>
-        <description>schmaler unebener Radstreifen&lt;br&gt;Ma√ünahme: L√§ngsparker statt Querparker, Radweg verbessern</description>
+        <description>schmaler unebener Radstreifen&lt;br&gt;Maﬂnahme: L‰ngsparker statt Querparker, Radweg verbessern</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-4488</styleUrl>
         <LineString>
@@ -1234,7 +1234,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Schlicherweg gelb oder gr√ºn?</name>
+        <name>Schlicherweg gelb oder gr¸n?</name>
         <description>to do</description>
         <visibility>1</visibility>
         <styleUrl>#line-757575-6000</styleUrl>
@@ -1243,7 +1243,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Feldmochingerstra√üe</name>
+        <name>Feldmochingerstraﬂe</name>
         <description>Kein Radweg, viel Kfz Verkehr</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2000</styleUrl>
@@ -1252,8 +1252,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>derzeitige Altstadt Nord-S√ºd Querung</name>
-        <description>sehr eng, viele Fu√üg√§nger</description>
+        <name>derzeitige Altstadt Nord-S¸d Querung</name>
+        <description>sehr eng, viele Fuﬂg‰nger</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-3000</styleUrl>
         <LineString>
@@ -1270,8 +1270,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hackerbr√ºcke, Grasserstr.</name>
-        <description>Kein Radweg. H√§ufige Konflikte mit Kfz-Verkehr.</description>
+        <name>Hackerbr¸cke, Grasserstr.</name>
+        <description>Kein Radweg. H‰ufige Konflikte mit Kfz-Verkehr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2000</styleUrl>
         <LineString>
@@ -1279,7 +1279,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Feldmochingerstra√üe</name>
+        <name>Feldmochingerstraﬂe</name>
         <description>Schlechter enger Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2000</styleUrl>
@@ -1288,7 +1288,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Verbindung zw Hackerbr√ºcke u Nymphenburgerstr.</name>
+        <name>Verbindung zw Hackerbr¸cke u Nymphenburgerstr.</name>
         <description>Radweg. Teils beengt. Mittlerer Kfz-Verkehr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-3000</styleUrl>
@@ -1305,8 +1305,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Kapuzinerstra√üe</name>
-        <description>Teilst√ºck ab Lindwurmstra√üe&lt;br&gt;IST: viele motorisierte, schmaler Radstreifen</description>
+        <name>Kapuzinerstraﬂe</name>
+        <description>Teilst¸ck ab Lindwurmstraﬂe&lt;br&gt;IST: viele motorisierte, schmaler Radstreifen</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-1775</styleUrl>
         <LineString>
@@ -1314,7 +1314,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>K√∂nigsplatz</name>
+        <name>Kˆnigsplatz</name>
         <description>teils sehr schmal, teils Kopfsteinpflaster</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-5263</styleUrl>
@@ -1323,7 +1323,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Marsstra√üe</name>
+        <name>Marsstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6000-nodesc</styleUrl>
         <LineString>
@@ -1331,7 +1331,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Marsstra√üe 2</name>
+        <name>Marsstraﬂe 2</name>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000-nodesc</styleUrl>
         <LineString>
@@ -1339,8 +1339,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Thalkirchener Br√ºcke-Boschetsrieder Str</name>
-        <description>wie kommt man von der Boschetsrieder zur Thalkirchener Br√ºcke? Auf der Stra√üe und dann muss man hoch schieben auf dem Fu√üweg nach NW oder den Schmiedberg hoch radeln ohne Radweg nach SW&lt;br&gt;Die Alternative ist¬†Greinerberg, Zennerstr. und Pognerstr.</description>
+        <name>Thalkirchener Br¸cke-Boschetsrieder Str</name>
+        <description>wie kommt man von der Boschetsrieder zur Thalkirchener Br¸cke? Auf der Straﬂe und dann muss man hoch schieben auf dem Fuﬂweg nach NW oder den Schmiedberg hoch radeln ohne Radweg nach SW&lt;br&gt;Die Alternative ist†Greinerberg, Zennerstr. und Pognerstr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-7000</styleUrl>
         <LineString>
@@ -1348,7 +1348,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>N√∂rdliche Auffahrtallee</name>
+        <name>Nˆrdliche Auffahrtallee</name>
         <description>kein Radweg, viele "Rechts vor Links-Kreuzungen</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5456</styleUrl>
@@ -1357,7 +1357,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>S√ºdliche Auffahrtallee</name>
+        <name>S¸dliche Auffahrtallee</name>
         <description>kein Radweg, viele "Rechts vor Links"-Kreuzungen</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4681</styleUrl>
@@ -1394,7 +1394,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Ungsteiner Str.</name>
-        <description>schlechter Belag, kein Radweg, enge Stra√üe mit¬† oft entgegenkommenden Autos</description>
+        <description>schlechter Belag, kein Radweg, enge Straﬂe mit† oft entgegenkommenden Autos</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-4681</styleUrl>
         <LineString>
@@ -1403,7 +1403,7 @@
       </Placemark>
       <Placemark>
         <name>Frankenthaler Str. / Perlacher Weg</name>
-        <description>kein Radweg, aber ruhige Stra√üe</description>
+        <description>kein Radweg, aber ruhige Straﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-4294</styleUrl>
         <LineString>
@@ -1444,8 +1444,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Hubertusstra√üe</name>
-        <description>Nebenstra√üe, wenig Verkehr, kein oder sehr schmaler Radweg¬†</description>
+        <name>gelb_Hubertusstraﬂe</name>
+        <description>Nebenstraﬂe, wenig Verkehr, kein oder sehr schmaler Radweg†</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2744</styleUrl>
         <LineString>
@@ -1453,8 +1453,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_W√ºrmradweg-Allach-Behringstr</name>
-        <description>gr√ºn oder gelb?</description>
+        <name>gelb_W¸rmradweg-Allach-Behringstr</name>
+        <description>gr¸n oder gelb?</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2356</styleUrl>
         <LineString>
@@ -1489,8 +1489,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Herterichstra√üe</name>
-        <description>Beidseitige Radwege auf diesem Abschnitt vorhanden, jedoch schmal. Ma√ünahmen: Verbreitern und sichtbarer machen.</description>
+        <name>gelb_Herterichstraﬂe</name>
+        <description>Beidseitige Radwege auf diesem Abschnitt vorhanden, jedoch schmal. Maﬂnahmen: Verbreitern und sichtbarer machen.</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3519</styleUrl>
         <LineString>
@@ -1498,8 +1498,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>gelb_Thalkirchner Stra√üe 114 bis Ecke Walterstra√üe</name>
-        <description>Sehr schmaler Radweg, den gro√üteil der Strecke eingeklemmt zwischen Fu√üweg, parkenden Autos und Stra√üenverkehr mit 50km/h</description>
+        <name>gelb_Thalkirchner Straﬂe 114 bis Ecke Walterstraﬂe</name>
+        <description>Sehr schmaler Radweg, den groﬂteil der Strecke eingeklemmt zwischen Fuﬂweg, parkenden Autos und Straﬂenverkehr mit 50km/h</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-3131</styleUrl>
         <LineString>
@@ -1507,7 +1507,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Arnulfstra√üe</name>
+        <name>rot_Arnulfstraﬂe</name>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2744-nodesc</styleUrl>
         <LineString>
@@ -1515,8 +1515,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Menzingerstra√üe</name>
-        <description>Ist: kein Radweg, keine Fahrradstra√üe&lt;br&gt;Ma√ünahme: Kombination aus Fahrradstra√üe und Radweg. In der Menzinger Stra√üe w√§re problemlos ein Fahrradweg realisierbar, die Stra√üe ist breit genug. Im s√ºdlichsten Abschnitt ist f√ºr 200 m bereits einer Vorhanden.&lt;br&gt;Initiatorin:¬†Julia Lindemann</description>
+        <name>rot_Menzingerstraﬂe</name>
+        <description>Ist: kein Radweg, keine Fahrradstraﬂe&lt;br&gt;Maﬂnahme: Kombination aus Fahrradstraﬂe und Radweg. In der Menzinger Straﬂe w‰re problemlos ein Fahrradweg realisierbar, die Straﬂe ist breit genug. Im s¸dlichsten Abschnitt ist f¸r 200 m bereits einer Vorhanden.&lt;br&gt;Initiatorin:†Julia Lindemann</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2744</styleUrl>
         <LineString>
@@ -1524,8 +1524,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>rot_Zentrall√§ndstra√üe</name>
-        <description>Kein Radweg, Fu√üweg f√ºr Kinder mit Rad zu schmal, Auto zu schnell</description>
+        <name>rot_Zentrall‰ndstraﬂe</name>
+        <description>Kein Radweg, Fuﬂweg f¸r Kinder mit Rad zu schmal, Auto zu schnell</description>
         <visibility>1</visibility>
         <styleUrl>#line-C2185B-2000</styleUrl>
         <LineString>
@@ -1534,7 +1534,7 @@
       </Placemark>
       <Placemark>
         <name>rot_Herterichstr</name>
-        <description>gef√§hrliche Kreuzung</description>
+        <description>gef‰hrliche Kreuzung</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-4000</styleUrl>
         <LineString>
@@ -1543,7 +1543,7 @@
       </Placemark>
       <Placemark>
         <name>to do Greinerberg</name>
-        <description>Ist:&lt;br&gt;Soll/Ma√ünahme:¬†</description>
+        <description>Ist:&lt;br&gt;Soll/Maﬂnahme:†</description>
         <visibility>1</visibility>
         <styleUrl>#line-757575-4875</styleUrl>
         <LineString>
@@ -1552,7 +1552,7 @@
       </Placemark>
       <Placemark>
         <name>Pienzenauerstr</name>
-        <description>Alternative Mauerkircherstr&lt;br&gt;Quelle B√ºrgerInnen Radlnetz 2018</description>
+        <description>Alternative Mauerkircherstr&lt;br&gt;Quelle B¸rgerInnen Radlnetz 2018</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-2356</styleUrl>
         <LineString>

@@ -4,11 +4,11 @@
     <description>doc description</description>
     <visibility>1</visibility>
     <Folder>
-      <name>BÃ¼rger-Eingaben</name>
+      <name>Bürger-Eingaben</name>
       <visibility>1</visibility>
       <Placemark>
-        <name>Beispiel: grÃ¼n_Musterstrasse</name>
-        <description>Ist: sicherer und komfortabler Radweg, Fahrradstrasse&lt;br&gt;MaÃŸnahme: Belag verbessern, HÃ¶henausgleich an Kreuzungen, ...</description>
+        <name>Beispiel: grün_Musterstrasse</name>
+        <description>Ist: sicherer und komfortabler Radweg, Fahrradstrasse&lt;br&gt;Maßnahme: Belag verbessern, Höhenausgleich an Kreuzungen, ...</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-5000</styleUrl>
         <LineString>
@@ -17,7 +17,7 @@
       </Placemark>
       <Placemark>
         <name>Beispiel:geb_rot</name>
-        <description>Ist: wenig Verkehr aber kein Radweg (gelb)&lt;br&gt;MaÃŸnahme: FahrradstraÃŸe&lt;br&gt;Ist: zu schmal, schlechter Belag, unsichere Kreuzung (rot)&lt;br&gt;MaÃŸnahme: geschÃ¼tzter, breiter Radweg, ebener Belag</description>
+        <description>Ist: wenig Verkehr aber kein Radweg (gelb)&lt;br&gt;Maßnahme: Fahrradstraße&lt;br&gt;Ist: zu schmal, schlechter Belag, unsichere Kreuzung (rot)&lt;br&gt;Maßnahme: geschützter, breiter Radweg, ebener Belag</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000</styleUrl>
         <LineString>
@@ -26,7 +26,7 @@
       </Placemark>
       <Placemark>
         <name>gelb oder rot? Moosacher Str. / Frankfurter Ring</name>
-        <description>IST: : vsehr viele Motorisierte, schnell (Tempo 60), viele Ampeln, Einfahrten&lt;br&gt;Soll/MaÃŸnahme: schÃ¼tzte breite Radwege</description>
+        <description>IST: : vsehr viele Motorisierte, schnell (Tempo 60), viele Ampeln, Einfahrten&lt;br&gt;Soll/Maßnahme: schützte breite Radwege</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-2000</styleUrl>
         <LineString>
@@ -34,7 +34,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>to do Strecke vor/hinter LÃ¼cke!</name>
+        <name>to do Strecke vor/hinter Lücke!</name>
         <description>Keine legale Fahrrad Verbindung. In Folge Konflikte mit Gehweg.</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
@@ -43,8 +43,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>to do PommernstraÃŸe (LHM Hauptweg)</name>
-        <description>Ist: grÃ¼n/gelb/rot?&lt;br&gt;MaÃŸnahmen: ?</description>
+        <name>to do Pommernstraße (LHM Hauptweg)</name>
+        <description>Ist: grün/gelb/rot?&lt;br&gt;Maßnahmen: ?</description>
         <visibility>1</visibility>
         <styleUrl>#line-757575-8000</styleUrl>
         <LineString>
@@ -53,7 +53,7 @@
       </Placemark>
       <Placemark>
         <name>to do Milbertshofer Str (LHM Hauptweg)</name>
-        <description>Ist: grÃ¼n/gelb/rot?&lt;br&gt;MaÃŸnahmen: ?</description>
+        <description>Ist: grün/gelb/rot?&lt;br&gt;Maßnahmen: ?</description>
         <visibility>1</visibility>
         <styleUrl>#line-757575-5000</styleUrl>
         <LineString>
@@ -62,7 +62,7 @@
       </Placemark>
       <Placemark>
         <name>ro do Domagstr (LHM Hauptweg)</name>
-        <description>Ist: grÃ¼n/gelb/rot?&lt;br&gt;MaÃŸnahmen: ?</description>
+        <description>Ist: grün/gelb/rot?&lt;br&gt;Maßnahmen: ?</description>
         <visibility>1</visibility>
         <styleUrl>#line-757575-8000</styleUrl>
         <LineString>
@@ -71,7 +71,7 @@
       </Placemark>
       <Placemark>
         <name>to do Forstenrieder Park-Leutstetten</name>
-        <description>VerlÃ¤ngerung der Geraden durch den Forstenrieder Park weiter nach Leutstetten und Starnberg</description>
+        <description>Verlängerung der Geraden durch den Forstenrieder Park weiter nach Leutstetten und Starnberg</description>
         <visibility>1</visibility>
         <styleUrl>#line-757575-7000</styleUrl>
         <LineString>
@@ -79,8 +79,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Thalkirchner StraÃŸe 4 - Ecke WalterstraÃŸe</name>
-        <description>Der Fahrradweg endet auf HÃ¶he der WalterstraÃŸe abrupt und zwingt Fahrradfahrer dazu, auf der StraÃŸe zu fahren (50er Zone). MÃ¶gliche Verbesserungen wÃ¤ren z.B. EinfÃ¼hrung einer durchgehenden 30er Zone oder Umnutzung der friedhofsseitigen ParkplÃ¤tze zu einem Fahrradweg</description>
+        <name>Thalkirchner Straße 4 - Ecke Walterstraße</name>
+        <description>Der Fahrradweg endet auf Höhe der Walterstraße abrupt und zwingt Fahrradfahrer dazu, auf der Straße zu fahren (50er Zone). Mögliche Verbesserungen wären z.B. Einführung einer durchgehenden 30er Zone oder Umnutzung der friedhofsseitigen Parkplätze zu einem Fahrradweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2938</styleUrl>
         <LineString>

@@ -8,7 +8,7 @@
       <visibility>1</visibility>
       <Placemark>
         <name>Sachsenkanm-/Friedrich-Hebber-Str</name>
-        <description>Ist: Buslinie, kein Radweg&lt;br&gt;MaÃŸnahme: Fahrradstr oder Einbahnstr mit Radweg</description>
+        <description>Ist: Buslinie, kein Radweg&lt;br&gt;Maßnahme: Fahrradstr oder Einbahnstr mit Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6199</styleUrl>
         <LineString>
@@ -16,9 +16,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>BrÃ¼cke Sachsenkam-HÃ¶glwÃ¶rther Str
+        <name>Brücke Sachsenkam-Höglwörther Str
 </name>
-        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/vG8U79w-p5YTwoCdB0cV-exiINYjssoNo2PpYZYs9Em86U2Icpw9AwH97vU1srxdXfZS53HpCPcW20MAsoKsYhVNP9lGEXwHOGQK-VmopHQRu2VMCZw2XPELw5vdv7gNQHCxK6OXpgUQiMvv0PKg4Lfh7zCa7w6rZoct0dtOs_AnmPmmytM-MRvNS69BNc017bdh4O5s8Nnpcyt_rt_Oej8KFRDKogJyd7fZUuET3wGgxcKYZq7RnxlI" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;wenn man von der sÃ¼dl. zur nÃ¶rdl. Seite des Weges wechseln will, muss man die hohe Bodenschwelle vom Bus umrunden, sonst gut zu Ã¼berqueren</description>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/vG8U79w-p5YTwoCdB0cV-exiINYjssoNo2PpYZYs9Em86U2Icpw9AwH97vU1srxdXfZS53HpCPcW20MAsoKsYhVNP9lGEXwHOGQK-VmopHQRu2VMCZw2XPELw5vdv7gNQHCxK6OXpgUQiMvv0PKg4Lfh7zCa7w6rZoct0dtOs_AnmPmmytM-MRvNS69BNc017bdh4O5s8Nnpcyt_rt_Oej8KFRDKogJyd7fZUuET3wGgxcKYZq7RnxlI" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;wenn man von der südl. zur nördl. Seite des Weges wechseln will, muss man die hohe Bodenschwelle vom Bus umrunden, sonst gut zu überqueren</description>
         <visibility>1</visibility>
         <styleUrl>#icon-1899-000000</styleUrl>
         <ExtendedData>
@@ -31,7 +31,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Querung Luisenstr</name>
+        <name>Lücke Querung Luisenstr</name>
         <description>fehlende Querung Richtung Hbf</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5456</styleUrl>
@@ -40,8 +40,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼ckenschluss Giesinger Bahnhof</name>
-        <description>? prÃ¼fen</description>
+        <name>Lückenschluss Giesinger Bahnhof</name>
+        <description>? prüfen</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-4681</styleUrl>
         <LineString>
@@ -50,7 +50,7 @@
       </Placemark>
       <Placemark>
         <name>Truderinger str</name>
-        <description>kein Radweg auf einer HauptstraÃŸe !</description>
+        <description>kein Radweg auf einer Hauptstraße !</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
         <LineString>
@@ -58,7 +58,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>schwarz_MÃ¼hldorfstraÃŸe</name>
+        <name>schwarz_Mühldorfstraße</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000-nodesc</styleUrl>
         <LineString>
@@ -66,7 +66,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>BrÃ¼cke oder Tunnel Innsbrucker Ring</name>
+        <name>Brücke oder Tunnel Innsbrucker Ring</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000-nodesc</styleUrl>
         <LineString>
@@ -74,7 +74,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Parkplatz SchÃ¶nstr/Candiplatz</name>
+        <name>Lücke Parkplatz Schönstr/Candiplatz</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000-nodesc</styleUrl>
         <LineString>
@@ -82,7 +82,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke BrÃ¼cker Ã¼ber Leutenbergring</name>
+        <name>Lücke Brücker über Leutenbergring</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000-nodesc</styleUrl>
         <LineString>
@@ -90,8 +90,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Isartalradweg</name>
-        <description>grober Bahnschotter, nicht befahrbar&lt;br&gt;MaÃŸnahme: asphaltieren</description>
+        <name>Lücke Isartalradweg</name>
+        <description>grober Bahnschotter, nicht befahrbar&lt;br&gt;Maßnahme: asphaltieren</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
         <LineString>
@@ -99,7 +99,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke_IsartalbrÃ¼cke</name>
+        <name>Lücke_Isartalbrücke</name>
         <description>Muss saniert werden</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
@@ -118,7 +118,7 @@
       <Placemark>
         <name>KVR, Bebauungsplan Nr. 1791
 </name>
-        <description>geplante BaumaÃŸnahme&lt;br&gt;http://www.muenchen.info/plan/bebauungsplan/p_8720_1791.pdf</description>
+        <description>geplante Baumaßnahme&lt;br&gt;http://www.muenchen.info/plan/bebauungsplan/p_8720_1791.pdf</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2348</styleUrl>
         <LineString>
@@ -136,7 +136,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Bahn SÃ¼dring
+        <name>Lücke Bahn Südring
 </name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-1770-nodesc</styleUrl>
@@ -145,8 +145,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke am Schlachthof</name>
-        <description>Hoffentlich werden Radwege beim den BaumaÃŸnahmen berÃ¼cksichtigt. Es kÃ¶nnte eine wichtige Verbindung entstehen</description>
+        <name>Lücke am Schlachthof</name>
+        <description>Hoffentlich werden Radwege beim den Baumaßnahmen berücksichtigt. Es könnte eine wichtige Verbindung entstehen</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6231</styleUrl>
         <LineString>
@@ -154,8 +154,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>SilberhornstraÃŸe</name>
-        <description>kein Radweg&lt;br&gt;MaÃŸnahme: eine Fahrspur als geschÃ¼tzter Radweg</description>
+        <name>Silberhornstraße</name>
+        <description>kein Radweg&lt;br&gt;Maßnahme: eine Fahrspur als geschützter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2744</styleUrl>
         <LineString>
@@ -164,7 +164,7 @@
       </Placemark>
       <Placemark>
         <name>Silberhornstr Giesinger Berg</name>
-        <description>MaÃŸnahme: eine Fahrspur als geschÃ¼tzter Radweg</description>
+        <description>Maßnahme: eine Fahrspur als geschützter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-1200</styleUrl>
         <LineString>
@@ -172,7 +172,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Regerstr</name>
+        <name>Lücke Regerstr</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2356-nodesc</styleUrl>
         <LineString>
@@ -180,8 +180,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Idee LÃ¼cke Ostfriedhof</name>
-        <description>weil es in dieser Gegend schwierig ist, mÃ¼ssen wir vielleicht Ã¼ber unkonventionelle LÃ¶sungen nachdenken&lt;br&gt;z.B. ein Hochradweg</description>
+        <name>Idee Lücke Ostfriedhof</name>
+        <description>weil es in dieser Gegend schwierig ist, müssen wir vielleicht über unkonventionelle Lösungen nachdenken&lt;br&gt;z.B. ein Hochradweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2744</styleUrl>
         <LineString>
@@ -190,7 +190,7 @@
       </Placemark>
       <Placemark>
         <name>Martin-Luther-Str</name>
-        <description>Das Grauen am Giesinger Berg&lt;br&gt;mÃ¶glichst meiden&lt;br&gt;MaÃŸnahme: eine Fahrspur als geschÃ¼tzter Radweg</description>
+        <description>Das Grauen am Giesinger Berg&lt;br&gt;möglichst meiden&lt;br&gt;Maßnahme: eine Fahrspur als geschützter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-4681</styleUrl>
         <LineString>
@@ -198,8 +198,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Braunecker BrÃ¼cke</name>
-        <description>wichtige Verbindung Ã¼ber die Isar</description>
+        <name>Lücke Braunecker Brücke</name>
+        <description>wichtige Verbindung über die Isar</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6038</styleUrl>
         <LineString>
@@ -207,8 +207,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>DachauerstraÃŸe LÃ¼cke</name>
-        <description>Radweg nur stadtauswÃ¤rts, keine legale MÃ¶glichkeit stadteinwÃ¤rts bis zur Kreuzung Georg-Brauchle-Ring!&lt;br&gt;Fehlstelle! LÃ¼cke stadteinwÃ¤rts</description>
+        <name>Dachauerstraße Lücke</name>
+        <description>Radweg nur stadtauswärts, keine legale Möglichkeit stadteinwärts bis zur Kreuzung Georg-Brauchle-Ring!&lt;br&gt;Fehlstelle! Lücke stadteinwärts</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
         <LineString>
@@ -216,8 +216,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke Moosacher Bf. Querung Dachauer Str.</name>
-        <description>LÃ¼cke! Keine Querungshilfe. Starker Kfz Verkehr.</description>
+        <name>Lücke Moosacher Bf. Querung Dachauer Str.</name>
+        <description>Lücke! Keine Querungshilfe. Starker Kfz Verkehr.</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
         <LineString>
@@ -225,8 +225,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>ErzgieÃŸereistraÃŸe</name>
-        <description>LÃ¼cke! Befahrung Richtung HackerbrÃ¼cke nicht mÃ¶glich. EinbahnstraÃŸe fÃ¼r Radfahrer Ã¶ffnen.</description>
+        <name>Erzgießereistraße</name>
+        <description>Lücke! Befahrung Richtung Hackerbrücke nicht möglich. Einbahnstraße für Radfahrer öffnen.</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-3713</styleUrl>
         <LineString>
@@ -234,8 +234,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Nymphenburger Str. TeilstÃ¼ck</name>
-        <description>LÃ¼cke! Nymphenburger Str. Radweg Nordseite zw ErzgieÃŸereistr und Papenheimerstr. Nutzung fÃ¼r beide Fahrrichtungen ermÃ¶glichen.</description>
+        <name>Nymphenburger Str. Teilstück</name>
+        <description>Lücke! Nymphenburger Str. Radweg Nordseite zw Erzgießereistr und Papenheimerstr. Nutzung für beide Fahrrichtungen ermöglichen.</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-2000</styleUrl>
         <LineString>
@@ -243,8 +243,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hohenzollernstr. (zw Winzerer und SchleiÃŸheimerstr.)</name>
-        <description>LÃ¼cke! Kein Radweg. Starker Kfz-Verkehr. Teils gefÃ¤hrliche Verengung durch parkende Kfz.</description>
+        <name>Hohenzollernstr. (zw Winzerer und Schleißheimerstr.)</name>
+        <description>Lücke! Kein Radweg. Starker Kfz-Verkehr. Teils gefährliche Verengung durch parkende Kfz.</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-3000</styleUrl>
         <LineString>
@@ -252,8 +252,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>OhlmÃ¼llerstrasse</name>
-        <description>Radweg fehltÂ </description>
+        <name>Ohlmüllerstrasse</name>
+        <description>Radweg fehlt </description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-4000</styleUrl>
         <LineString>
@@ -283,7 +283,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>LÃ¼cke: Auffahrt zur BrÃ¼cke Coubertinplatz</name>
+        <name>Lücke: Auffahrt zur Brücke Coubertinplatz</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-1200-nodesc</styleUrl>
         <LineString>
@@ -291,7 +291,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>ElisenstraÃŸe</name>
+        <name>Elisenstraße</name>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6000-nodesc</styleUrl>
         <LineString>
@@ -299,8 +299,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Chiemgaustr. UnterfÃ¼hrung Mittl. Ring</name>
-        <description>Radfahrer mÃ¼ssen sich bei der UnterfÃ¼hrung in den flieÃŸenden Verkehr des Mittleren Rings! einordnen - extrem gefÃ¤hrlich!</description>
+        <name>Chiemgaustr. Unterführung Mittl. Ring</name>
+        <description>Radfahrer müssen sich bei der Unterführung in den fließenden Verkehr des Mittleren Rings! einordnen - extrem gefährlich!</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5069</styleUrl>
         <LineString>
@@ -308,8 +308,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Werinherstr. UnterfÃ¼hrung</name>
-        <description>Radfahrer mÃ¼ssen sich an der UnterfÃ¼hrung in den flieÃŸenden Verkehr einordnen (was von PKW / LKW oft ignoriert wird) - gefÃ¤hrlich!</description>
+        <name>Werinherstr. Unterführung</name>
+        <description>Radfahrer müssen sich an der Unterführung in den fließenden Verkehr einordnen (was von PKW / LKW oft ignoriert wird) - gefährlich!</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-5456</styleUrl>
         <LineString>
@@ -318,7 +318,7 @@
       </Placemark>
       <Placemark>
         <name>Maria-Einsiedler-Str. - bergab</name>
-        <description>&lt;img src="https://lh5.googleusercontent.com/qKMgPilVgXUnnB7aIO2kESj-G703K_CDi52qbNcN8yFrWXrAkrCkN4NBbwfSKlhM76OJAIECXwF5s7fSwAtBxE92FHMVKC5mDMN4S3O-_OrQ_BPqSdPpsy1cP4xA2Qnu_9qePA" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;LÃ¼cke im Netz., FuÃŸ-/Radweg bergab fÃ¼r Radfahrer verboten&lt;br&gt;MaÃŸnahmeÂ  umbauen und ihn sicherer gestalten oder Schmiedbergweg : Schutzstreifen statt 2 Abbiegespuren oben</description>
+        <description>&lt;img src="https://lh5.googleusercontent.com/qKMgPilVgXUnnB7aIO2kESj-G703K_CDi52qbNcN8yFrWXrAkrCkN4NBbwfSKlhM76OJAIECXwF5s7fSwAtBxE92FHMVKC5mDMN4S3O-_OrQ_BPqSdPpsy1cP4xA2Qnu_9qePA" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Lücke im Netz., Fuß-/Radweg bergab für Radfahrer verboten&lt;br&gt;Maßnahme  umbauen und ihn sicherer gestalten oder Schmiedbergweg : Schutzstreifen statt 2 Abbiegespuren oben</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-3325</styleUrl>
         <ExtendedData>

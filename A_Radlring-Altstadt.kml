@@ -8,7 +8,7 @@
       <visibility>1</visibility>
       <Placemark>
         <name>Radlring_Karl-Scharnagl-Ring</name>
-        <description>2,30 meter breiter und gesch√ºtzter Radweg</description>
+        <description>2,30 meter breiter und gesch¸tzter Radweg</description>
         <visibility>1</visibility>
         <styleUrl>#line-097138-6425</styleUrl>
         <LineString>
@@ -17,7 +17,7 @@
       </Placemark>
       <Placemark>
         <name>Radlring_Kreuzung Maximilian-Str.</name>
-        <description>Ist: Benachteiligung Ampelschaltung an Maximilianstra√üe &lt;br&gt;Ma√ünahme: Ampelschaltung an Maximilianstra√üe verbessern</description>
+        <description>Ist: Benachteiligung Ampelschaltung an Maximilianstraﬂe &lt;br&gt;Maﬂnahme: Ampelschaltung an Maximilianstraﬂe verbessern</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5650</styleUrl>
         <LineString>
@@ -26,7 +26,7 @@
       </Placemark>
       <Placemark>
         <name>Radlring_Thomas-Wimmer-R.</name>
-        <description>Radfreundliche L√∂sung nach Bauarbeiten Thomas-Wimmer-R.</description>
+        <description>Radfreundliche Lˆsung nach Bauarbeiten Thomas-Wimmer-R.</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000</styleUrl>
         <LineString>
@@ -34,7 +34,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Blumenstra√üe
+        <name>Radlring_Blumenstraﬂe
 
 </name>
         <description>(ab Corneliusstr.)</description>
@@ -45,8 +45,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Hofgartenstra√üe</name>
-        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/rVy4rf-PLqNrYSJ2im57sSOH9D37TDqzDZ0qbM4ZTMlQAL4CmNCWkAYmZJNfrbQ_AB2qY3nBykkD7-MFzEt9r246vOmXIg0g6H5268ZLIWMAI-KCVpGL4R3lzHFPXFv3lPHpf45cgf9D885iLyrNK80MM1MEfdJoDdLmgEGPczrhSHuy9LtKpvtyvw_XHUahwuKLs_K6MKRqr_oy4gkCG0sneUJ2DBCn8xiJKMO6d_FTPKcLKisEPqWa8Xhs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;markierte Wegef√ºhrung im Hofgarten,&lt;br&gt;Hofgartenstra√üe als Fahrradstra√üe</description>
+        <name>Radlring_Hofgartenstraﬂe</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/proxy/rVy4rf-PLqNrYSJ2im57sSOH9D37TDqzDZ0qbM4ZTMlQAL4CmNCWkAYmZJNfrbQ_AB2qY3nBykkD7-MFzEt9r246vOmXIg0g6H5268ZLIWMAI-KCVpGL4R3lzHFPXFv3lPHpf45cgf9D885iLyrNK80MM1MEfdJoDdLmgEGPczrhSHuy9LtKpvtyvw_XHUahwuKLs_K6MKRqr_oy4gkCG0sneUJ2DBCn8xiJKMO6d_FTPKcLKisEPqWa8Xhs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;markierte Wegef¸hrung im Hofgarten,&lt;br&gt;Hofgartenstraﬂe als Fahrradstraﬂe</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000</styleUrl>
         <ExtendedData>
@@ -60,7 +60,7 @@
       </Placemark>
       <Placemark>
         <name>Radlring_Maximilanplatz</name>
-        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/XWIODSceHwT1QwgXYOQY3JiiRe0DwhFQsTTWw-oM0RXbu8_Bh27v3AB2mkH94Rq1Tvdn22hCY-7LYhS6Ny-uWGoxJKgV00dpYcZNgnugB8ezIZaZuCnTVWdnq0bPjn9rF-PPWGJuAN4hHGCHecLEJjIe1F0-WgxWthsww8VbrXlaQMp1QfnmfPxAKm7Qkg-M6OpqTJKBiIxsp1J4dFraObLqvfSrMnXh8QEXsDtf7p7hPtsW5bLJGBzl" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: gesch√ºtzte und breite Radwege</description>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/XWIODSceHwT1QwgXYOQY3JiiRe0DwhFQsTTWw-oM0RXbu8_Bh27v3AB2mkH94Rq1Tvdn22hCY-7LYhS6Ny-uWGoxJKgV00dpYcZNgnugB8ezIZaZuCnTVWdnq0bPjn9rF-PPWGJuAN4hHGCHecLEJjIe1F0-WgxWthsww8VbrXlaQMp1QfnmfPxAKm7Qkg-M6OpqTJKBiIxsp1J4dFraObLqvfSrMnXh8QEXsDtf7p7hPtsW5bLJGBzl" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: gesch¸tzte und breite Radwege</description>
         <visibility>1</visibility>
         <styleUrl>#line-F9A825-5000</styleUrl>
         <ExtendedData>
@@ -81,7 +81,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Karlsplatz-Sonnenstra√üe</name>
+        <name>Radlring_Karlsplatz-Sonnenstraﬂe</name>
         <description>&lt;img src="https://lh3.googleusercontent.com/proxy/rdLghq7HL1E7kzwWJUiVa87BqWiaPYbB01f4HEiPrCL-Lb2cwtXG87DmcWepVI89odPpT6tElT50WNRFlR057_j5d8xgBgbNxjZMGIPwk174YJ-10YRpZPemHo-yvUg2PzF1rzrn2CMWFMRTGi87NWP0mLfLcQfqySa1W4rPCVaNtd2pDlpiItGV381dgrXJwjxU2aNq4eg8HmZLjjl65SvWXI5XPgV1W1N0rk0kXZL78dZ3IB6miCDg" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6000</styleUrl>
@@ -95,8 +95,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Sonnenstra√üe</name>
-        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/BQ6QjHW0BlOGvtyN-sw0FSZXqEeAnpCuSNfdcd8n_bkYzlYitHy-DkKcoModttqn_3EICwShPUQltYTKxrmZ0ofIONdFfVolVoDmDH7ywnenABQo9fep0L7pwNe2tHjvMUWpgL7NkSzgrVokmBVYG6T0DswfUGAnCwQZqP4PdlFgDSvNUlbdE3PRETfuogpBlqEYUNh-J3QdwiiOsbJwKp329qyU2RRS-UfUlROwPRY6e0USX1TWb0ucnjs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: gesch√ºtzter, breiter Radweg, getrennt von KfZ- und Fu√üg√§ngerverkehr</description>
+        <name>Radlring_Sonnenstraﬂe</name>
+        <description>&lt;img src="https://lh4.googleusercontent.com/proxy/BQ6QjHW0BlOGvtyN-sw0FSZXqEeAnpCuSNfdcd8n_bkYzlYitHy-DkKcoModttqn_3EICwShPUQltYTKxrmZ0ofIONdFfVolVoDmDH7ywnenABQo9fep0L7pwNe2tHjvMUWpgL7NkSzgrVokmBVYG6T0DswfUGAnCwQZqP4PdlFgDSvNUlbdE3PRETfuogpBlqEYUNh-J3QdwiiOsbJwKp329qyU2RRS-UfUlROwPRY6e0USX1TWb0ucnjs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: gesch¸tzter, breiter Radweg, getrennt von KfZ- und Fuﬂg‰ngerverkehr</description>
         <visibility>1</visibility>
         <styleUrl>#line-A52714-6000</styleUrl>
         <ExtendedData>
@@ -125,9 +125,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Blumenstra√üe¬† -
+        <name>Radlring_Blumenstraﬂe† -
 Sendling Tor</name>
-        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/OXWi0bz4MTYOhXdfkI70utb_kEbl1s2tpcmvlFw7TpNnVe1z175KkzdPWbQGPuUcyOFYcj0ySZs_5gwJKRov1DRx330-StZz8jlKioYGPMHPC-1fy5UI6hhEqm27qZvlgsfhwdR8pBehda_77I5AWMkpkSstjPt8MLYF28OS1zOMZgnCA9HiLhEs_wYGS4SgRr3fCRVzdjsNiTtP5tc0umGIn16guL7kBjINWpOVRQ3YhXU-aAnNE7gz" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: gesch√ºtzter, breiter Radweg, getrennt von KfZ- und Fu√üg√§ngerverkehr</description>
+        <description>&lt;img src="https://lh5.googleusercontent.com/proxy/OXWi0bz4MTYOhXdfkI70utb_kEbl1s2tpcmvlFw7TpNnVe1z175KkzdPWbQGPuUcyOFYcj0ySZs_5gwJKRov1DRx330-StZz8jlKioYGPMHPC-1fy5UI6hhEqm27qZvlgsfhwdR8pBehda_77I5AWMkpkSstjPt8MLYF28OS1zOMZgnCA9HiLhEs_wYGS4SgRr3fCRVzdjsNiTtP5tc0umGIn16guL7kBjINWpOVRQ3YhXU-aAnNE7gz" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: gesch¸tzter, breiter Radweg, getrennt von KfZ- und Fuﬂg‰ngerverkehr</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6000</styleUrl>
         <ExtendedData>
@@ -140,8 +140,8 @@ Sendling Tor</name>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Frauenstra√üe</name>
-        <description>/ Blumenstra√üe&lt;br&gt;(bis Corneliusstr.) Soll: Einbahnstra√üe am Viktualienmarkt (d.h. Frauenstr/Blumenstr. bis Ecke Corneliusstra√üe.</description>
+        <name>Radlring_Frauenstraﬂe</name>
+        <description>/ Blumenstraﬂe&lt;br&gt;(bis Corneliusstr.) Soll: Einbahnstraﬂe am Viktualienmarkt (d.h. Frauenstr/Blumenstr. bis Ecke Corneliusstraﬂe.</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6000</styleUrl>
         <LineString>
@@ -149,8 +149,8 @@ Sendling Tor</name>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Radlring_Brienner Stra√üe</name>
-        <description>&lt;img src="https://lh6.googleusercontent.com/proxy/khKSsZa7m6E-1P3DpwCAt3Q7xhuuNXN042KgSjws9F02dqr4GuCwLcw0xiKk58MmIMPbBThOuWVUUy3HJpQqEXMMWaxGyfoErx9hXbRjL4PPg82k8kKd3hXBc7lM9MNnsyazoXmmFcGn9SGjgviOZHdvUVLo3hE2V4vjJd9yWqOLb-3Wy0X_JHjA7xTbIIflFiBDsV9116GZ-Xr2TgSK2zDOThb-mqKhJaPPk4_xXO3Ou610_nGdlABE_Cw" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: Brienner Stra√üe wird zwischen Maximiliansplatz in Richtung Odeonsplatz zur Einbahnstra√üe&lt;br&gt;Beschlossen 07.2018, Bau 2019?</description>
+        <name>Radlring_Brienner Straﬂe</name>
+        <description>&lt;img src="https://lh6.googleusercontent.com/proxy/khKSsZa7m6E-1P3DpwCAt3Q7xhuuNXN042KgSjws9F02dqr4GuCwLcw0xiKk58MmIMPbBThOuWVUUy3HJpQqEXMMWaxGyfoErx9hXbRjL4PPg82k8kKd3hXBc7lM9MNnsyazoXmmFcGn9SGjgviOZHdvUVLo3hE2V4vjJd9yWqOLb-3Wy0X_JHjA7xTbIIflFiBDsV9116GZ-Xr2TgSK2zDOThb-mqKhJaPPk4_xXO3Ou610_nGdlABE_Cw" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Soll: Brienner Straﬂe wird zwischen Maximiliansplatz in Richtung Odeonsplatz zur Einbahnstraﬂe&lt;br&gt;Beschlossen 07.2018, Bau 2019?</description>
         <visibility>1</visibility>
         <styleUrl>#line-000000-6000</styleUrl>
         <ExtendedData>

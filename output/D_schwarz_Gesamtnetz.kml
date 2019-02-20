@@ -132,7 +132,7 @@
         <name>Lücke_Isartalbrücke</name>
         <description>Muss saniert werden</description>
         <visibility>1</visibility>
-        <styleUrl>Lücke</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.531916,48.074344,0.000000 11.531986,48.074703,0.000000</coordinates>
         </LineString>

@@ -872,7 +872,7 @@
         <name>schwarz_Schyrenstraße_Lücke</name>
         <description>Kopfsteinplaster, keine Querungsmöglichkeit&lt;br&gt;Maßnahme: Ampel abbauen, Vorfahrt Rad&lt;br&gt; glatte Pflaster, Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>schwarz_Schyrenstraße</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.570578,48.120511,0.000000 11.569140,48.121686,0.000000 11.569108,48.121829,0.000000</coordinates>
         </LineString>

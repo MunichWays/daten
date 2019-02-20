@@ -778,7 +778,7 @@
         <name>gelb_Isartalradweg_Großhesselohe</name>
         <description>Isartalradweg wenn Brücke saniert</description>
         <visibility>1</visibility>
-        <styleUrl>gelb_Isartalradweg</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.531916,48.074344,0.000000 11.533370,48.073950,0.000000 11.534282,48.073842,0.000000 11.535419,48.073842,0.000000</coordinates>
         </LineString>

@@ -3,6 +3,36 @@
     <name>doc name</name>
     <description>doc description</description>
     <visibility>1</visibility>
+    <Style id="grün">
+      <LineStyle>
+        <color>00ff00</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="gelb">
+      <LineStyle>
+        <color>ffff00</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="rot">
+      <LineStyle>
+        <color>ff0000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="schwarz">
+      <LineStyle>
+        <color>000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="grau">
+      <LineStyle>
+        <color>888888</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
     <Folder>
       <name>Bürger-Eingaben</name>
       <visibility>1</visibility>
@@ -10,7 +40,7 @@
         <name>Beispiel: grün_Musterstrasse</name>
         <description>Ist: sicherer und komfortabler Radweg, Fahrradstrasse&lt;br&gt;Maßnahme: Belag verbessern, Höhenausgleich an Kreuzungen, ...</description>
         <visibility>1</visibility>
-        <styleUrl>#line-097138-5000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.546502,48.156811,0.000000 11.545644,48.153948,0.000000</coordinates>
         </LineString>
@@ -19,7 +49,7 @@
         <name>Beispiel:geb_rot</name>
         <description>Ist: wenig Verkehr aber kein Radweg (gelb)&lt;br&gt;Maßnahme: Fahrradstraße&lt;br&gt;Ist: zu schmal, schlechter Belag, unsichere Kreuzung (rot)&lt;br&gt;Maßnahme: geschützter, breiter Radweg, ebener Belag</description>
         <visibility>1</visibility>
-        <styleUrl>#line-F9A825-5000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.546416,48.154148,0.000000 11.548905,48.155494,0.000000</coordinates>
         </LineString>
@@ -28,7 +58,7 @@
         <name>gelb oder rot? Moosacher Str. / Frankfurter Ring</name>
         <description>IST: : vsehr viele Motorisierte, schnell (Tempo 60), viele Ampeln, Einfahrten&lt;br&gt;Soll/Maßnahme: schützte breite Radwege</description>
         <visibility>1</visibility>
-        <styleUrl>#line-A52714-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.541299,48.186046,0.000000 11.550056,48.185636,0.000000 11.551604,48.185911,0.000000 11.574268,48.187606,0.000000</coordinates>
         </LineString>
@@ -37,7 +67,7 @@
         <name>to do Strecke vor/hinter Lücke!</name>
         <description>Keine legale Fahrrad Verbindung. In Folge Konflikte mit Gehweg.</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.566888,48.170457,0.000000 11.567223,48.170366,0.000000</coordinates>
         </LineString>
@@ -46,7 +76,7 @@
         <name>to do Pommernstraße (LHM Hauptweg)</name>
         <description>Ist: grün/gelb/rot?&lt;br&gt;Maßnahmen: ?</description>
         <visibility>1</visibility>
-        <styleUrl>#line-757575-8000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.551588,48.185689,0.000000 11.553562,48.183385,0.000000 11.556845,48.183528,0.000000 11.557403,48.184086,0.000000 11.563067,48.184144,0.000000 11.563132,48.184501,0.000000 11.563947,48.184516,0.000000 11.564183,48.184201,0.000000 11.565290,48.184430,0.000000 11.566662,48.184594,0.000000</coordinates>
         </LineString>
@@ -55,7 +85,7 @@
         <name>to do Milbertshofer Str (LHM Hauptweg)</name>
         <description>Ist: grün/gelb/rot?&lt;br&gt;Maßnahmen: ?</description>
         <visibility>1</visibility>
-        <styleUrl>#line-757575-5000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.566662,48.184544,0.000000 11.573804,48.184389,0.000000 11.580947,48.184105,0.000000 11.584439,48.184251,0.000000</coordinates>
         </LineString>
@@ -64,7 +94,7 @@
         <name>ro do Domagstr (LHM Hauptweg)</name>
         <description>Ist: grün/gelb/rot?&lt;br&gt;Maßnahmen: ?</description>
         <visibility>1</visibility>
-        <styleUrl>#line-757575-8000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.584590,48.184251,0.000000 11.587175,48.184330,0.000000 11.590136,48.184172,0.000000 11.592078,48.183979,0.000000 11.594449,48.183478,0.000000 11.597571,48.182591,0.000000 11.599460,48.181776,0.000000 11.600865,48.180910,0.000000 11.603826,48.179436,0.000000</coordinates>
         </LineString>
@@ -73,7 +103,7 @@
         <name>to do Forstenrieder Park-Leutstetten</name>
         <description>Verlängerung der Geraden durch den Forstenrieder Park weiter nach Leutstetten und Starnberg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-757575-7000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.425695,48.043316,0.000000 11.415932,48.035310,0.000000 11.414298,48.035199,0.000000 11.407107,48.032706,0.000000 11.404570,48.032369,0.000000 11.402843,48.031236,0.000000 11.399881,48.031336,0.000000 11.398025,48.031759,0.000000 11.396191,48.031953,0.000000 11.393079,48.031609,0.000000 11.391588,48.030920,0.000000 11.388418,48.030892,0.000000 11.387498,48.031207,0.000000 11.386180,48.030562,0.000000 11.385241,48.030698,0.000000 11.384172,48.030264,0.000000 11.381126,48.030319,0.000000 11.375709,48.031975,0.000000 11.375306,48.031819,0.000000 11.375597,48.030903,0.000000 11.375625,48.030171,0.000000 11.375417,48.029541,0.000000 11.374781,48.028972,0.000000 11.374317,48.028906,0.000000 11.374059,48.028978,0.000000 11.373929,48.029180,0.000000 11.374077,48.029425,0.000000 11.374441,48.029938,0.000000 11.374269,48.030093,0.000000 11.373902,48.030159,0.000000 11.372779,48.029805,0.000000 11.371991,48.029743,0.000000 11.370716,48.029504,0.000000 11.369540,48.029370,0.000000 11.367352,48.029155,0.000000 11.366770,48.028978,0.000000 11.366059,48.029532,0.000000 11.365045,48.029894,0.000000 11.363146,48.029542,0.000000 11.363189,48.028882,0.000000 11.349671,48.014846,0.000000</coordinates>
         </LineString>
@@ -82,7 +112,7 @@
         <name>Thalkirchner Straße 4 - Ecke Walterstraße</name>
         <description>Der Fahrradweg endet auf Höhe der Walterstraße abrupt und zwingt Fahrradfahrer dazu, auf der Straße zu fahren (50er Zone). Mögliche Verbesserungen wären z.B. Einführung einer durchgehenden 30er Zone oder Umnutzung der friedhofsseitigen Parkplätze zu einem Fahrradweg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2938</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.567090,48.132650,0.000000 11.566725,48.132048,0.000000 11.566296,48.130859,0.000000 11.564300,48.128095,0.000000</coordinates>
         </LineString>

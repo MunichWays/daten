@@ -3,6 +3,36 @@
     <name>doc name</name>
     <description>doc description</description>
     <visibility>1</visibility>
+    <Style id="grün">
+      <LineStyle>
+        <color>00ff00</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="gelb">
+      <LineStyle>
+        <color>ffff00</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="rot">
+      <LineStyle>
+        <color>ff0000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="schwarz">
+      <LineStyle>
+        <color>000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="grau">
+      <LineStyle>
+        <color>888888</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
     <Folder>
       <name>D_schwarz_Gesamtnetz</name>
       <visibility>1</visibility>
@@ -10,7 +40,7 @@
         <name>Sachsenkanm-/Friedrich-Hebber-Str</name>
         <description>Ist: Buslinie, kein Radweg&lt;br&gt;Maßnahme: Fahrradstr oder Einbahnstr mit Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-6199</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.525989,48.116314,0.000000 11.526096,48.112589,0.000000 11.526246,48.110067,0.000000</coordinates>
         </LineString>
@@ -20,7 +50,7 @@
 </name>
         <description>&lt;img src="https://lh3.googleusercontent.com/proxy/vG8U79w-p5YTwoCdB0cV-exiINYjssoNo2PpYZYs9Em86U2Icpw9AwH97vU1srxdXfZS53HpCPcW20MAsoKsYhVNP9lGEXwHOGQK-VmopHQRu2VMCZw2XPELw5vdv7gNQHCxK6OXpgUQiMvv0PKg4Lfh7zCa7w6rZoct0dtOs_AnmPmmytM-MRvNS69BNc017bdh4O5s8Nnpcyt_rt_Oej8KFRDKogJyd7fZUuET3wGgxcKYZq7RnxlI" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;wenn man von der südl. zur nördl. Seite des Weges wechseln will, muss man die hohe Bodenschwelle vom Bus umrunden, sonst gut zu überqueren</description>
         <visibility>1</visibility>
-        <styleUrl>#icon-1899-000000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh3.googleusercontent.com/proxy/vG8U79w-p5YTwoCdB0cV-exiINYjssoNo2PpYZYs9Em86U2Icpw9AwH97vU1srxdXfZS53HpCPcW20MAsoKsYhVNP9lGEXwHOGQK-VmopHQRu2VMCZw2XPELw5vdv7gNQHCxK6OXpgUQiMvv0PKg4Lfh7zCa7w6rZoct0dtOs_AnmPmmytM-MRvNS69BNc017bdh4O5s8Nnpcyt_rt_Oej8KFRDKogJyd7fZUuET3wGgxcKYZq7RnxlI</value>
@@ -34,7 +64,7 @@
         <name>Lücke Querung Luisenstr</name>
         <description>fehlende Querung Richtung Hbf</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-5456</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.562231,48.142519,0.000000 11.561726,48.142670,0.000000</coordinates>
         </LineString>
@@ -43,7 +73,7 @@
         <name>Lückenschluss Giesinger Bahnhof</name>
         <description>? prüfen</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-4681</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.602249,48.114208,0.000000 11.602099,48.113749,0.000000 11.601520,48.113291,0.000000 11.601112,48.113005,0.000000 11.600082,48.112603,0.000000 11.597335,48.112489,0.000000 11.597035,48.111586,0.000000 11.596584,48.111486,0.000000 11.595147,48.110970,0.000000</coordinates>
         </LineString>
@@ -52,7 +82,7 @@
         <name>Truderinger str</name>
         <description>kein Radweg auf einer Hauptstraße !</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.668146,48.123199,0.000000 11.667523,48.123553,0.000000 11.666802,48.123979,0.000000</coordinates>
         </LineString>
@@ -60,7 +90,7 @@
       <Placemark>
         <name>schwarz_Mühldorfstraße</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000-nodesc</styleUrl>
+        <styleUrl>schwarz</styleUrl>
         <LineString>
           <coordinates>11.616379,48.126856,0.000000 11.612560,48.127218,0.000000 11.609686,48.129124,0.000000 11.607500,48.127450,0.000000</coordinates>
         </LineString>
@@ -68,7 +98,7 @@
       <Placemark>
         <name>Brücke oder Tunnel Innsbrucker Ring</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.618203,48.126792,0.000000 11.616422,48.126856,0.000000</coordinates>
         </LineString>
@@ -76,7 +106,7 @@
       <Placemark>
         <name>Lücke Parkplatz Schönstr/Candiplatz</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.570588,48.110633,0.000000 11.570384,48.110639,0.000000 11.570116,48.110551,0.000000 11.569781,48.110500,0.000000 11.569328,48.110585,0.000000 11.568628,48.110699,0.000000 11.568320,48.110756,0.000000 11.568142,48.110884,0.000000</coordinates>
         </LineString>
@@ -84,7 +114,7 @@
       <Placemark>
         <name>Lücke Brücker über Leutenbergring</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.616712,48.133029,0.000000 11.616588,48.133004,0.000000 11.616551,48.132950,0.000000 11.616443,48.132825,0.000000 11.616333,48.132770,0.000000 11.616154,48.132780,0.000000 11.615810,48.132873,0.000000 11.615531,48.132934,0.000000</coordinates>
         </LineString>
@@ -93,7 +123,7 @@
         <name>Lücke Isartalradweg</name>
         <description>grober Bahnschotter, nicht befahrbar&lt;br&gt;Maßnahme: asphaltieren</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.533426,48.078754,0.000000 11.532866,48.078108,0.000000 11.532651,48.077548,0.000000 11.531986,48.074703,0.000000</coordinates>
         </LineString>
@@ -102,7 +132,7 @@
         <name>Lücke_Isartalbrücke</name>
         <description>Muss saniert werden</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>Lücke</styleUrl>
         <LineString>
           <coordinates>11.531916,48.074344,0.000000 11.531986,48.074703,0.000000</coordinates>
         </LineString>
@@ -110,7 +140,7 @@
       <Placemark>
         <name>fehlende Direktverbindung S-Bahn Fasangarten</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.606090,48.091919,0.000000 11.603644,48.097157,0.000000 11.602271,48.097329,0.000000</coordinates>
         </LineString>
@@ -120,7 +150,7 @@
 </name>
         <description>geplante Baumaßnahme&lt;br&gt;http://www.muenchen.info/plan/bebauungsplan/p_8720_1791.pdf</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2348</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.549088,48.124543,0.000000 11.554270,48.122130,0.000000</coordinates>
         </LineString>
@@ -130,7 +160,7 @@
 </name>
         <description>http://www.muenchen.info/plan/bebauungsplan/p_8117_1238.pdf</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2925</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.545537,48.125796,0.000000 11.548498,48.124421,0.000000</coordinates>
         </LineString>
@@ -139,7 +169,7 @@
         <name>Lücke Bahn Südring
 </name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-1770-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.543101,48.127050,0.000000 11.545419,48.125861,0.000000</coordinates>
         </LineString>
@@ -148,7 +178,7 @@
         <name>Lücke am Schlachthof</name>
         <description>Hoffentlich werden Radwege beim den Baumaßnahmen berücksichtigt. Es könnte eine wichtige Verbindung entstehen</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-6231</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.558626,48.119866,0.000000 11.550762,48.112317,0.000000</coordinates>
         </LineString>
@@ -157,7 +187,7 @@
         <name>Silberhornstraße</name>
         <description>kein Radweg&lt;br&gt;Maßnahme: eine Fahrspur als geschützter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2744</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.579429,48.115178,0.000000 11.580604,48.114863,0.000000</coordinates>
         </LineString>
@@ -166,7 +196,7 @@
         <name>Silberhornstr Giesinger Berg</name>
         <description>Maßnahme: eine Fahrspur als geschützter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-1200</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.577535,48.115680,0.000000 11.577313,48.115759,0.000000 11.577026,48.115902,0.000000 11.576827,48.116070,0.000000 11.576849,48.116400,0.000000</coordinates>
         </LineString>
@@ -174,7 +204,7 @@
       <Placemark>
         <name>Lücke Regerstr</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2356-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.585941,48.121729,0.000000 11.582208,48.117746,0.000000 11.579762,48.115426,0.000000</coordinates>
         </LineString>
@@ -183,7 +213,7 @@
         <name>Idee Lücke Ostfriedhof</name>
         <description>weil es in dieser Gegend schwierig ist, müssen wir vielleicht über unkonventionelle Lösungen nachdenken&lt;br&gt;z.B. ein Hochradweg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2744</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.588924,48.121313,0.000000 11.589734,48.120643,0.000000 11.591359,48.117367,0.000000</coordinates>
         </LineString>
@@ -192,7 +222,7 @@
         <name>Martin-Luther-Str</name>
         <description>Das Grauen am Giesinger Berg&lt;br&gt;möglichst meiden&lt;br&gt;Maßnahme: eine Fahrspur als geschützter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-4681</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.576685,48.113950,0.000000 11.576688,48.114657,0.000000 11.576863,48.115244,0.000000 11.577136,48.115782,0.000000 11.577125,48.115932,0.000000 11.577023,48.116128,0.000000</coordinates>
         </LineString>
@@ -201,7 +231,7 @@
         <name>Lücke Braunecker Brücke</name>
         <description>wichtige Verbindung über die Isar</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-6038</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.560802,48.118693,0.000000 11.562456,48.117939,0.000000</coordinates>
         </LineString>
@@ -210,7 +240,7 @@
         <name>Dachauerstraße Lücke</name>
         <description>Radweg nur stadtauswärts, keine legale Möglichkeit stadteinwärts bis zur Kreuzung Georg-Brauchle-Ring!&lt;br&gt;Fehlstelle! Lücke stadteinwärts</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.520509,48.176683,0.000000 11.522036,48.175978,0.000000</coordinates>
         </LineString>
@@ -219,7 +249,7 @@
         <name>Lücke Moosacher Bf. Querung Dachauer Str.</name>
         <description>Lücke! Keine Querungshilfe. Starker Kfz Verkehr.</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.509588,48.182291,0.000000 11.509861,48.182480,0.000000</coordinates>
         </LineString>
@@ -228,7 +258,7 @@
         <name>Erzgießereistraße</name>
         <description>Lücke! Befahrung Richtung Hackerbrücke nicht möglich. Einbahnstraße für Radfahrer öffnen.</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-3713</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.552387,48.148689,0.000000 11.555620,48.152742,0.000000</coordinates>
         </LineString>
@@ -237,7 +267,7 @@
         <name>Nymphenburger Str. Teilstück</name>
         <description>Lücke! Nymphenburger Str. Radweg Nordseite zw Erzgießereistr und Papenheimerstr. Nutzung für beide Fahrrichtungen ermöglichen.</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-2000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.552424,48.148722,0.000000 11.553137,48.148583,0.000000</coordinates>
         </LineString>
@@ -246,7 +276,7 @@
         <name>Hohenzollernstr. (zw Winzerer und Schleißheimerstr.)</name>
         <description>Lücke! Kein Radweg. Starker Kfz-Verkehr. Teils gefährliche Verengung durch parkende Kfz.</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-3000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.563427,48.160980,0.000000 11.561929,48.161163,0.000000</coordinates>
         </LineString>
@@ -255,7 +285,7 @@
         <name>Ohlmüllerstrasse</name>
         <description>Radweg fehlt </description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-4000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.578194,48.126396,0.000000 11.581264,48.124135,0.000000</coordinates>
         </LineString>
@@ -264,7 +294,7 @@
         <name>Fraunhoferstr</name>
         <description>Radweg fehlt, viel motorisierte und Tram</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-6000</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.570846,48.131926,0.000000 11.576468,48.127701,0.000000</coordinates>
         </LineString>
@@ -273,7 +303,7 @@
         <name>schwarzes Loch Landsberger-Moosacher-Str</name>
         <description>ewig lange Rorphasen, massiver Kfz-Verkehr</description>
         <visibility>1</visibility>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>grau</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -285,7 +315,7 @@
       <Placemark>
         <name>Lücke: Auffahrt zur Brücke Coubertinplatz</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-1200-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.547602,48.175797,0.000000 11.547693,48.175884,0.000000 11.547841,48.175922,0.000000 11.547930,48.176016,0.000000 11.547945,48.176078,0.000000</coordinates>
         </LineString>
@@ -293,7 +323,7 @@
       <Placemark>
         <name>Elisenstraße</name>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-6000-nodesc</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.566415,48.140633,0.000000 11.565739,48.140790,0.000000 11.562327,48.141836,0.000000 11.561480,48.142172,0.000000 11.561480,48.142122,0.000000</coordinates>
         </LineString>
@@ -302,7 +332,7 @@
         <name>Chiemgaustr. Unterführung Mittl. Ring</name>
         <description>Radfahrer müssen sich bei der Unterführung in den fließenden Verkehr des Mittleren Rings! einordnen - extrem gefährlich!</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-5069</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.597722,48.107173,0.000000 11.598269,48.107266,0.000000</coordinates>
         </LineString>
@@ -311,7 +341,7 @@
         <name>Werinherstr. Unterführung</name>
         <description>Radfahrer müssen sich an der Unterführung in den fließenden Verkehr einordnen (was von PKW / LKW oft ignoriert wird) - gefährlich!</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-5456</styleUrl>
+        <styleUrl>grau</styleUrl>
         <LineString>
           <coordinates>11.594750,48.114960,0.000000 11.595554,48.114974,0.000000</coordinates>
         </LineString>
@@ -320,7 +350,7 @@
         <name>Maria-Einsiedler-Str. - bergab</name>
         <description>&lt;img src="https://lh5.googleusercontent.com/qKMgPilVgXUnnB7aIO2kESj-G703K_CDi52qbNcN8yFrWXrAkrCkN4NBbwfSKlhM76OJAIECXwF5s7fSwAtBxE92FHMVKC5mDMN4S3O-_OrQ_BPqSdPpsy1cP4xA2Qnu_9qePA" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Lücke im Netz., Fuß-/Radweg bergab für Radfahrer verboten&lt;br&gt;Maßnahme  umbauen und ihn sicherer gestalten oder Schmiedbergweg : Schutzstreifen statt 2 Abbiegespuren oben</description>
         <visibility>1</visibility>
-        <styleUrl>#line-000000-3325</styleUrl>
+        <styleUrl>grau</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh5.googleusercontent.com/qKMgPilVgXUnnB7aIO2kESj-G703K_CDi52qbNcN8yFrWXrAkrCkN4NBbwfSKlhM76OJAIECXwF5s7fSwAtBxE92FHMVKC5mDMN4S3O-_OrQ_BPqSdPpsy1cP4xA2Qnu_9qePA</value>

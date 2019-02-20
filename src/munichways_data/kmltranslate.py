@@ -32,11 +32,11 @@ class KMLTranslator:
     def _define_styles():
         """Define line styles that represent the cycling conditions"""
         line_width = 10  # in pixels
-        yellow_line = fastkml.Style(id='yellow', styles=[fastkml.LineStyle(color='ffff00', width=line_width)])
-        red_line = fastkml.Style(id='red', styles=[fastkml.LineStyle(color='ff0000', width=line_width)])
-        green_line = fastkml.Style(id='green', styles=[fastkml.LineStyle(color='00ff00', width=line_width)])
-        black_line = fastkml.Style(id='black', styles=[fastkml.LineStyle(color='000000', width=line_width)])
-        grey_line = fastkml.Style(id='grey', styles=[fastkml.LineStyle(color='888888', width=line_width)])
+        yellow_line = fastkml.Style(id='yellow', styles=[fastkml.LineStyle(color='ffffff00', width=line_width)])
+        red_line = fastkml.Style(id='red', styles=[fastkml.LineStyle(color='ffff0000', width=line_width)])
+        green_line = fastkml.Style(id='green', styles=[fastkml.LineStyle(color='ff00ff00', width=line_width)])
+        black_line = fastkml.Style(id='black', styles=[fastkml.LineStyle(color='ff000000', width=line_width)])
+        grey_line = fastkml.Style(id='grey', styles=[fastkml.LineStyle(color='ff888888', width=line_width)])
         return [green_line, yellow_line, red_line, black_line, grey_line]
 
     def color_placemarks(self):

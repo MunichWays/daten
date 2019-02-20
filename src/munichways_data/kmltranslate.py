@@ -31,11 +31,12 @@ class KMLTranslator:
     @staticmethod
     def _define_styles():
         """Define line styles that represent the cycling conditions"""
-        yellow_line = fastkml.Style(id='gelb', styles=[fastkml.LineStyle(color='ffff00', width=2)])
-        red_line = fastkml.Style(id='rot', styles=[fastkml.LineStyle(color='ff0000', width=2)])
-        green_line = fastkml.Style(id='grün', styles=[fastkml.LineStyle(color='00ff00', width=2)])
-        black_line = fastkml.Style(id='schwarz', styles=[fastkml.LineStyle(color='000000', width=2)])
-        grey_line = fastkml.Style(id='grau', styles=[fastkml.LineStyle(color='888888', width=2)])
+        line_width = 10  # in pixels
+        yellow_line = fastkml.Style(id='yellow', styles=[fastkml.LineStyle(color='ffff00', width=line_width)])
+        red_line = fastkml.Style(id='red', styles=[fastkml.LineStyle(color='ff0000', width=line_width)])
+        green_line = fastkml.Style(id='green', styles=[fastkml.LineStyle(color='00ff00', width=line_width)])
+        black_line = fastkml.Style(id='black', styles=[fastkml.LineStyle(color='000000', width=line_width)])
+        grey_line = fastkml.Style(id='grey', styles=[fastkml.LineStyle(color='888888', width=line_width)])
         return [green_line, yellow_line, red_line, black_line, grey_line]
 
     def color_placemarks(self):
@@ -64,6 +65,11 @@ class KMLTranslator:
     @staticmethod
     def _set_styleurl_by_color_prefix(placemark):
         """Sets style url of placemark depending on its color prefix"""
+        color_map = {'gelb': 'yellow',
+                     'grün': 'green',
+                     'rot': 'red',
+                     'schwarz': 'black',
+                     'grau': 'grey'}
         color_pattern = re.compile('^(\w+)_.*')
         match = re.match(color_pattern, placemark.name)
         if match:
@@ -72,7 +78,7 @@ class KMLTranslator:
                 color = 'grau'
         else:
             color = 'grau'
-        placemark.styleUrl = color
+        placemark.styleUrl = color_map[color]
         return placemark
 
     def write_split_layers(self):

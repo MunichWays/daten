@@ -3,34 +3,34 @@
     <name>doc name</name>
     <description>doc description</description>
     <visibility>1</visibility>
-    <Style id="grün">
+    <Style id="green">
       <LineStyle>
         <color>00ff00</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="gelb">
+    <Style id="yellow">
       <LineStyle>
         <color>ffff00</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="rot">
+    <Style id="red">
       <LineStyle>
         <color>ff0000</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="schwarz">
+    <Style id="black">
       <LineStyle>
         <color>000000</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="grau">
+    <Style id="grey">
       <LineStyle>
         <color>888888</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
     <Folder>
@@ -40,7 +40,7 @@
         <name>Olympiapark-Nord-Feldbahnstr</name>
         <description>&lt;img src="https://lh5.googleusercontent.com/rBA77WaEe_UuPNndBIJIZ5xN5uvTdZSydzeM7U4V6vXZgGQPWkEzObRqWeIVIT0O_RxuWqPt0NDV_zZgbk_NMvDdyfnTMpTyRpxAmez6hp4-ShfW3oTBEDnq5UmLkkYNwWEt2A" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Schotter mit Schlaglöchern&lt;br&gt;Maßnahme: Belag verbessern</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh5.googleusercontent.com/rBA77WaEe_UuPNndBIJIZ5xN5uvTdZSydzeM7U4V6vXZgGQPWkEzObRqWeIVIT0O_RxuWqPt0NDV_zZgbk_NMvDdyfnTMpTyRpxAmez6hp4-ShfW3oTBEDnq5UmLkkYNwWEt2A</value>
@@ -55,7 +55,7 @@
 </name>
         <description>Pflastersteine</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.541138,48.132274,0.000000 11.540912,48.130387,0.000000</coordinates>
         </LineString>
@@ -65,7 +65,7 @@
 </name>
         <description>zu schmal, Pflaster</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.540923,48.130337,0.000000 11.540923,48.129757,0.000000</coordinates>
         </LineString>
@@ -74,7 +74,7 @@
         <name>Zillertalstr</name>
         <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.531589,48.121270,0.000000 11.531375,48.120998,0.000000 11.530924,48.120482,0.000000 11.530527,48.120124,0.000000 11.527512,48.117403,0.000000 11.527265,48.117245,0.000000 11.526868,48.117173,0.000000 11.526032,48.117173,0.000000</coordinates>
         </LineString>
@@ -83,7 +83,7 @@
         <name>Heßstraße</name>
         <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.550268,48.160239,0.000000 11.553240,48.157798,0.000000 11.556544,48.154971,0.000000 11.556984,48.154656,0.000000 11.557381,48.154427,0.000000 11.557832,48.154248,0.000000 11.558969,48.153940,0.000000 11.560106,48.153604,0.000000 11.570052,48.150884,0.000000</coordinates>
         </LineString>
@@ -92,7 +92,7 @@
         <name>Kapuzienerstr</name>
         <description>breiter Radweg auf der Fahrbahn vorhanden&lt;br&gt;teilweise zwischen Fahrspur und parkenden Autos.&lt;br&gt;Maßnahme: gechützte Radwege</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.558368,48.126283,0.000000 11.564827,48.124020,0.000000 11.567485,48.123111,0.000000 11.568769,48.122058,0.000000</coordinates>
         </LineString>
@@ -101,7 +101,7 @@
         <name>Gotthardstr - stadtauswärts
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.480273,48.136860,0.000000 11.482757,48.136967,0.000000 11.484181,48.136971,0.000000 11.485144,48.136935,0.000000 11.487145,48.136772,0.000000 11.488226,48.136680,0.000000 11.489162,48.136581,0.000000 11.492930,48.136258,0.000000 11.494895,48.136115,0.000000 11.496795,48.135958,0.000000 11.499354,48.135718,0.000000 11.500610,48.135578,0.000000 11.500797,48.135576,0.000000 11.500931,48.135594,0.000000 11.501854,48.135560,0.000000 11.503005,48.135537,0.000000 11.504241,48.135517,0.000000</coordinates>
         </LineString>
@@ -109,7 +109,7 @@
       <Placemark>
         <name>Beethoven-Nußbaum</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.565363,48.133588,0.000000 11.559870,48.133015,0.000000 11.557510,48.132671,0.000000 11.555986,48.132428,0.000000 11.555300,48.132313,0.000000 11.553519,48.132012,0.000000</coordinates>
         </LineString>
@@ -117,7 +117,7 @@
       <Placemark>
         <name>Tübingerstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.531403,48.126745,0.000000 11.531467,48.127143,0.000000 11.530845,48.128160,0.000000 11.529901,48.129234,0.000000 11.528463,48.130251,0.000000 11.522770,48.134332,0.000000</coordinates>
         </LineString>
@@ -125,7 +125,7 @@
       <Placemark>
         <name>Waisenhausstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.536460,48.150863,0.000000 11.535172,48.152305,0.000000 11.533456,48.152974,0.000000 11.533198,48.153318,0.000000 11.532716,48.155093,0.000000 11.531782,48.156138,0.000000 11.531181,48.156596,0.000000 11.531310,48.156861,0.000000 11.530280,48.158199,0.000000 11.530119,48.159602,0.000000 11.529508,48.161141,0.000000 11.528950,48.163899,0.000000 11.528349,48.165227,0.000000</coordinates>
         </LineString>
@@ -133,7 +133,7 @@
       <Placemark>
         <name>Tintorettostraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.514455,48.161491,0.000000 11.514582,48.161248,0.000000 11.514517,48.161219,0.000000 11.515115,48.160117,0.000000 11.515241,48.158882,0.000000 11.511548,48.158764,0.000000</coordinates>
         </LineString>
@@ -142,7 +142,7 @@
         <name>Birnauer Straße
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.560621,48.174300,0.000000 11.565321,48.175645,0.000000</coordinates>
         </LineString>
@@ -151,7 +151,7 @@
         <name>Petruelpark</name>
         <description>Viele Fußgänger, kein gerader Radweg, 90 grad Kurven, blendende Stéhlen&lt;br&gt;Maßnahme: geraden Radweg, getrennt von Fußgängern</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.573252,48.177695,0.000000 11.573531,48.177578,0.000000 11.574754,48.177621,0.000000 11.575373,48.177907,0.000000 11.576626,48.177703,0.000000 11.578050,48.177514,0.000000 11.580239,48.177342,0.000000 11.581226,48.177305,0.000000 11.582339,48.177382,0.000000 11.583385,48.177333,0.000000 11.584126,48.177219,0.000000 11.584732,48.177215,0.000000</coordinates>
         </LineString>
@@ -159,7 +159,7 @@
       <Placemark>
         <name>Linie 113</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.488521,48.136491,0.000000 11.488687,48.136477,0.000000</coordinates>
         </LineString>
@@ -167,7 +167,7 @@
       <Placemark>
         <name>Absenkung Querstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.509292,48.135070,0.000000 11.509681,48.135020,0.000000</coordinates>
         </LineString>
@@ -175,7 +175,7 @@
       <Placemark>
         <name>Absenkung Querstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.511741,48.135292,0.000000 11.512213,48.135249,0.000000</coordinates>
         </LineString>
@@ -183,7 +183,7 @@
       <Placemark>
         <name>Absenkung Querstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.506462,48.135464,0.000000 11.506913,48.135435,0.000000</coordinates>
         </LineString>
@@ -192,7 +192,7 @@
         <name>Absenkung Querstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.504767,48.135521,0.000000 11.505175,48.135506,0.000000</coordinates>
         </LineString>
@@ -200,7 +200,7 @@
       <Placemark>
         <name>Gotthardstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.521912,48.134934,0.000000 11.513886,48.135191,0.000000</coordinates>
         </LineString>
@@ -209,7 +209,7 @@
         <name>Querung Keferloher str</name>
         <description>Unübersichtlicher Übergang</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.575470,48.181493,0.000000 11.575502,48.181776,0.000000</coordinates>
         </LineString>
@@ -218,7 +218,7 @@
         <name>Linie 124</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.517121,48.134771,0.000000 11.517381,48.134757,0.000000</coordinates>
         </LineString>
@@ -227,7 +227,7 @@
         <name>Linie 123</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.511851,48.134939,0.000000 11.512127,48.134926,0.000000</coordinates>
         </LineString>
@@ -236,7 +236,7 @@
         <name>Linie 122</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.508055,48.135138,0.000000 11.508270,48.135131,0.000000</coordinates>
         </LineString>
@@ -245,7 +245,7 @@
         <name>Linie 121</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.506607,48.135197,0.000000 11.506821,48.135188,0.000000</coordinates>
         </LineString>
@@ -254,7 +254,7 @@
         <name>Linie 120</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.504981,48.135249,0.000000 11.505172,48.135240,0.000000</coordinates>
         </LineString>
@@ -263,7 +263,7 @@
         <name>U-Bahn-Eingang</name>
         <description>begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.500246,48.135379,0.000000 11.500367,48.135379,0.000000 11.500458,48.135382,0.000000 11.500505,48.135397,0.000000 11.500580,48.135403,0.000000 11.500742,48.135397,0.000000 11.500799,48.135382,0.000000 11.500839,48.135365,0.000000 11.500901,48.135344,0.000000 11.500989,48.135333,0.000000 11.501064,48.135324,0.000000</coordinates>
         </LineString>
@@ -272,7 +272,7 @@
         <name>Linie 118</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.495207,48.135822,0.000000 11.495787,48.135764,0.000000</coordinates>
         </LineString>
@@ -281,7 +281,7 @@
         <name>Linie 117</name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.492407,48.136065,0.000000 11.492772,48.136036,0.000000</coordinates>
         </LineString>
@@ -291,7 +291,7 @@
 </name>
         <description>Kurve über Parkplatz begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.491518,48.136238,0.000000 11.491592,48.136225,0.000000 11.491634,48.136212,0.000000 11.491663,48.136182,0.000000 11.491686,48.136158,0.000000 11.491718,48.136128,0.000000 11.491741,48.136120,0.000000 11.491813,48.136116,0.000000</coordinates>
         </LineString>
@@ -299,7 +299,7 @@
       <Placemark>
         <name>Absenkung Querstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.509187,48.135392,0.000000 11.509638,48.135349,0.000000</coordinates>
         </LineString>
@@ -309,7 +309,7 @@
 </name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.491107,48.136274,0.000000 11.491310,48.136258,0.000000</coordinates>
         </LineString>
@@ -319,7 +319,7 @@
 </name>
         <description>Bodenwellen begradigen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.489816,48.136382,0.000000 11.490050,48.136360,0.000000</coordinates>
         </LineString>
@@ -329,7 +329,7 @@
 </name>
         <description>sehr eng. Zu schmal für so viele Radler, überholen gefährlich, parkende Autos direkt daneben, für die Parkuhren muss man über den Radweg laufen (mehr Platz durch weniger Parkplätze?)</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.588176,48.132598,0.000000 11.587931,48.132324,0.000000 11.587728,48.132057,0.000000 11.587550,48.131740,0.000000 11.587588,48.131464,0.000000 11.587459,48.131225,0.000000 11.587143,48.131046,0.000000 11.585920,48.130075,0.000000 11.584386,48.128761,0.000000</coordinates>
         </LineString>
@@ -338,7 +338,7 @@
         <name>gelb_Kapuzinerstraße</name>
         <description>breite Radwege aber ungeschützt</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.567445,48.123161,0.000000 11.566522,48.123555,0.000000 11.564172,48.124300,0.000000 11.564033,48.124436,0.000000 11.560761,48.125453,0.000000 11.558518,48.126076,0.000000 11.558240,48.126262,0.000000</coordinates>
         </LineString>
@@ -346,7 +346,7 @@
       <Placemark>
         <name>gelb_Weißenburger Straße</name>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.593730,48.128768,0.000000 11.593966,48.128625,0.000000 11.595683,48.128575,0.000000 11.595833,48.128382,0.000000 11.596091,48.128281,0.000000 11.596413,48.128353,0.000000 11.596584,48.128532,0.000000 11.599803,48.128374,0.000000 11.599900,48.128231,0.000000 11.600136,48.128174,0.000000 11.600339,48.128246,0.000000 11.600447,48.128367,0.000000 11.602700,48.128250,0.000000</coordinates>
         </LineString>
@@ -355,7 +355,7 @@
         <name>gelb_Waldstraße</name>
         <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.652103,48.119179,0.000000 11.649499,48.119952,0.000000 11.646774,48.120611,0.000000 11.644735,48.121077,0.000000 11.642418,48.121671,0.000000</coordinates>
         </LineString>
@@ -364,7 +364,7 @@
         <name>gelb_Unterführung</name>
         <description>zu schmal für beide Richtungen + Fußgänger</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.605200,48.129050,0.000000 11.607227,48.127644,0.000000 11.608096,48.127966,0.000000</coordinates>
         </LineString>
@@ -373,7 +373,7 @@
         <name>gelb_Piusplatz</name>
         <description>sicher aber teils Schotterweg, teils schmal</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.611433,48.123376,0.000000 11.612951,48.123315,0.000000 11.613313,48.123143,0.000000 11.615585,48.123003,0.000000 11.617436,48.122863,0.000000 11.617878,48.122932,0.000000 11.618582,48.122960,0.000000 11.619471,48.122884,0.000000 11.619587,48.122776,0.000000</coordinates>
         </LineString>
@@ -382,7 +382,7 @@
         <name>gelb_St. Augustinus-Straße</name>
         <description>kein Radweg. Breite ruhige Strasse, aber beidseitig befahren, Radweg würde helfen</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.652103,48.119150,0.000000 11.651902,48.118728,0.000000 11.653565,48.118193,0.000000 11.654348,48.118374,0.000000 11.655882,48.117832,0.000000 11.657320,48.117218,0.000000 11.660040,48.116107,0.000000 11.661837,48.115297,0.000000 11.661708,48.115046,0.000000 11.664289,48.113911,0.000000</coordinates>
         </LineString>
@@ -391,7 +391,7 @@
         <name>gelb_Freibadstr</name>
         <description>Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.574247,48.118652,0.000000 11.572874,48.119354,0.000000 11.571876,48.119881,0.000000 11.571307,48.120096,0.000000 11.570653,48.120443,0.000000 11.570578,48.120511,0.000000</coordinates>
         </LineString>
@@ -400,7 +400,7 @@
         <name>gelb_Donaustr</name>
         <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.615499,48.145437,0.000000 11.611980,48.146174,0.000000 11.608912,48.147040,0.000000 11.608011,48.147205,0.000000</coordinates>
         </LineString>
@@ -409,7 +409,7 @@
         <name>gelb_Brombergstr</name>
         <description>Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.648040,48.148370,0.000000 11.648619,48.147734,0.000000 11.648812,48.145931,0.000000</coordinates>
         </LineString>
@@ -417,7 +417,7 @@
       <Placemark>
         <name>gelb_Nimmerfallstr</name>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.466544,48.149296,0.000000 11.466786,48.149263,0.000000 11.467153,48.149272,0.000000 11.468312,48.149172,0.000000 11.469144,48.149158,0.000000 11.468784,48.148417,0.000000</coordinates>
         </LineString>
@@ -427,7 +427,7 @@
 </name>
         <description>Waldweg ohne Autos, aber in schlechter Qualität</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.705332,48.091381,0.000000 11.701298,48.094534,0.000000 11.695446,48.096659,0.000000 11.689282,48.099006,0.000000 11.685805,48.100782,0.000000</coordinates>
         </LineString>
@@ -436,7 +436,7 @@
         <name>gelb_Arcisstraße</name>
         <description>Ist: schmaler Radweg, Lücke Kreuzung Luisenstr Richtung Hbf&lt;br&gt;&lt;br&gt;Maßnahme: &lt;br&gt;- echte Fahrradstraße,&lt;br&gt;- Querung Luisenstr. Richtung Hbf</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.573946,48.157677,0.000000 11.573296,48.155839,0.000000 11.564751,48.142550,0.000000 11.563577,48.142835,0.000000 11.562231,48.142519,0.000000</coordinates>
         </LineString>
@@ -445,7 +445,7 @@
         <name>gelb_Ackermannbogen</name>
         <description>unbefestigt, teils schmal</description>
         <visibility>1</visibility>
-        <styleUrl>gelb</styleUrl>
+        <styleUrl>yellow</styleUrl>
         <LineString>
           <coordinates>11.549356,48.160897,0.000000 11.548401,48.161684,0.000000 11.550123,48.162725,0.000000 11.549828,48.163008,0.000000 11.550536,48.163223,0.000000 11.550826,48.163656,0.000000 11.551630,48.164082,0.000000</coordinates>
         </LineString>
@@ -454,7 +454,7 @@
         <name>Alternative Anschluß Olymia Nord Sapporobogen</name>
         <description>kein Radweg, wenig motorisierte</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.537640,48.169463,0.000000 11.537275,48.169234,0.000000 11.535881,48.168490,0.000000</coordinates>
         </LineString>
@@ -463,7 +463,7 @@
         <name>Fernpassstraße</name>
         <description>Kein Radweg, wenig Verkehr&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.522875,48.115938,0.000000 11.522866,48.117157,0.000000 11.522474,48.117179,0.000000 11.522517,48.115914,0.000000 11.522764,48.115918,0.000000</coordinates>
         </LineString>
@@ -472,7 +472,7 @@
         <name>Querung Albert-Roßhaupter-Str - Fernpassstr</name>
         <description>Ist: Zick-Zack ohne Ampel&lt;br&gt;Maßnahme:  geradlinige Führung mit Ampel</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.522875,48.115938,0.000000 11.522896,48.115771,0.000000 11.523234,48.115394,0.000000 11.523011,48.115250,0.000000 11.523231,48.115057,0.000000 11.522995,48.114935,0.000000 11.523349,48.114589,0.000000</coordinates>
         </LineString>
@@ -481,7 +481,7 @@
         <name>Gotthardstr. 4-spurig</name>
         <description>hier wäre Platz für einen breiten Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.491690,48.136225,0.000000 11.491853,48.136191,0.000000 11.492200,48.136116,0.000000 11.495240,48.135854,0.000000 11.495772,48.135765,0.000000</coordinates>
         </LineString>
@@ -489,7 +489,7 @@
       <Placemark>
         <name>rot_Montgelasstr</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.608011,48.147205,0.000000 11.608064,48.148457,0.000000 11.605951,48.148350,0.000000 11.605607,48.148465,0.000000 11.605339,48.148178,0.000000 11.603633,48.149352,0.000000 11.602453,48.149066,0.000000 11.600694,48.148880,0.000000 11.599706,48.148908,0.000000 11.599127,48.148901,0.000000</coordinates>
         </LineString>
@@ -499,7 +499,7 @@
 </name>
         <description>Maßnahme: Ampelanlage</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.615928,48.145487,0.000000 11.615435,48.145444,0.000000</coordinates>
         </LineString>
@@ -509,7 +509,7 @@
 </name>
         <description>Maßnahme: gerader Übergang mit Ampel</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.627870,48.144341,0.000000 11.627505,48.144327,0.000000</coordinates>
         </LineString>
@@ -518,7 +518,7 @@
         <name>rot_Friedrich-Eckhart-Straße</name>
         <description>Maßnahme: Querungsmöglichkeit schaffen, Ampel</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.639569,48.144066,0.000000 11.639328,48.144076,0.000000 11.639178,48.143604,0.000000</coordinates>
         </LineString>
@@ -526,7 +526,7 @@
       <Placemark>
         <name>rot_Ludwigsbrücke</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.585244,48.132238,0.000000 11.585598,48.132041,0.000000 11.587872,48.131583,0.000000 11.589503,48.131669,0.000000</coordinates>
         </LineString>
@@ -536,7 +536,7 @@
 </name>
         <description>Kurven U-Bahneingang begradigen&lt;br&gt;Querung Westendstraße verbessern</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.522668,48.134221,0.000000 11.522405,48.134382,0.000000 11.522284,48.134266,0.000000 11.521665,48.134658,0.000000 11.520428,48.134676,0.000000 11.520289,48.134722,0.000000 11.519976,48.134726,0.000000 11.519906,48.134698,0.000000 11.519739,48.134699,0.000000</coordinates>
         </LineString>
@@ -546,7 +546,7 @@
 </name>
         <description>Radweg in der Unterführung Donnersberger Brücke anpassen</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.535130,48.143668,0.000000 11.534400,48.143955,0.000000</coordinates>
         </LineString>
@@ -555,7 +555,7 @@
         <name>rot_Zweibrückenstraße</name>
         <description>das übliche Innenstadt-Problem mit den üblichen Lösungsmöglichkeiten:&lt;br&gt;eine Fahrspur (pro Seite, da Bus in der Mitte) auflösen und zum Radweg erklären (Radweg unbedingt von den vielen Fußgängern trennen!), Isartor-Marienplatz Autos so weit wie möglich raus aus der Innenstadt;&lt;br&gt;mehr Abstellplätze!</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.585244,48.132238,0.000000 11.584343,48.132608,0.000000 11.583500,48.133054,0.000000 11.582908,48.133804,0.000000 11.582407,48.134547,0.000000 11.582229,48.134848,0.000000 11.582159,48.134941,0.000000</coordinates>
         </LineString>
@@ -564,7 +564,7 @@
         <name>rot_Tivolibrücke</name>
         <description>Radweg auf 2. Kfz-Spur</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.597217,48.149739,0.000000 11.599127,48.148901,0.000000</coordinates>
         </LineString>
@@ -574,7 +574,7 @@
 </name>
         <description>Lange Rotphase</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.572466,48.177813,0.000000 11.573252,48.177695,0.000000</coordinates>
         </LineString>
@@ -584,7 +584,7 @@
 </name>
         <description>sehr lange Rotphase, Idee Radlkreisel Schleißpetruel</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.567182,48.176131,0.000000 11.567938,48.176607,0.000000</coordinates>
         </LineString>
@@ -594,7 +594,7 @@
 </name>
         <description>sehr lange Rotphase</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.559806,48.174042,0.000000 11.560621,48.174300,0.000000</coordinates>
         </LineString>
@@ -603,7 +603,7 @@
         <name>rot_Kreuzung Romanplatz
 </name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.511419,48.154277,0.000000 11.511419,48.155007,0.000000</coordinates>
         </LineString>
@@ -613,7 +613,7 @@
 </name>
         <description>Maßnahme: Radwegführung verbessern</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.541481,48.121958,0.000000 11.541390,48.121950,0.000000 11.541299,48.121881,0.000000 11.541209,48.121734,0.000000 11.540998,48.121737,0.000000 11.540912,48.121459,0.000000</coordinates>
         </LineString>
@@ -623,7 +623,7 @@
 </name>
         <description>Maßnahme: bevorrechtigung Radwege</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.544885,48.129606,0.000000 11.545199,48.129535,0.000000 11.545303,48.129452,0.000000 11.545365,48.129348,0.000000</coordinates>
         </LineString>
@@ -632,7 +632,7 @@
         <name>rot_Mozartstr</name>
         <description>kein Radweg&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.558422,48.129694,0.000000 11.558250,48.129833,0.000000 11.553261,48.130165,0.000000</coordinates>
         </LineString>
@@ -640,7 +640,7 @@
       <Placemark>
         <name>rot_Colmarer/Sankt Wedel Straße </name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.538262,48.100381,0.000000 11.538112,48.098848,0.000000 11.537833,48.096985,0.000000 11.537662,48.096168,0.000000 11.537340,48.094219,0.000000 11.536331,48.094076,0.000000 11.535409,48.091869,0.000000 11.534829,48.090550,0.000000</coordinates>
         </LineString>
@@ -649,7 +649,7 @@
         <name>rot_Tölzerstr</name>
         <description>Bürgerversammlung BA6 am 26.10.2017</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.538198,48.100489,0.000000 11.538209,48.101427,0.000000 11.538198,48.102044,0.000000 11.538144,48.102746,0.000000 11.538032,48.103305,0.000000 11.537930,48.103684,0.000000 11.538005,48.103838,0.000000 11.538123,48.104100,0.000000 11.538026,48.104827,0.000000 11.537962,48.105300,0.000000 11.537849,48.105683,0.000000 11.537640,48.106081,0.000000 11.537431,48.106572,0.000000 11.537222,48.107051,0.000000 11.537088,48.107223,0.000000 11.537093,48.107668,0.000000 11.537034,48.108470,0.000000 11.537007,48.109767,0.000000 11.537029,48.110454,0.000000</coordinates>
         </LineString>
@@ -658,7 +658,7 @@
         <name>rot_Goethestr</name>
         <description>Maßnahme: Einbahnstraße</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.558454,48.139301,0.000000 11.558561,48.134504,0.000000 11.558518,48.131926,0.000000 11.558411,48.129277,0.000000 11.558368,48.126283,0.000000</coordinates>
         </LineString>
@@ -666,7 +666,7 @@
       <Placemark>
         <name>rot_Westend</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.522062,48.134887,0.000000 11.522716,48.134570,0.000000 11.522888,48.134443,0.000000 11.523242,48.134719,0.000000</coordinates>
         </LineString>
@@ -675,7 +675,7 @@
         <name>rot_Hauptbahnhof</name>
         <description>Maßnahme: Querungsmöglichkeit für Radler</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.561480,48.142122,0.000000 11.561179,48.139387,0.000000 11.558454,48.139301,0.000000</coordinates>
         </LineString>
@@ -684,7 +684,7 @@
         <name>rot_Prielmayerstr</name>
         <description>- Prielmayerstraße als Fahrradstraße, Öffnung entgegen der Einbahnstraße&lt;br&gt;- Arnulfstraße am Hauptbahnhof als Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.552532,48.142666,0.000000 11.555793,48.142007,0.000000 11.556737,48.141965,0.000000 11.561158,48.141034,0.000000 11.565449,48.139731,0.000000</coordinates>
         </LineString>
@@ -693,7 +693,7 @@
         <name>rot_Otto-Karl-Blutenburg
 </name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.573324,48.143554,0.000000 11.572498,48.143389,0.000000 11.571500,48.143088,0.000000 11.570106,48.142659,0.000000 11.569119,48.142373,0.000000 11.568228,48.142587,0.000000 11.566747,48.143017,0.000000 11.560214,48.144928,0.000000 11.555643,48.146238,0.000000 11.553315,48.146911,0.000000 11.552027,48.147298,0.000000 11.551341,48.147584,0.000000 11.547865,48.148286,0.000000 11.544292,48.149045,0.000000 11.537554,48.150419,0.000000</coordinates>
         </LineString>
@@ -702,7 +702,7 @@
         <name>rot_Alternative Querung Marsstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.546475,48.146521,0.000000 11.546491,48.146844,0.000000</coordinates>
         </LineString>
@@ -711,7 +711,7 @@
         <name>rot_Querung Milbertshoferner str</name>
         <description>Bettelampel&lt;br&gt;Maßnahme: Grün Radler, Kontaktschleife für KfZ</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.575658,48.184240,0.000000 11.575701,48.184562,0.000000</coordinates>
         </LineString>
@@ -721,7 +721,7 @@
 </name>
         <description>viel zu schmal, ein Übergang mit Ampel über die Ludwigsbrücke würde das Problem lösen (schon in Planung, oder?)</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.588194,48.132628,0.000000 11.588318,48.132742,0.000000 11.588688,48.132857,0.000000 11.589353,48.132327,0.000000 11.589342,48.132120,0.000000 11.589181,48.131912,0.000000 11.589071,48.131856,0.000000 11.588897,48.131823,0.000000 11.588044,48.131683,0.000000 11.587358,48.131668,0.000000</coordinates>
         </LineString>
@@ -729,7 +729,7 @@
       <Placemark>
         <name>rot_Liebigstraße</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.583522,48.141220,0.000000 11.584809,48.141306,0.000000 11.584815,48.141446,0.000000 11.586020,48.141520,0.000000 11.593840,48.140400,0.000000</coordinates>
         </LineString>
@@ -737,7 +737,7 @@
       <Placemark>
         <name>rot_Kreuzung Karl-Scharnagl/Hofgarten</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.582680,48.141334,0.000000 11.583522,48.141220,0.000000</coordinates>
         </LineString>
@@ -745,7 +745,7 @@
       <Placemark>
         <name>rot_Rosenheimer</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.589503,48.131669,0.000000 11.589432,48.131702,0.000000 11.589503,48.131669,0.000000 11.589432,48.131702,0.000000 11.591728,48.130098,0.000000 11.593966,48.128625,0.000000</coordinates>
         </LineString>
@@ -753,7 +753,7 @@
       <Placemark>
         <name>rot_Grafingerstr</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.609175,48.124991,0.000000 11.610918,48.124794,0.000000 11.613118,48.124686,0.000000</coordinates>
         </LineString>
@@ -762,7 +762,7 @@
         <name>rot_Ost-S Ab2</name>
         <description>Fahrrad zusammen mit Autos auf schmaler, kurviger, schwer einsichtiger Fahrspur auf der die Autos oft zu schnell fahren</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.685805,48.100782,0.000000 11.683316,48.102244,0.000000 11.679926,48.106428,0.000000 11.676321,48.107632,0.000000</coordinates>
         </LineString>
@@ -770,7 +770,7 @@
       <Placemark>
         <name>rot_Ostbahnhof</name>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.602700,48.128250,0.000000 11.602764,48.128067,0.000000 11.602890,48.127810,0.000000 11.603070,48.127670,0.000000 11.605200,48.129050,0.000000</coordinates>
         </LineString>
@@ -780,7 +780,7 @@
 </name>
         <description>Vorfahrt ändern Richtung Freibadstraße</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.574805,48.118420,0.000000 11.574258,48.118631,0.000000</coordinates>
         </LineString>
@@ -789,7 +789,7 @@
         <name>Claude-Lorrain-Str</name>
         <description>Maßnahme: Linksabiegemöglichkeit zur Brücke&lt;br&gt;Vorgezogene Aufstellfläche</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.570567,48.120547,0.000000 11.571425,48.121095,0.000000</coordinates>
         </LineString>
@@ -799,7 +799,7 @@
 </name>
         <description>U.Bahn Harras, Bettelampel!&lt;br&gt;Maßnahme:&lt;br&gt;Verbesserung der Querung Albert-Roßhaupt.Straße, Bettelampel ersetzen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.538112,48.117116,0.000000 11.538112,48.116658,0.000000</coordinates>
         </LineString>
@@ -807,7 +807,7 @@
       <Placemark>
         <name>Sendlinger Tor</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.565492,48.133545,0.000000 11.565406,48.133258,0.000000 11.565771,48.133000,0.000000 11.566737,48.133416,0.000000</coordinates>
         </LineString>
@@ -816,7 +816,7 @@
         <name>Olympiapark Coubertinplatz</name>
         <description>kein Radweg, massiv Fussgänger, häufig gesperrt bei Events (auch Werktags)&lt;br&gt;Maßnahme:  Umgehung bauen und ausschildern</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.548036,48.175845,0.000000 11.548154,48.174851,0.000000 11.548498,48.173928,0.000000 11.549120,48.173277,0.000000 11.548916,48.172482,0.000000 11.548101,48.172032,0.000000 11.547800,48.171724,0.000000 11.547672,48.171452,0.000000 11.548390,48.170822,0.000000 11.548840,48.170620,0.000000 11.548970,48.170808,0.000000 11.548787,48.171030,0.000000 11.548605,48.170958,0.000000</coordinates>
         </LineString>
@@ -825,7 +825,7 @@
         <name>Alternative Anschluss Olympia Nord Dachauer Str</name>
         <description>sehr viel Verkehr und Tram, gefährliche Kreuzungen&lt;br&gt;Maßnahme: je 1 Fahrspur umwidmen in geschützten, breiten Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.535709,48.168468,0.000000 11.535172,48.168239,0.000000 11.537586,48.166057,0.000000 11.539131,48.164676,0.000000 11.545762,48.160618,0.000000 11.547436,48.159430,0.000000 11.548219,48.159659,0.000000 11.549689,48.160525,0.000000</coordinates>
         </LineString>
@@ -835,7 +835,7 @@
 </name>
         <description>Ist: 70cm Asphalt neben dem neuen Baustellenweg nutzbar (stand 11.08.2018)&lt;br&gt;Soll schmaler Radweg (1.20-1,50) möglich!</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.501237,48.145608,0.000000 11.502967,48.145546,0.000000 11.504332,48.145626,0.000000 11.507771,48.145286,0.000000</coordinates>
         </LineString>
@@ -844,7 +844,7 @@
         <name>Georg-Habel-Straße</name>
         <description>Maßnahme: Fahrradstraße&lt;br&gt;Pasinger Tangente zw. Radl-Stammstrecke und Ammerseeradweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.465306,48.146332,0.000000 11.464834,48.145208,0.000000 11.464373,48.142398,0.000000</coordinates>
         </LineString>
@@ -853,7 +853,7 @@
         <name>rot_Josef-Retzer-Str</name>
         <description>kein Radweg&lt;br&gt;Maßnahme Fahrradstr</description>
         <visibility>1</visibility>
-        <styleUrl>rot</styleUrl>
+        <styleUrl>red</styleUrl>
         <LineString>
           <coordinates>11.467688,48.140354,0.000000 11.466626,48.141091,0.000000 11.465510,48.141800,0.000000 11.464480,48.142315,0.000000 11.464373,48.142398,0.000000</coordinates>
         </LineString>
@@ -863,7 +863,7 @@
 </name>
         <description>fehlende direkte Ost-West Verbindung&lt;br&gt;Maßnahme. Direktverbindung asphaltieren</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.553519,48.132012,0.000000 11.551925,48.131837,0.000000 11.547457,48.131088,0.000000 11.546776,48.130870,0.000000 11.546459,48.130623,0.000000</coordinates>
         </LineString>
@@ -872,7 +872,7 @@
         <name>schwarz_Schyrenstraße_Lücke</name>
         <description>Kopfsteinplaster, keine Querungsmöglichkeit&lt;br&gt;Maßnahme: Ampel abbauen, Vorfahrt Rad&lt;br&gt; glatte Pflaster, Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.570578,48.120511,0.000000 11.569140,48.121686,0.000000 11.569108,48.121829,0.000000</coordinates>
         </LineString>
@@ -881,7 +881,7 @@
         <name>Querung Schwere-Reiter-Str
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.549356,48.160897,0.000000 11.550268,48.160239,0.000000</coordinates>
         </LineString>
@@ -890,7 +890,7 @@
         <name>Brücke/Unterführung Ostbahnhof</name>
         <description>geplante Querung Ostbahnhof</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.603070,48.127670,0.000000 11.605253,48.125954,0.000000</coordinates>
         </LineString>
@@ -899,7 +899,7 @@
         <name>schwarz_Friedenstraße</name>
         <description>kein Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>schwarz</styleUrl>
+        <styleUrl>black</styleUrl>
         <LineString>
           <coordinates>11.608096,48.127966,0.000000 11.608072,48.127906,0.000000 11.607801,48.127701,0.000000 11.607335,48.127358,0.000000</coordinates>
         </LineString>
@@ -907,7 +907,7 @@
       <Placemark>
         <name>schwarz_Lücke Anschluss Piusstraße</name>
         <visibility>1</visibility>
-        <styleUrl>schwarz</styleUrl>
+        <styleUrl>black</styleUrl>
         <LineString>
           <coordinates>11.609175,48.124991,0.000000 11.611433,48.123376,0.000000</coordinates>
         </LineString>
@@ -917,7 +917,7 @@
 </name>
         <description>Maßnahme: befestigter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>schwarz</styleUrl>
+        <styleUrl>black</styleUrl>
         <LineString>
           <coordinates>11.632574,48.144037,0.000000 11.630909,48.144075,0.000000 11.627870,48.144341,0.000000</coordinates>
         </LineString>
@@ -927,7 +927,7 @@
 </name>
         <description>Maßnahme: befestigter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>schwarz</styleUrl>
+        <styleUrl>black</styleUrl>
         <LineString>
           <coordinates>11.639178,48.143604,0.000000 11.636930,48.143887,0.000000 11.634674,48.144195,0.000000 11.633493,48.144173,0.000000 11.633085,48.144041,0.000000 11.632574,48.144037,0.000000</coordinates>
         </LineString>
@@ -936,7 +936,7 @@
         <name>Nymphenburgstr - Blutenburgstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.535333,48.152176,0.000000 11.536438,48.151883,0.000000 11.538992,48.151376,0.000000 11.538477,48.150273,0.000000</coordinates>
         </LineString>
@@ -945,7 +945,7 @@
         <name>Querung Offenbachstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.466544,48.149296,0.000000 11.465873,48.149318,0.000000</coordinates>
         </LineString>
@@ -955,7 +955,7 @@
 </name>
         <description>Hildachstr-Nymphenburgpark</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.483460,48.150235,0.000000 11.485176,48.150722,0.000000</coordinates>
         </LineString>
@@ -964,7 +964,7 @@
         <name>Unterführung Landshuter Allee
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.537554,48.150419,0.000000 11.536835,48.150584,0.000000 11.536460,48.150863,0.000000</coordinates>
         </LineString>
@@ -973,7 +973,7 @@
         <name>Baustelle 2 Stammstrecke
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.500851,48.145515,0.000000 11.501141,48.145558,0.000000 11.500851,48.145515,0.000000 11.500003,48.145601,0.000000 11.499006,48.145580,0.000000 11.495057,48.146045,0.000000 11.492010,48.146503,0.000000 11.490122,48.147198,0.000000 11.488384,48.148092,0.000000 11.487633,48.148679,0.000000</coordinates>
         </LineString>
@@ -982,7 +982,7 @@
         <name>Lücke Unterführung Landsuter Allee Olympiapark</name>
         <description>fehlende Verbindung zum Nordradweg und Olympiaradweg&lt;br&gt;Maßnahme: bestehende Unterführung umbauen und  breiten Radweg bauen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.538032,48.169756,0.000000 11.538017,48.169717,0.000000 11.538034,48.169683,0.000000 11.538126,48.169639,0.000000 11.538187,48.169590,0.000000 11.538462,48.169635,0.000000 11.538665,48.169627,0.000000 11.538871,48.169587,0.000000 11.539193,48.169483,0.000000 11.539330,48.169437,0.000000 11.539374,48.169379,0.000000 11.539389,48.169295,0.000000</coordinates>
         </LineString>
@@ -991,7 +991,7 @@
         <name>Lücke Querung Triebstraße</name>
         <description>wichtige Lücke &lt;br&gt;Maßnahme: Brücke oder Unterführung</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.539759,48.186418,0.000000 11.539121,48.186554,0.000000 11.539148,48.186973,0.000000</coordinates>
         </LineString>
@@ -999,7 +999,7 @@
       <Placemark>
         <name>Lücke Geisterbahnhof Olympiapark Nord</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.539292,48.178743,0.000000 11.539604,48.183428,0.000000</coordinates>
         </LineString>
@@ -1008,7 +1008,7 @@
         <name>Isarradweg-Kabelsteg</name>
         <description>Ist: Fuß/Radweg gemischt, zu schmal&lt;br&gt;Soll: separater breiter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.589122,48.133426,0.000000 11.589798,48.134164,0.000000 11.590624,48.134393,0.000000 11.590909,48.134329,0.000000 11.591359,48.134694,0.000000 11.591775,48.135242,0.000000 11.592228,48.135664,0.000000 11.592338,48.135955,0.000000 11.592512,48.136174,0.000000 11.592829,48.136502,0.000000 11.592990,48.136826,0.000000 11.593358,48.137215,0.000000</coordinates>
         </LineString>
@@ -1017,7 +1017,7 @@
         <name>Isarradweg-Max-Josef-Brücke</name>
         <description>sehr schmal, nur in Richtung Norden erlaubt.&lt;br&gt;Maßnahme: breiterer Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.599486,48.149331,0.000000 11.599017,48.149017,0.000000 11.598880,48.148890,0.000000 11.598730,48.148620,0.000000</coordinates>
         </LineString>
@@ -1026,7 +1026,7 @@
         <name>Donnersbergerstr.</name>
         <description>kein Radweg, aber relativ ruhige Straße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.532758,48.152924,0.000000 11.534808,48.146510,0.000000</coordinates>
         </LineString>
@@ -1035,7 +1035,7 @@
         <name>Plinganserstraße</name>
         <description>Ist: ungeschützte Radstreifen zwischen Parkstreifen und dem rasenden Verkehr, unterbrochen von Bushaltestelle&lt;br&gt;Maßnahme: geschützte Radstreifen, Tempo 30 </description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.541209,48.121734,0.000000 11.541020,48.121408,0.000000 11.541165,48.121018,0.000000 11.540773,48.120097,0.000000 11.540618,48.119789,0.000000 11.540478,48.118414,0.000000</coordinates>
         </LineString>
@@ -1044,7 +1044,7 @@
         <name>Lindenschmitstraße</name>
         <description>Ist: wenig Verkehr, kein Radweg, ebener Asphalt, Ampel an Plinganserstr vorhanden&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.540462,48.118382,0.000000 11.538231,48.118368,0.000000</coordinates>
         </LineString>
@@ -1053,7 +1053,7 @@
         <name>Margaretenplatz</name>
         <description>Pflastersteine, kein Radweg,keine Ampel an Plinganerstr&lt;br&gt;Maßnahme: keine, Parallel Straße nutzen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.540395,48.119856,0.000000 11.538807,48.119922,0.000000 11.538536,48.119981,0.000000</coordinates>
         </LineString>
@@ -1062,7 +1062,7 @@
         <name>Richelstraße</name>
         <description>wenig Verkehr, kein Radweg&lt;br&gt;Maßnahme: Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.534400,48.143955,0.000000 11.534677,48.145243,0.000000 11.534773,48.145437,0.000000 11.534768,48.146181,0.000000</coordinates>
         </LineString>
@@ -1071,7 +1071,7 @@
         <name>Donnersberger Str. -Querung Arnulfstr</name>
         <description>enger Zweirichtungsradweg&lt;br&gt;Maßnahme: Ampel für geradlinige Querung Donnersberger Str/Richelstr.</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.534768,48.146181,0.000000 11.535001,48.146118,0.000000 11.535063,48.146054,0.000000 11.535396,48.146151,0.000000 11.535607,48.146426,0.000000 11.534803,48.146487,0.000000</coordinates>
         </LineString>
@@ -1079,7 +1079,7 @@
       <Placemark>
         <name>Lücke Querung Arnulfstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.534763,48.146194,0.000000 11.534808,48.146510,0.000000</coordinates>
         </LineString>
@@ -1088,7 +1088,7 @@
         <name>Bettelampel-Herterichstr-Drygalski-Alle</name>
         <description>Maßnahme: verbesserte Ampelschaltung, Vorgezogene Aufsterllfläche</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.503324,48.079520,0.000000 11.503217,48.079419,0.000000 11.503104,48.079285,0.000000</coordinates>
         </LineString>
@@ -1097,7 +1097,7 @@
         <name>Drygalski-Allee stadteinwärts</name>
         <description>zu schmal, viel Verkehr, viele Einfahrten&lt;br&gt;Maßnahme: breiter Radweg, umwidmung einer Fahrspur oderParkplätze</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.503676,48.079174,0.000000 11.503831,48.080052,0.000000 11.503947,48.080659,0.000000 11.503898,48.082071,0.000000 11.503813,48.082743,0.000000 11.503636,48.083145,0.000000 11.503426,48.083684,0.000000 11.503274,48.084266,0.000000 11.503220,48.084639,0.000000 11.503180,48.085601,0.000000 11.503193,48.086318,0.000000 11.503142,48.087312,0.000000 11.503110,48.087404,0.000000</coordinates>
         </LineString>

@@ -3,34 +3,34 @@
     <name>doc name</name>
     <description>doc description</description>
     <visibility>1</visibility>
-    <Style id="grün">
+    <Style id="green">
       <LineStyle>
         <color>00ff00</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="gelb">
+    <Style id="yellow">
       <LineStyle>
         <color>ffff00</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="rot">
+    <Style id="red">
       <LineStyle>
         <color>ff0000</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="schwarz">
+    <Style id="black">
       <LineStyle>
         <color>000000</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="grau">
+    <Style id="grey">
       <LineStyle>
         <color>888888</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
     <Folder>
@@ -40,7 +40,7 @@
         <name>Negrelistr. S-Bahn Langwied</name>
         <description>Quelle: Sonja Haider</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.420149,48.170069,0.000000 11.431875,48.163643,0.000000 11.432455,48.163615,0.000000 11.433377,48.164144,0.000000 11.434246,48.164581,0.000000 11.435140,48.165780,0.000000 11.437250,48.167393,0.000000 11.438388,48.167994,0.000000</coordinates>
         </LineString>
@@ -48,7 +48,7 @@
       <Placemark>
         <name>grün_Parallele A99</name>
         <visibility>1</visibility>
-        <styleUrl>grün</styleUrl>
+        <styleUrl>green</styleUrl>
         <LineString>
           <coordinates>11.482430,48.209860,0.000000 11.484833,48.210447,0.000000</coordinates>
         </LineString>
@@ -56,7 +56,7 @@
       <Placemark>
         <name>Bahngelände - Am Neubruch</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.501913,48.192777,0.000000 11.501344,48.192734,0.000000 11.498308,48.193292,0.000000 11.496420,48.193614,0.000000 11.495701,48.194079,0.000000</coordinates>
         </LineString>
@@ -64,7 +64,7 @@
       <Placemark>
         <name>grün_Überquerung Bahntrasse</name>
         <visibility>1</visibility>
-        <styleUrl>grün</styleUrl>
+        <styleUrl>green</styleUrl>
         <LineString>
           <coordinates>11.491468,48.195062,0.000000 11.491292,48.195824,0.000000 11.490068,48.196253,0.000000 11.489210,48.197197,0.000000 11.488523,48.197433,0.000000 11.487837,48.197526,0.000000 11.485809,48.198169,0.000000 11.486678,48.199314,0.000000 11.486002,48.199371,0.000000 11.484329,48.199671,0.000000 11.483856,48.199800,0.000000</coordinates>
         </LineString>
@@ -72,7 +72,7 @@
       <Placemark>
         <name>grün_Parallele Ludwigsfelder Str.</name>
         <visibility>1</visibility>
-        <styleUrl>grün</styleUrl>
+        <styleUrl>green</styleUrl>
         <LineString>
           <coordinates>11.495487,48.194254,0.000000 11.495052,48.194154,0.000000 11.494730,48.194154,0.000000 11.493882,48.194347,0.000000 11.492831,48.194719,0.000000 11.492102,48.195037,0.000000 11.491468,48.195062,0.000000</coordinates>
         </LineString>
@@ -80,7 +80,7 @@
       <Placemark>
         <name>grün_Allacher Lohe - Überquerung A99</name>
         <visibility>1</visibility>
-        <styleUrl>grün</styleUrl>
+        <styleUrl>green</styleUrl>
         <LineString>
           <coordinates>11.483856,48.199800,0.000000 11.484790,48.200222,0.000000 11.485434,48.200222,0.000000 11.482687,48.202567,0.000000 11.482558,48.206514,0.000000 11.481056,48.207487,0.000000 11.482472,48.208860,0.000000 11.482430,48.209860,0.000000</coordinates>
         </LineString>
@@ -88,7 +88,7 @@
       <Placemark>
         <name>Luipoldpark</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.567380,48.175788,0.000000 11.567702,48.175173,0.000000 11.567745,48.174886,0.000000 11.567981,48.174443,0.000000 11.567853,48.174014,0.000000 11.567638,48.173141,0.000000 11.567981,48.173126,0.000000 11.568239,48.172196,0.000000 11.569998,48.171724,0.000000 11.570191,48.170966,0.000000 11.570520,48.170670,0.000000 11.570560,48.169970,0.000000 11.570840,48.169590,0.000000 11.570513,48.167602,0.000000 11.570041,48.166715,0.000000 11.569784,48.165055,0.000000</coordinates>
         </LineString>
@@ -96,7 +96,7 @@
       <Placemark>
         <name>Firstalmstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.579526,48.111006,0.000000 11.584793,48.109272,0.000000</coordinates>
         </LineString>
@@ -104,7 +104,7 @@
       <Placemark>
         <name>Durchblick-Ost</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.479007,48.157605,0.000000 11.478711,48.158090,0.000000 11.477944,48.158203,0.000000 11.477820,48.158688,0.000000 11.477631,48.158958,0.000000 11.477340,48.159184,0.000000 11.476212,48.159410,0.000000 11.475546,48.159859,0.000000 11.476092,48.160327,0.000000 11.476097,48.160833,0.000000 11.476360,48.161010,0.000000 11.475950,48.161300,0.000000 11.475380,48.161300,0.000000 11.474730,48.161460,0.000000 11.473653,48.161420,0.000000 11.473240,48.161670,0.000000 11.472810,48.161620,0.000000 11.471950,48.161910,0.000000 11.470940,48.161780,0.000000 11.470460,48.162040,0.000000 11.469791,48.162064,0.000000 11.468410,48.162310,0.000000 11.467602,48.162364,0.000000</coordinates>
         </LineString>
@@ -113,7 +113,7 @@
         <name>Ost N Ab2a</name>
         <description>Guter neuer breiter Kiesweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.709816,48.133401,0.000000 11.707134,48.128045,0.000000 11.704838,48.127014,0.000000 11.683702,48.126742,0.000000 11.682866,48.126112,0.000000</coordinates>
         </LineString>
@@ -121,7 +121,7 @@
       <Placemark>
         <name>Ost N Ab2b</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.687200,48.126699,0.000000 11.686771,48.124507,0.000000 11.689367,48.123806,0.000000 11.687500,48.122574,0.000000 11.686814,48.122660,0.000000 11.676493,48.125897,0.000000</coordinates>
         </LineString>
@@ -130,7 +130,7 @@
         <name>Ost NN Ab2</name>
         <description>abgetrennter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.695483,48.140533,0.000000 11.693712,48.142201,0.000000 11.691996,48.142638,0.000000 11.690344,48.142322,0.000000 11.686610,48.141313,0.000000 11.684561,48.140683,0.000000 11.682554,48.140837,0.000000 11.678038,48.140221,0.000000 11.674470,48.139831,0.000000 11.673853,48.139749,0.000000 11.667824,48.140021,0.000000</coordinates>
         </LineString>
@@ -139,7 +139,7 @@
         <name>Ost NN Ab1</name>
         <description>Breiter abgetrennter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.713293,48.139015,0.000000 11.710975,48.138199,0.000000 11.707907,48.138113,0.000000 11.703229,48.138972,0.000000 11.695483,48.140533,0.000000</coordinates>
         </LineString>
@@ -147,7 +147,7 @@
       <Placemark>
         <name>Ost NN Ab6c</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.648399,48.130097,0.000000 11.648394,48.130158,0.000000 11.645245,48.130995,0.000000 11.644033,48.131375,0.000000 11.642681,48.131762,0.000000 11.641576,48.132002,0.000000 11.639468,48.132274,0.000000 11.636753,48.132564,0.000000 11.636249,48.132635,0.000000 11.633561,48.133176,0.000000 11.633272,48.133237,0.000000 11.632998,48.133494,0.000000 11.633057,48.133630,0.000000 11.633229,48.133777,0.000000 11.633631,48.135600,0.000000 11.634023,48.136248,0.000000 11.631356,48.136144,0.000000 11.628824,48.135993,0.000000 11.625059,48.135800,0.000000 11.624592,48.135875,0.000000</coordinates>
         </LineString>
@@ -155,7 +155,7 @@
       <Placemark>
         <name>Dukatenweg</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.659691,48.118878,0.000000 11.659235,48.119324,0.000000 11.658232,48.119644,0.000000 11.657690,48.119798,0.000000 11.657189,48.119105,0.000000 11.656148,48.119431,0.000000</coordinates>
         </LineString>
@@ -163,7 +163,7 @@
       <Placemark>
         <name>Riemer Park</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.688252,48.123046,0.000000 11.689367,48.123848,0.000000 11.686750,48.124651,0.000000 11.687183,48.126717,0.000000 11.683648,48.126684,0.000000 11.682881,48.126051,0.000000 11.678284,48.126129,0.000000</coordinates>
         </LineString>
@@ -172,7 +172,7 @@
         <name>Ost-N Ab1</name>
         <description>Breiter abgetrennter Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.713443,48.138958,0.000000 11.715224,48.137067,0.000000 11.714773,48.134876,0.000000 11.711812,48.133545,0.000000 11.705954,48.133401,0.000000</coordinates>
         </LineString>
@@ -181,7 +181,7 @@
         <name>Ost Route Trudering-NeuPerlach</name>
         <description>Breiter Radweg und Fahrradstrasse</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.674180,48.111368,0.000000 11.673360,48.110440,0.000000 11.671729,48.109351,0.000000 11.668575,48.105440,0.000000</coordinates>
         </LineString>
@@ -189,7 +189,7 @@
       <Placemark>
         <name>grün_Altöttingerstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grün</styleUrl>
+        <styleUrl>green</styleUrl>
         <LineString>
           <coordinates>11.625702,48.124006,0.000000 11.626432,48.126126,0.000000 11.618278,48.126785,0.000000</coordinates>
         </LineString>
@@ -198,7 +198,7 @@
         <name>Fürstenried West Wallieser Str
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.487322,48.093732,0.000000 11.484919,48.092442,0.000000 11.484361,48.091697,0.000000 11.483502,48.091869,0.000000 11.481786,48.089661,0.000000 11.480455,48.089977,0.000000 11.479640,48.088830,0.000000</coordinates>
         </LineString>
@@ -206,7 +206,7 @@
       <Placemark>
         <name>Linie 11</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.545118,48.127999,0.000000 11.546695,48.128145,0.000000 11.550815,48.127974,0.000000 11.552746,48.130208,0.000000</coordinates>
         </LineString>
@@ -215,7 +215,7 @@
         <name>Brudermühlbrüke</name>
         <description>Isarradweg halt...</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.554012,48.112188,0.000000 11.555901,48.112302,0.000000 11.557290,48.112306,0.000000 11.558701,48.112438,0.000000 11.560879,48.112746,0.000000</coordinates>
         </LineString>
@@ -223,7 +223,7 @@
       <Placemark>
         <name>Weisenseepark</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.584997,48.107532,0.000000 11.584783,48.107202,0.000000 11.584690,48.106960,0.000000 11.584110,48.106602,0.000000 11.583731,48.106084,0.000000 11.583220,48.105549,0.000000 11.582787,48.105139,0.000000 11.582620,48.104939,0.000000</coordinates>
         </LineString>
@@ -232,7 +232,7 @@
         <name>Querung Tegernseer Landstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.583431,48.103226,0.000000 11.582841,48.103082,0.000000</coordinates>
         </LineString>
@@ -240,7 +240,7 @@
       <Placemark>
         <name>Fromundstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.581693,48.104322,0.000000 11.581478,48.104587,0.000000 11.581382,48.104773,0.000000 11.581178,48.104895,0.000000 11.580824,48.105024,0.000000 11.580416,48.105196,0.000000 11.579740,48.105941,0.000000 11.579257,48.106629,0.000000 11.578871,48.106901,0.000000 11.577734,48.107381,0.000000 11.576747,48.107811,0.000000 11.575202,48.108484,0.000000</coordinates>
         </LineString>
@@ -249,7 +249,7 @@
         <name>Grünwalder Stadion
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.572857,48.109702,0.000000 11.572557,48.109727,0.000000 11.572375,48.109444,0.000000 11.572026,48.109222,0.000000 11.571798,48.109151,0.000000</coordinates>
         </LineString>
@@ -258,7 +258,7 @@
         <name>Brücke Candidstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.564473,48.113513,0.000000 11.564618,48.112492,0.000000</coordinates>
         </LineString>
@@ -267,7 +267,7 @@
         <name>Isarauen Candidstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.561345,48.112646,0.000000 11.562150,48.112639,0.000000 11.562788,48.112646,0.000000 11.563057,48.112614,0.000000 11.563609,48.112822,0.000000 11.564092,48.112836,0.000000 11.564543,48.112822,0.000000 11.564607,48.112543,0.000000 11.565133,48.112460,0.000000 11.565149,48.111952,0.000000</coordinates>
         </LineString>
@@ -276,7 +276,7 @@
         <name>grün_Großer Stadtbach
 </name>
         <visibility>1</visibility>
-        <styleUrl>grün</styleUrl>
+        <styleUrl>green</styleUrl>
         <LineString>
           <coordinates>11.558701,48.112438,0.000000 11.558883,48.112174,0.000000 11.559226,48.112374,0.000000 11.558926,48.112775,0.000000 11.558540,48.112790,0.000000 11.558089,48.113377,0.000000 11.557767,48.114237,0.000000 11.557510,48.114523,0.000000 11.558111,48.115640,0.000000 11.558754,48.116629,0.000000 11.559312,48.117331,0.000000 11.559913,48.118018,0.000000 11.561866,48.119723,0.000000 11.563625,48.120869,0.000000</coordinates>
         </LineString>
@@ -285,7 +285,7 @@
         <name>Am Hohen Weg
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.581478,48.104157,0.000000 11.580228,48.103684,0.000000 11.579729,48.103434,0.000000 11.579348,48.103183,0.000000 11.578039,48.102076,0.000000 11.577508,48.101463,0.000000 11.577251,48.101144,0.000000 11.576967,48.100926,0.000000 11.576484,48.100632,0.000000 11.575481,48.100123,0.000000 11.574451,48.099461,0.000000 11.574081,48.099238,0.000000 11.573271,48.098902,0.000000 11.572782,48.098748,0.000000 11.572273,48.098522,0.000000 11.571774,48.098361,0.000000 11.571152,48.098307,0.000000</coordinates>
         </LineString>
@@ -293,7 +293,7 @@
       <Placemark>
         <name>Unterführung Bahngleise Trudering</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.669653,48.125342,0.000000 11.669849,48.125207,0.000000 11.669586,48.125266,0.000000 11.669382,48.124935,0.000000 11.669092,48.124445,0.000000</coordinates>
         </LineString>
@@ -302,7 +302,7 @@
         <name>Perlacher Forst
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.574461,48.089324,0.000000 11.571329,48.046924,0.000000 11.571350,48.045994,0.000000 11.570900,48.045667,0.000000 11.571114,48.044794,0.000000 11.570964,48.042588,0.000000 11.571689,48.042486,0.000000 11.572051,48.041840,0.000000 11.572756,48.041711,0.000000 11.575809,48.035749,0.000000 11.577787,48.031436,0.000000</coordinates>
         </LineString>
@@ -311,7 +311,7 @@
         <name>Unterführung Kapuzinerstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.567273,48.127995,0.000000 11.567155,48.127748,0.000000 11.566887,48.127340,0.000000 11.566495,48.126989,0.000000 11.566082,48.126538,0.000000 11.565873,48.126266,0.000000 11.565535,48.126129,0.000000 11.565165,48.125539,0.000000 11.564666,48.124837,0.000000 11.564355,48.124446,0.000000 11.564124,48.124078,0.000000 11.563422,48.123236,0.000000 11.563067,48.122882,0.000000 11.563030,48.122763,0.000000 11.562826,48.122753,0.000000</coordinates>
         </LineString>
@@ -320,7 +320,7 @@
         <name>Hirschgarten</name>
         <description>grün aber Fußgänger Radler gemischt</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.507850,48.147330,0.000000 11.510200,48.147170,0.000000 11.511290,48.147763,0.000000 11.511633,48.148049,0.000000 11.512830,48.147930,0.000000 11.513865,48.148150,0.000000 11.515174,48.148364,0.000000 11.517110,48.148100,0.000000 11.517610,48.148150,0.000000 11.518371,48.148608,0.000000 11.519000,48.149170,0.000000 11.519594,48.149610,0.000000 11.519640,48.150050,0.000000</coordinates>
         </LineString>
@@ -329,7 +329,7 @@
         <name>Botanischer Garten
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.492772,48.165341,0.000000 11.496956,48.162550,0.000000 11.498845,48.161563,0.000000 11.499102,48.160733,0.000000 11.500819,48.161133,0.000000</coordinates>
         </LineString>
@@ -338,7 +338,7 @@
         <name>Englicher Garten Aumeister/Hirschau
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.619952,48.185789,0.000000 11.619329,48.185002,0.000000 11.619630,48.183772,0.000000 11.620681,48.182327,0.000000 11.620574,48.181669,0.000000 11.620123,48.181196,0.000000 11.619179,48.180767,0.000000 11.618407,48.179780,0.000000 11.617742,48.178721,0.000000 11.616669,48.177848,0.000000 11.616669,48.177276,0.000000 11.616240,48.176646,0.000000 11.615210,48.176060,0.000000 11.614780,48.175630,0.000000 11.614072,48.174944,0.000000 11.613107,48.173799,0.000000 11.612012,48.171939,0.000000 11.611133,48.171438,0.000000 11.610317,48.170536,0.000000 11.608257,48.169205,0.000000 11.607120,48.167760,0.000000 11.606047,48.166701,0.000000 11.605833,48.166300,0.000000 11.605167,48.166071,0.000000 11.604824,48.165470,0.000000 11.604030,48.164726,0.000000 11.603365,48.164411,0.000000 11.602507,48.163538,0.000000 11.602378,48.163080,0.000000 11.601841,48.162178,0.000000 11.601734,48.161706,0.000000 11.602056,48.161598,0.000000 11.601981,48.161362,0.000000 11.601402,48.160754,0.000000 11.601638,48.160539,0.000000 11.601627,48.160296,0.000000 11.600404,48.159702,0.000000 11.600007,48.159294,0.000000 11.599824,48.159029,0.000000 11.599256,48.158958,0.000000 11.599782,48.158442,0.000000 11.599867,48.157963,0.000000 11.599760,48.157669,0.000000 11.599932,48.157133,0.000000 11.599975,48.156438,0.000000 11.599782,48.155988,0.000000 11.599384,48.155651,0.000000 11.599191,48.155272,0.000000 11.598837,48.155136,0.000000 11.597668,48.155229,0.000000 11.597303,48.155154,0.000000 11.596981,48.154935,0.000000 11.596284,48.154363,0.000000 11.595866,48.154105,0.000000 11.595640,48.153905,0.000000 11.595447,48.153661,0.000000 11.595490,48.153289,0.000000 11.595356,48.152908,0.000000 11.594988,48.152567,0.000000 11.594771,48.151969,0.000000 11.594664,48.151659,0.000000 11.594321,48.151543,0.000000</coordinates>
         </LineString>
@@ -346,7 +346,7 @@
       <Placemark>
         <name>Linie 32</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.593574,48.151008,0.000000 11.593448,48.150126,0.000000 11.593237,48.149316,0.000000 11.592475,48.148293,0.000000 11.591681,48.147548,0.000000 11.590598,48.146804,0.000000 11.589675,48.146088,0.000000 11.588927,48.145837,0.000000 11.588672,48.145988,0.000000 11.588023,48.145830,0.000000 11.585898,48.145702,0.000000 11.584783,48.145358,0.000000 11.584158,48.144844,0.000000 11.583586,48.144288,0.000000 11.583321,48.143801,0.000000 11.583445,48.143575,0.000000 11.583334,48.143278,0.000000 11.582594,48.143375,0.000000 11.581972,48.143540,0.000000 11.581190,48.141810,0.000000</coordinates>
         </LineString>
@@ -354,7 +354,7 @@
       <Placemark>
         <name>Westpark</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.530538,48.124393,0.000000 11.530033,48.124350,0.000000 11.529497,48.124472,0.000000 11.528993,48.124701,0.000000 11.528403,48.124651,0.000000 11.528081,48.124443,0.000000 11.527812,48.124135,0.000000 11.527695,48.123813,0.000000 11.527340,48.123569,0.000000 11.526750,48.123340,0.000000 11.526246,48.123376,0.000000 11.525860,48.123211,0.000000 11.525377,48.123111,0.000000 11.524594,48.123147,0.000000 11.523853,48.123054,0.000000 11.523049,48.122781,0.000000 11.522545,48.122567,0.000000 11.521836,48.122395,0.000000 11.520978,48.122380,0.000000 11.520077,48.122552,0.000000 11.518511,48.122423,0.000000 11.518210,48.122645,0.000000 11.517577,48.122839,0.000000 11.516858,48.122867,0.000000 11.515989,48.122574,0.000000 11.515603,48.122237,0.000000 11.515394,48.121954,0.000000 11.515075,48.121806,0.000000 11.514713,48.121600,0.000000 11.512556,48.121141,0.000000</coordinates>
         </LineString>
@@ -362,7 +362,7 @@
       <Placemark>
         <name>Westpark-Südwest</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.507084,48.119641,0.000000 11.507454,48.119784,0.000000 11.508264,48.119960,0.000000 11.508259,48.120074,0.000000 11.508603,48.120267,0.000000 11.508935,48.120475,0.000000 11.509445,48.120780,0.000000 11.510099,48.121034,0.000000 11.510957,48.121191,0.000000 11.511494,48.121199,0.000000 11.512191,48.121138,0.000000 11.512556,48.121141,0.000000</coordinates>
         </LineString>
@@ -370,7 +370,7 @@
       <Placemark>
         <name>Westpark-Nordwest</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.511515,48.121231,0.000000 11.510898,48.121392,0.000000 11.510485,48.121707,0.000000 11.510201,48.122180,0.000000 11.509665,48.122760,0.000000 11.509380,48.123111,0.000000 11.509294,48.123440,0.000000 11.509391,48.123856,0.000000 11.509257,48.124135,0.000000 11.508613,48.124708,0.000000</coordinates>
         </LineString>
@@ -378,7 +378,7 @@
       <Placemark>
         <name>Westpark-Rosengarten</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.508340,48.124603,0.000000 11.507763,48.123185,0.000000 11.507685,48.123050,0.000000 11.507465,48.122448,0.000000 11.507422,48.122217,0.000000 11.507366,48.122033,0.000000 11.507371,48.121704,0.000000 11.507385,48.121467,0.000000 11.507363,48.121313,0.000000 11.507173,48.120941,0.000000 11.507130,48.120769,0.000000 11.507143,48.120375,0.000000 11.507087,48.119961,0.000000 11.507058,48.119797,0.000000 11.507095,48.119247,0.000000 11.507192,48.118156,0.000000 11.507288,48.117172,0.000000</coordinates>
         </LineString>
@@ -386,7 +386,7 @@
       <Placemark>
         <name>Blutenburg</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.466870,48.162250,0.000000 11.466229,48.162307,0.000000 11.465575,48.162407,0.000000 11.464534,48.162472,0.000000 11.464010,48.162440,0.000000 11.463461,48.162586,0.000000 11.462650,48.162330,0.000000 11.462120,48.162400,0.000000 11.461959,48.162250,0.000000 11.461004,48.162371,0.000000 11.459502,48.162472,0.000000 11.458622,48.162643,0.000000 11.458558,48.163230,0.000000 11.458790,48.163800,0.000000 11.458622,48.164003,0.000000 11.458429,48.164032,0.000000 11.457936,48.163846,0.000000 11.457410,48.163730,0.000000 11.456948,48.163753,0.000000</coordinates>
         </LineString>
@@ -394,7 +394,7 @@
       <Placemark>
         <name>Schloßmauer-Obermenzing</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.482129,48.155694,0.000000 11.481485,48.157612,0.000000 11.481442,48.158414,0.000000 11.482472,48.158872,0.000000 11.484511,48.159187,0.000000 11.485176,48.159559,0.000000 11.485691,48.160504,0.000000 11.486764,48.161377,0.000000 11.487815,48.161906,0.000000 11.488223,48.162393,0.000000 11.488266,48.162822,0.000000 11.488953,48.162937,0.000000 11.489897,48.164096,0.000000 11.490412,48.164583,0.000000 11.491098,48.164869,0.000000 11.491957,48.165313,0.000000 11.492772,48.165341,0.000000</coordinates>
         </LineString>
@@ -402,7 +402,7 @@
       <Placemark>
         <name>Steegener-/Rubihornweg</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.503308,48.126248,0.000000 11.504799,48.126319,0.000000 11.505668,48.126262,0.000000 11.507653,48.126026,0.000000 11.508544,48.126104,0.000000 11.509584,48.125660,0.000000 11.511977,48.125331,0.000000 11.513082,48.124987,0.000000 11.514584,48.124858,0.000000 11.515270,48.124844,0.000000 11.518382,48.124386,0.000000 11.519712,48.124250,0.000000 11.520120,48.124278,0.000000 11.520420,48.124429,0.000000 11.520410,48.124747,0.000000 11.520748,48.125272,0.000000 11.520706,48.125555,0.000000 11.520943,48.125810,0.000000 11.521783,48.125517,0.000000</coordinates>
         </LineString>
@@ -412,7 +412,7 @@
 </name>
         <description>viel Verkehr, oft schneller als 50 KM/h,&lt;br&gt;2017/2018: neuer breiter Radweg direkt am Gehweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.518629,48.141344,0.000000 11.520195,48.145460,0.000000 11.520314,48.147754,0.000000 11.520260,48.150020,0.000000</coordinates>
         </LineString>
@@ -421,7 +421,7 @@
         <name>Denninger Fahrradstraßen
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.647954,48.148379,0.000000 11.647460,48.148730,0.000000 11.648147,48.149531,0.000000 11.645336,48.150498,0.000000 11.644870,48.149340,0.000000 11.640470,48.149760,0.000000 11.637386,48.149760,0.000000 11.635723,48.149882,0.000000 11.634875,48.149939,0.000000 11.634660,48.150100,0.000000 11.633116,48.149825,0.000000 11.632526,48.149925,0.000000 11.632550,48.150260,0.000000 11.632451,48.150426,0.000000 11.628706,48.150705,0.000000</coordinates>
         </LineString>
@@ -430,7 +430,7 @@
         <name>An der Salzbrücke
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.644929,48.162794,0.000000 11.640251,48.163738,0.000000 11.636345,48.164482,0.000000 11.630509,48.165685,0.000000 11.627719,48.166186,0.000000 11.624690,48.166600,0.000000 11.624050,48.166830,0.000000</coordinates>
         </LineString>
@@ -438,7 +438,7 @@
       <Placemark>
         <name>S-Bahn Daglfing</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.656537,48.147169,0.000000 11.658434,48.147062,0.000000</coordinates>
         </LineString>
@@ -447,7 +447,7 @@
         <name>Preysingstr</name>
         <description>Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.590437,48.132385,0.000000 11.590778,48.132246,0.000000 11.597600,48.132300,0.000000 11.599578,48.132363,0.000000 11.601638,48.133323,0.000000 11.601852,48.133681,0.000000</coordinates>
         </LineString>
@@ -457,7 +457,7 @@
 </name>
         <description>grüne Route Nord/Süd Richtung in Bogenhausen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.634350,48.140318,0.000000 11.633277,48.141306,0.000000 11.632590,48.141721,0.000000 11.632547,48.144843,0.000000 11.632590,48.146661,0.000000 11.633019,48.147892,0.000000 11.633298,48.148393,0.000000 11.633270,48.149790,0.000000 11.633513,48.150326,0.000000 11.633491,48.151357,0.000000 11.633856,48.151600,0.000000 11.633663,48.152187,0.000000 11.633105,48.152473,0.000000 11.632719,48.153447,0.000000</coordinates>
         </LineString>
@@ -466,7 +466,7 @@
         <name>Isartalradweg</name>
         <description>gut ausgebaute Strecke im Grünen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.559012,48.112045,0.000000 11.559312,48.110311,0.000000 11.558626,48.109337,0.000000 11.557467,48.108993,0.000000 11.556201,48.108262,0.000000 11.554978,48.108062,0.000000 11.553905,48.108234,0.000000 11.552446,48.107603,0.000000 11.551588,48.107789,0.000000 11.551459,48.105740,0.000000 11.551201,48.105053,0.000000 11.550128,48.103677,0.000000 11.548541,48.102015,0.000000 11.547639,48.101155,0.000000 11.547425,48.100152,0.000000 11.545429,48.097429,0.000000 11.544571,48.097214,0.000000 11.543005,48.095251,0.000000 11.541009,48.092728,0.000000 11.539593,48.090034,0.000000 11.539442,48.088199,0.000000 11.538928,48.086766,0.000000 11.538509,48.085304,0.000000 11.537356,48.083376,0.000000 11.535124,48.079939,0.000000 11.533426,48.078754,0.000000</coordinates>
         </LineString>
@@ -475,7 +475,7 @@
         <name>Tram 23 Petruel-Frankfurter Ring
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.588146,48.175942,0.000000 11.588575,48.177655,0.000000 11.588656,48.178145,0.000000 11.588709,48.178750,0.000000 11.588833,48.179469,0.000000 11.588945,48.179887,0.000000 11.589348,48.180016,0.000000 11.589552,48.180291,0.000000 11.589857,48.181568,0.000000 11.590104,48.181801,0.000000 11.590544,48.183528,0.000000 11.590356,48.183575,0.000000 11.590512,48.183947,0.000000</coordinates>
         </LineString>
@@ -483,7 +483,7 @@
       <Placemark>
         <name>Domagstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.590598,48.183965,0.000000 11.592647,48.183743,0.000000 11.594439,48.183414,0.000000</coordinates>
         </LineString>
@@ -492,7 +492,7 @@
         <name>Unterführung Domagstr
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.590254,48.184137,0.000000 11.590426,48.184709,0.000000 11.590887,48.186511,0.000000 11.591338,48.186483,0.000000 11.591633,48.187641,0.000000</coordinates>
         </LineString>
@@ -501,7 +501,7 @@
         <name>Brücke Ackermannstraße
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.552065,48.164275,0.000000 11.552430,48.164049,0.000000 11.552896,48.163874,0.000000 11.553363,48.163810,0.000000 11.553744,48.163846,0.000000 11.554146,48.163914,0.000000 11.554710,48.163910,0.000000 11.555520,48.163967,0.000000 11.555740,48.163942,0.000000 11.556873,48.164164,0.000000 11.558178,48.164393,0.000000 11.560745,48.164691,0.000000 11.562754,48.164616,0.000000</coordinates>
         </LineString>
@@ -510,7 +510,7 @@
         <name>Münchner-Kindl-Weg Perlacher Forst
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.587991,48.094438,0.000000 11.587241,48.094413,0.000000 11.586588,48.094232,0.000000 11.585239,48.093764,0.000000 11.584820,48.093313,0.000000 11.581639,48.092084,0.000000 11.580384,48.091603,0.000000 11.574311,48.089353,0.000000</coordinates>
         </LineString>
@@ -518,7 +518,7 @@
       <Placemark>
         <name>Max-Friedländer-Bogen</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.548203,48.140679,0.000000 11.547296,48.140755,0.000000 11.545107,48.140740,0.000000 11.544997,48.140704,0.000000 11.544963,48.140440,0.000000 11.542141,48.140604,0.000000</coordinates>
         </LineString>
@@ -526,7 +526,7 @@
       <Placemark>
         <name>Ammerseestraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.503211,48.126255,0.000000 11.502052,48.126183,0.000000 11.499993,48.126083,0.000000 11.498534,48.125882,0.000000 11.497815,48.125739,0.000000</coordinates>
         </LineString>
@@ -534,7 +534,7 @@
       <Placemark>
         <name>Senftenaustraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.497815,48.125739,0.000000 11.496956,48.126813,0.000000 11.495583,48.127852,0.000000 11.493877,48.128804,0.000000 11.491474,48.129728,0.000000 11.489328,48.129979,0.000000 11.486925,48.130158,0.000000 11.483470,48.130201,0.000000 11.477827,48.129177,0.000000 11.475488,48.128597,0.000000 11.474587,48.128239,0.000000</coordinates>
         </LineString>
@@ -543,7 +543,7 @@
         <name>Brücke A96 Ammerseestr Westpark
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.515270,48.124844,0.000000 11.514916,48.123734,0.000000 11.514487,48.123476,0.000000 11.514745,48.122903,0.000000 11.515238,48.122703,0.000000 11.516204,48.122932,0.000000 11.516569,48.122932,0.000000</coordinates>
         </LineString>
@@ -551,7 +551,7 @@
       <Placemark>
         <name>A96 Ammerseestr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.464748,48.124285,0.000000 11.465886,48.124221,0.000000 11.467506,48.124328,0.000000 11.468375,48.124357,0.000000 11.472162,48.124164,0.000000 11.475091,48.124020,0.000000 11.476003,48.124128,0.000000 11.477151,48.124085,0.000000 11.478878,48.124378,0.000000 11.479683,48.124393,0.000000 11.480176,48.124221,0.000000 11.481389,48.124285,0.000000 11.482687,48.124185,0.000000</coordinates>
         </LineString>
@@ -560,7 +560,7 @@
         <name>Brücke A96 Walter-Hopf-Weg
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.490122,48.124214,0.000000 11.490412,48.124128,0.000000 11.491141,48.124207,0.000000 11.491345,48.123390,0.000000 11.491152,48.122774,0.000000 11.491399,48.121442,0.000000</coordinates>
         </LineString>
@@ -569,7 +569,7 @@
         <name>Brücke A96 Hadener Steg
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.482687,48.124185,0.000000 11.482665,48.123311,0.000000</coordinates>
         </LineString>
@@ -577,7 +577,7 @@
       <Placemark>
         <name>Silberdistelstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.479318,48.124407,0.000000 11.479361,48.126147,0.000000 11.479275,48.127279,0.000000 11.479039,48.128432,0.000000 11.478696,48.129348,0.000000</coordinates>
         </LineString>
@@ -585,7 +585,7 @@
       <Placemark>
         <name>Blumenau</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.478696,48.129348,0.000000 11.478202,48.130165,0.000000 11.477666,48.131396,0.000000 11.476765,48.133373,0.000000 11.475316,48.136165,0.000000</coordinates>
         </LineString>
@@ -594,7 +594,7 @@
         <name>Blumenau ARR
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.477001,48.132685,0.000000 11.475971,48.132428,0.000000 11.474040,48.133487,0.000000 11.473332,48.134189,0.000000 11.473181,48.134633,0.000000 11.472950,48.135670,0.000000</coordinates>
         </LineString>
@@ -603,7 +603,7 @@
         <name>Schmedersteg am Nockerberg
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.580738,48.121027,0.000000 11.581215,48.121145,0.000000 11.581950,48.121120,0.000000</coordinates>
         </LineString>
@@ -612,7 +612,7 @@
         <name>Pasing Arkaden
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.461363,48.146578,0.000000 11.461390,48.147928,0.000000 11.461540,48.148608,0.000000</coordinates>
         </LineString>
@@ -620,7 +620,7 @@
       <Placemark>
         <name>Ackermannstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.566951,48.167760,0.000000 11.564763,48.167960,0.000000 11.561587,48.168418,0.000000</coordinates>
         </LineString>
@@ -629,7 +629,7 @@
         <name>Berliner Straße
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.587551,48.170923,0.000000 11.587787,48.169563,0.000000 11.585963,48.169491,0.000000 11.586070,48.168776,0.000000</coordinates>
         </LineString>
@@ -639,7 +639,7 @@
 </name>
         <description>Nebenweg, Fuß/Rad gemischt</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.594353,48.170822,0.000000 11.592540,48.171312,0.000000 11.592620,48.171663,0.000000 11.591016,48.172447,0.000000 11.589261,48.172342,0.000000 11.589018,48.172166,0.000000 11.589047,48.171534,0.000000 11.589181,48.171209,0.000000 11.589374,48.170579,0.000000 11.589417,48.169720,0.000000</coordinates>
         </LineString>
@@ -647,7 +647,7 @@
       <Placemark>
         <name>Haidhausen Orleansplatz-Ostbahnhof</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Point>
           <coordinates>11.604052,48.127877,0.000000</coordinates>
         </Point>
@@ -655,7 +655,7 @@
       <Placemark>
         <name>Nymphenburg Rotkreuzplatz</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Point>
           <coordinates>11.533053,48.152977,0.000000</coordinates>
         </Point>
@@ -663,7 +663,7 @@
       <Placemark>
         <name>Pasinger Bahnhofsplatz</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Point>
           <coordinates>11.462128,48.148662,0.000000</coordinates>
         </Point>
@@ -672,7 +672,7 @@
         <name>Giesing Tegernseer Platz
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Point>
           <coordinates>11.580060,48.115527,0.000000</coordinates>
         </Point>
@@ -681,7 +681,7 @@
         <name>Brücke Candidstr. Grünwalder Stadion
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.574193,48.112969,0.000000 11.573700,48.112288,0.000000 11.573957,48.111737,0.000000 11.573485,48.111601,0.000000 11.573185,48.111128,0.000000 11.572906,48.110705,0.000000 11.572659,48.110368,0.000000 11.572557,48.109727,0.000000</coordinates>
         </LineString>
@@ -689,7 +689,7 @@
       <Placemark>
         <name>Sudetendeutsche Straße 2 Süd</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.579161,48.196067,0.000000 11.583227,48.195774,0.000000 11.583903,48.195759,0.000000</coordinates>
         </LineString>
@@ -697,7 +697,7 @@
       <Placemark>
         <name>Franz-Josef-Straße während Baustelle</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.584310,48.157383,0.000000 11.582808,48.157669,0.000000</coordinates>
         </LineString>
@@ -705,7 +705,7 @@
       <Placemark>
         <name>Destouchestraße West</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.569505,48.164110,0.000000 11.569762,48.165062,0.000000 11.571243,48.164912,0.000000 11.572251,48.164769,0.000000 11.574140,48.164540,0.000000</coordinates>
         </LineString>
@@ -713,7 +713,7 @@
       <Placemark>
         <name>Mittermayerstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.567928,48.164178,0.000000 11.567858,48.163670,0.000000 11.567847,48.163280,0.000000 11.567874,48.162733,0.000000 11.567917,48.161988,0.000000</coordinates>
         </LineString>
@@ -721,7 +721,7 @@
       <Placemark>
         <name>Erich-Kästner/Bayernpark</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.569784,48.165119,0.000000 11.570020,48.166307,0.000000 11.570127,48.166536,0.000000</coordinates>
         </LineString>
@@ -729,7 +729,7 @@
       <Placemark>
         <name>Hiltenspergerstraße/Schwabing-West</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.566286,48.164322,0.000000 11.566356,48.163395,0.000000 11.566699,48.161162,0.000000</coordinates>
         </LineString>
@@ -737,7 +737,7 @@
       <Placemark>
         <name>Angererstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.572326,48.164804,0.000000 11.572562,48.165706,0.000000 11.572680,48.166243,0.000000 11.572509,48.166300,0.000000 11.570256,48.166543,0.000000 11.570127,48.166608,0.000000 11.570288,48.167352,0.000000</coordinates>
         </LineString>
@@ -746,7 +746,7 @@
         <name>Erich-Kästner-Str</name>
         <description>Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.569752,48.165062,0.000000 11.569188,48.163155,0.000000</coordinates>
         </LineString>
@@ -754,7 +754,7 @@
       <Placemark>
         <name>Hochleite</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.553390,48.093144,0.000000 11.552403,48.092227,0.000000 11.551931,48.091525,0.000000 11.551609,48.090808,0.000000 11.550622,48.089762,0.000000 11.548863,48.087683,0.000000 11.547575,48.086293,0.000000 11.546674,48.085118,0.000000 11.545236,48.082537,0.000000 11.544528,48.081419,0.000000 11.543777,48.079957,0.000000 11.543090,48.078065,0.000000 11.543090,48.077233,0.000000 11.542618,48.075384,0.000000 11.542768,48.074545,0.000000 11.544077,48.073047,0.000000 11.545107,48.071713,0.000000 11.545322,48.070036,0.000000 11.545472,48.068745,0.000000 11.545064,48.067827,0.000000</coordinates>
         </LineString>
@@ -763,7 +763,7 @@
         <name>Brücke Brudermühlstraße
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.546105,48.108721,0.000000 11.544946,48.109079,0.000000 11.544163,48.110368,0.000000 11.544035,48.111042,0.000000 11.543820,48.111207,0.000000 11.543412,48.112539,0.000000 11.541492,48.112546,0.000000 11.540912,48.112983,0.000000 11.540226,48.113227,0.000000 11.539925,48.113843,0.000000 11.540301,48.114810,0.000000 11.539979,48.115297,0.000000</coordinates>
         </LineString>
@@ -772,7 +772,7 @@
         <name>Großhesseloher Brücke
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.536310,48.075140,0.000000 11.536632,48.074789,0.000000 11.537120,48.074595,0.000000 11.537549,48.074502,0.000000 11.538080,48.074452,0.000000 11.538831,48.074488,0.000000 11.538992,48.074394,0.000000 11.542704,48.074739,0.000000</coordinates>
         </LineString>
@@ -781,7 +781,7 @@
         <name>Großhesseloher Brücke 2
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.538992,48.074394,0.000000 11.538815,48.074262,0.000000 11.538348,48.074201,0.000000 11.537678,48.073986,0.000000 11.537254,48.073925,0.000000 11.536793,48.073434,0.000000 11.536471,48.073412,0.000000 11.535484,48.073821,0.000000 11.535291,48.074620,0.000000</coordinates>
         </LineString>
@@ -789,7 +789,7 @@
       <Placemark>
         <name>Noestrasße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.527931,48.085870,0.000000 11.528746,48.085841,0.000000 11.529154,48.086085,0.000000 11.530098,48.085884,0.000000 11.530881,48.087809,0.000000 11.532120,48.087570,0.000000 11.533239,48.087249,0.000000 11.534293,48.086891,0.000000</coordinates>
         </LineString>
@@ -797,7 +797,7 @@
       <Placemark>
         <name>Karl-Wieninger-Weg</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.488733,48.081634,0.000000 11.488523,48.081763,0.000000 11.487193,48.081763,0.000000 11.486587,48.081785,0.000000 11.486179,48.081874,0.000000 11.485734,48.081864,0.000000</coordinates>
         </LineString>
@@ -806,7 +806,7 @@
         <name>Münchner Straße
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.592014,48.084150,0.000000 11.592947,48.084938,0.000000 11.593162,48.085075,0.000000 11.593559,48.085161,0.000000 11.594321,48.085390,0.000000 11.594632,48.085325,0.000000 11.594868,48.084981,0.000000 11.595254,48.084508,0.000000 11.595640,48.084171,0.000000 11.597089,48.082344,0.000000 11.599749,48.078767,0.000000 11.599417,48.078344,0.000000 11.599427,48.078222,0.000000 11.599417,48.078344,0.000000 11.599427,48.078222,0.000000</coordinates>
         </LineString>
@@ -816,7 +816,7 @@
 </name>
         <description>kreuzungsfreier, schmaler Kreisbogenweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.609931,48.079957,0.000000 11.610231,48.079699,0.000000 11.610038,48.079470,0.000000 11.609631,48.079527,0.000000 11.609030,48.079613,0.000000 11.607614,48.079613,0.000000</coordinates>
         </LineString>
@@ -826,7 +826,7 @@
 </name>
         <description>breiter Weg, asphaltiert</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.592014,48.084150,0.000000 11.573238,48.070853,0.000000 11.553304,48.056756,0.000000 11.548798,48.053587,0.000000</coordinates>
         </LineString>
@@ -835,7 +835,7 @@
         <name>Südpark A95</name>
         <description>Alternativroute</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.487247,48.086637,0.000000 11.487333,48.093975,0.000000 11.488535,48.096211,0.000000 11.499982,48.102022,0.000000 11.499580,48.102076,0.000000 11.499408,48.101882,0.000000 11.499772,48.100965,0.000000 11.499470,48.100777,0.000000 11.499006,48.100783,0.000000 11.500974,48.101520,0.000000 11.501977,48.101441,0.000000 11.503018,48.101098,0.000000 11.504349,48.101743,0.000000 11.504070,48.102745,0.000000 11.505872,48.104522,0.000000 11.517459,48.110253,0.000000 11.519433,48.109967,0.000000 11.526300,48.109852,0.000000 11.534196,48.110540,0.000000</coordinates>
         </LineString>
@@ -844,7 +844,7 @@
         <name>Verbindung Drygalski zu Südparkroute</name>
         <description>kein Radweg, aber Einbahnstraße (in beide Richtungen, getrennt durch Grünstreifen) durch ein ruhiges Viertel</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.504059,48.094305,0.000000 11.502771,48.094563,0.000000 11.502943,48.096254,0.000000 11.502900,48.100353,0.000000 11.503973,48.100439,0.000000</coordinates>
         </LineString>
@@ -853,7 +853,7 @@
         <name>Verbindung Drygalski/Höglwörther zu Fürstenried West</name>
         <description>meist gut zu fahren, eigener Radweg</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.504059,48.094305,0.000000 11.498094,48.095108,0.000000 11.495519,48.094907,0.000000 11.491056,48.091238,0.000000 11.488051,48.088601,0.000000 11.487279,48.088199,0.000000 11.485909,48.087842,0.000000 11.483688,48.087677,0.000000 11.481671,48.088258,0.000000 11.481467,48.088172,0.000000 11.481092,48.088301,0.000000 11.480512,48.088537,0.000000 11.479640,48.088830,0.000000</coordinates>
         </LineString>
@@ -862,7 +862,7 @@
         <name>Südparkbücke</name>
         <description>&lt;img src="https://lh6.googleusercontent.com/proxy/L4q77sgytHjzINXO9UuDU2ZkJrONIEGe2O6Z_NCDxcge1pyYd0qDGOjodn36K9A7OSafuDGSXccXjRRs5-kS-JMO2_6XdNhsh8uYV37gJvgnvD1fco6MNzxXbUzkkFodqnNw-k5O6VAsjZjaNp8EtRhCPHgPOJt3gqOB1KV5ZVFKRRBSlwB_uzrPQO4K6_42sWquX9j5vjbL3t0KDXLOzkUauoRo-tMxuF5LsxiuBSLYA04URmMiub5Z" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh6.googleusercontent.com/proxy/L4q77sgytHjzINXO9UuDU2ZkJrONIEGe2O6Z_NCDxcge1pyYd0qDGOjodn36K9A7OSafuDGSXccXjRRs5-kS-JMO2_6XdNhsh8uYV37gJvgnvD1fco6MNzxXbUzkkFodqnNw-k5O6VAsjZjaNp8EtRhCPHgPOJt3gqOB1KV5ZVFKRRBSlwB_uzrPQO4K6_42sWquX9j5vjbL3t0KDXLOzkUauoRo-tMxuF5LsxiuBSLYA04URmMiub5Z</value>
@@ -876,7 +876,7 @@
         <name>Radweg Garmischer Autobahn</name>
         <description>&lt;img src="https://lh3.googleusercontent.com/proxy/p99ViyV9dEsxkONU3tiuDlgKWuiCVF-9OVkW2HXZN1EXQI5yzIIPcBP-iMGXBKm4T3c7ondp-zNhPaUoume2yTjaHTqnrSSS4mBazhNsVgOTRFpnt9KrojzfBwNVkW6wWEkAFfgg8lOxzxUaknijmZRMITOcwu_OcbkIX77l9fAjxhsA8kYKFqgVgEEedTVrWcJCFN6NtXSOIFnCImtrq8j_WyaYLauHDqdd_jDyCW02AlnCqNpU9yo5-vs" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;NOx Gehalt der Luft??? Sonst die schönste Strecke...</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh3.googleusercontent.com/proxy/p99ViyV9dEsxkONU3tiuDlgKWuiCVF-9OVkW2HXZN1EXQI5yzIIPcBP-iMGXBKm4T3c7ondp-zNhPaUoume2yTjaHTqnrSSS4mBazhNsVgOTRFpnt9KrojzfBwNVkW6wWEkAFfgg8lOxzxUaknijmZRMITOcwu_OcbkIX77l9fAjxhsA8kYKFqgVgEEedTVrWcJCFN6NtXSOIFnCImtrq8j_WyaYLauHDqdd_jDyCW02AlnCqNpU9yo5-vs</value>
@@ -890,7 +890,7 @@
         <name>Kreuzung Kisselbachplatz</name>
         <description>&lt;img src="https://lh4.googleusercontent.com/proxy/Rnck7stBtdo3QcV1ewW2aIAipxQkSxWEr3yBgyz8Gmhz09dx9WBOcUnmSfHl4jAoK4UFkBHZ3SrIO4owMWxu-UgDTgqnXIBrinWno6buZyqDCZcvOM9pVoi_MUVS7mFKIwlro-eUNyVyqfzZiHrOk6Ur13V37XqfjmxCz9aGXSYmZwXN0qyHTwVkdm3cYeI3bKN-dcIymRN3FP8qkHqbKMy-8__nYWxgRi3sDskY7JTxmUuyXJkeyQFi" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;gute Ampelschaltung,  Rechtsabbieger haben rot!</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh4.googleusercontent.com/proxy/Rnck7stBtdo3QcV1ewW2aIAipxQkSxWEr3yBgyz8Gmhz09dx9WBOcUnmSfHl4jAoK4UFkBHZ3SrIO4owMWxu-UgDTgqnXIBrinWno6buZyqDCZcvOM9pVoi_MUVS7mFKIwlro-eUNyVyqfzZiHrOk6Ur13V37XqfjmxCz9aGXSYmZwXN0qyHTwVkdm3cYeI3bKN-dcIymRN3FP8qkHqbKMy-8__nYWxgRi3sDskY7JTxmUuyXJkeyQFi</value>
@@ -904,7 +904,7 @@
         <name>mittl. Ring</name>
         <description>&lt;img src="https://lh5.googleusercontent.com/proxy/E-1I-97f4Wjo-FfO3Mj6CFPTQApsWL_s8Av5vtR-MCLw7mfofkKjCwPSMrke4-ckT4i0mRig5fbZppdRAGpvBZq9MktSVwO84OiDA__h5qdQ3g_CdNXBbDrOh_yKR0gqFpOKFUfXRK1neazEoP_XT44_MlbTJhpTbI1ZIKmsLzQOODA99-zqUiG3uIJR3As9ffyCmWXaJEmgQrC_1GD5ZiE8kmG-g9G1RSWYgRk13gNQt4yv-TJN1-uDN_g" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;nur Anlieger, fast kein Verkehr, Lärmschutzwand zum Ring</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh5.googleusercontent.com/proxy/E-1I-97f4Wjo-FfO3Mj6CFPTQApsWL_s8Av5vtR-MCLw7mfofkKjCwPSMrke4-ckT4i0mRig5fbZppdRAGpvBZq9MktSVwO84OiDA__h5qdQ3g_CdNXBbDrOh_yKR0gqFpOKFUfXRK1neazEoP_XT44_MlbTJhpTbI1ZIKmsLzQOODA99-zqUiG3uIJR3As9ffyCmWXaJEmgQrC_1GD5ZiE8kmG-g9G1RSWYgRk13gNQt4yv-TJN1-uDN_g</value>
@@ -918,7 +918,7 @@
         <name>mittl. Ring 2.0</name>
         <description>&lt;img src="https://lh5.googleusercontent.com/proxy/p3jNCXeKIDuDjkYIRuXsCcg-h885M3Z-n0_7hnRdre1KvoPBYgzDKGU6Yb4EFo00L0CRGzMzX8Kd5qijE0gRpBCMvVDEwTWo-TqpoCWxgzk_ysZjfK6PB3qEp0duF6ztY0OFtGQtZnMtkshNUt_ASDUhi2WdOV4XTG8R-hiUhFcuD_2cyJ3O4tVDcpzP7AWiPb1B0OruNb99g6FDDUsth5v0a3ItduvNf8zcNE-HClzXQdlm4gUjqVlF79c" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;keine Trennung Fuß/Rad, aber auch keine Autos</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>https://lh5.googleusercontent.com/proxy/p3jNCXeKIDuDjkYIRuXsCcg-h885M3Z-n0_7hnRdre1KvoPBYgzDKGU6Yb4EFo00L0CRGzMzX8Kd5qijE0gRpBCMvVDEwTWo-TqpoCWxgzk_ysZjfK6PB3qEp0duF6ztY0OFtGQtZnMtkshNUt_ASDUhi2WdOV4XTG8R-hiUhFcuD_2cyJ3O4tVDcpzP7AWiPb1B0OruNb99g6FDDUsth5v0a3ItduvNf8zcNE-HClzXQdlm4gUjqVlF79c</value>
@@ -931,7 +931,7 @@
       <Placemark>
         <name>Fasanenpark</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.601391,48.083612,0.000000 11.609116,48.082781,0.000000</coordinates>
         </LineString>
@@ -939,7 +939,7 @@
       <Placemark>
         <name>Quartiersplatz-Theresienhöhe</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.539963,48.128897,0.000000 11.543375,48.127254,0.000000</coordinates>
         </LineString>
@@ -948,7 +948,7 @@
         <name>Bavaria Filmstadt
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.545322,48.071814,0.000000 11.546862,48.071602,0.000000 11.547674,48.071496,0.000000 11.548187,48.071219,0.000000 11.556072,48.065031,0.000000 11.563754,48.060156,0.000000</coordinates>
         </LineString>
@@ -957,7 +957,7 @@
         <name>Naumburgerstraße</name>
         <description>Verkehrsberuhigt! Gute Radstrecke.</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.517595,48.184665,0.000000 11.516176,48.184398,0.000000 11.511078,48.183731,0.000000</coordinates>
         </LineString>
@@ -965,7 +965,7 @@
       <Placemark>
         <name>Unterführung Ständlerstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.612742,48.101327,0.000000 11.612935,48.101958,0.000000 11.612956,48.102688,0.000000 11.612828,48.103118,0.000000 11.613021,48.103863,0.000000 11.612849,48.104394,0.000000 11.611111,48.105153,0.000000 11.610103,48.105253,0.000000 11.609845,48.106156,0.000000</coordinates>
         </LineString>
@@ -974,7 +974,7 @@
         <name>Riesengebirgstraße</name>
         <description>Gut, wenig Kfz Verkehr</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.509861,48.182473,0.000000 11.510887,48.183388,0.000000 11.511184,48.183461,0.000000</coordinates>
         </LineString>
@@ -983,7 +983,7 @@
         <name>Jakob-Hagenbucher Straße</name>
         <description>Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.511090,48.183737,0.000000 11.511902,48.181291,0.000000</coordinates>
         </LineString>
@@ -992,7 +992,7 @@
         <name>Rangierbahnhof</name>
         <description>Fuss- Radweg im Grünbereich. Kein Kfz-Verkehr!</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.502226,48.192709,0.000000 11.507642,48.191960,0.000000 11.511562,48.191533,0.000000 11.517161,48.190623,0.000000 11.521650,48.189621,0.000000</coordinates>
         </LineString>
@@ -1001,7 +1001,7 @@
         <name>Orpheusstr.</name>
         <description>Zweirichtungs-Radweg entlang der Friedhofsmauer. Geringer Kfz-Verkehr!</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.528213,48.172456,0.000000 11.528422,48.169177,0.000000</coordinates>
         </LineString>
@@ -1010,7 +1010,7 @@
         <name>Schwere-Reiter-Str.</name>
         <description>Fahrradstraße parallel auf Nebenspur.</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.561920,48.161198,0.000000 11.561614,48.161355,0.000000 11.560668,48.161422,0.000000 11.556934,48.161669,0.000000 11.553816,48.161663,0.000000 11.553090,48.161582,0.000000</coordinates>
         </LineString>
@@ -1019,7 +1019,7 @@
         <name>Olympia Pressestadt</name>
         <description>Verbindungsstrecke zw Pelkovenstr u Olympia-Park</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.536667,48.181895,0.000000 11.537694,48.181793,0.000000 11.537991,48.183399,0.000000 11.538831,48.183336,0.000000 11.539516,48.183407,0.000000</coordinates>
         </LineString>
@@ -1027,7 +1027,7 @@
       <Placemark>
         <name>Feldmochingerstraße</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.521650,48.189621,0.000000 11.521124,48.186200,0.000000</coordinates>
         </LineString>
@@ -1035,7 +1035,7 @@
       <Placemark>
         <name>Brücke über Isar</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.578194,48.126396,0.000000 11.576468,48.127701,0.000000</coordinates>
         </LineString>
@@ -1043,7 +1043,7 @@
       <Placemark>
         <name>Linie 16</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.589010,48.124832,0.000000 11.591220,48.125739,0.000000 11.592550,48.126484,0.000000 11.593366,48.127687,0.000000 11.593966,48.128625,0.000000</coordinates>
         </LineString>
@@ -1051,7 +1051,7 @@
       <Placemark>
         <name>Linie 17</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.592894,48.127057,0.000000 11.594610,48.126599,0.000000 11.594996,48.126713,0.000000</coordinates>
         </LineString>
@@ -1059,7 +1059,7 @@
       <Placemark>
         <name>Linie 18</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.595254,48.126398,0.000000 11.597357,48.126484,0.000000</coordinates>
         </LineString>
@@ -1067,7 +1067,7 @@
       <Placemark>
         <name>Linie 19</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.597357,48.126484,0.000000 11.599900,48.128231,0.000000</coordinates>
         </LineString>
@@ -1075,7 +1075,7 @@
       <Placemark>
         <name>Linie 20</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.582422,48.119551,0.000000 11.583710,48.119007,0.000000 11.585426,48.118463,0.000000 11.587272,48.117603,0.000000 11.587958,48.117231,0.000000 11.590147,48.117116,0.000000 11.592507,48.115082,0.000000</coordinates>
         </LineString>
@@ -1084,7 +1084,7 @@
         <name>Seldweg / An der Würm</name>
         <description>Unterführung für Fußgänger + Radfahrer / Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.458429,48.164032,0.000000 11.458826,48.164568,0.000000 11.459084,48.165069,0.000000 11.459620,48.165470,0.000000 11.459577,48.165971,0.000000 11.459362,48.166314,0.000000 11.459126,48.167288,0.000000 11.459084,48.168075,0.000000 11.459298,48.168432,0.000000 11.459598,48.168472,0.000000</coordinates>
         </LineString>
@@ -1093,7 +1093,7 @@
         <name>Botanischer Garten II.</name>
         <description>kein expliziter Radweg, dafür breit und ohne Autos</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.498845,48.161563,0.000000 11.500883,48.161126,0.000000 11.505218,48.161241,0.000000</coordinates>
         </LineString>
@@ -1102,7 +1102,7 @@
         <name>De La Paz- Str.</name>
         <description>De La Paz- Str. ist Fahrradstraße</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.509638,48.151357,0.000000 11.509016,48.149939,0.000000</coordinates>
         </LineString>
@@ -1111,7 +1111,7 @@
         <name>Hirschgarten</name>
         <description>vom MIV abgeschirmte Route, muss jedoch mit Fußgängern geteilt werden</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.511290,48.150250,0.000000 11.514015,48.150154,0.000000 11.516976,48.150054,0.000000 11.519702,48.150140,0.000000</coordinates>
         </LineString>
@@ -1120,7 +1120,7 @@
         <name>Brudermühlstraße-Unterführung Plinganser</name>
         <description>schwer zu finden, Unterführung Richtung Westen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.544685,48.111945,0.000000 11.543886,48.111913,0.000000 11.543655,48.112074,0.000000 11.543344,48.112049,0.000000 11.543043,48.112174,0.000000 11.542598,48.112518,0.000000 11.541477,48.112504,0.000000 11.541080,48.112031,0.000000 11.541439,48.111766,0.000000 11.541541,48.111511,0.000000 11.541375,48.111282,0.000000 11.540935,48.111046,0.000000 11.540098,48.110870,0.000000 11.538865,48.110752,0.000000</coordinates>
         </LineString>
@@ -1128,7 +1128,7 @@
       <Placemark>
         <name>Arnulfbogen-Therese-Danner-Platz</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.537059,48.146354,0.000000 11.538223,48.146916,0.000000 11.538497,48.147061,0.000000 11.538578,48.147037,0.000000 11.538637,48.147035,0.000000 11.538697,48.147041,0.000000 11.538773,48.147058,0.000000 11.538861,48.147100,0.000000 11.538938,48.147194,0.000000 11.538943,48.147284,0.000000 11.538886,48.147357,0.000000 11.538725,48.147413,0.000000 11.538576,48.147397,0.000000 11.538423,48.147330,0.000000 11.538381,48.147269,0.000000 11.538358,48.147187,0.000000 11.538384,48.147149,0.000000 11.538418,48.147112,0.000000 11.538453,48.147084,0.000000 11.538497,48.147061,0.000000</coordinates>
         </LineString>
@@ -1136,7 +1136,7 @@
       <Placemark>
         <name>Westpark-Fernpassstr</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.521906,48.122405,0.000000 11.522163,48.122115,0.000000 11.522190,48.121492,0.000000 11.522582,48.121270,0.000000</coordinates>
         </LineString>
@@ -1144,7 +1144,7 @@
       <Placemark>
         <name>Westpark-Fernpassstr 2</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.522163,48.122107,0.000000 11.522283,48.122312,0.000000 11.522467,48.122497,0.000000</coordinates>
         </LineString>
@@ -1152,7 +1152,7 @@
       <Placemark>
         <name>Westpark-Alfred-Ludwig-Weg</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.519160,48.122500,0.000000 11.519052,48.123173,0.000000 11.518097,48.123438,0.000000 11.516327,48.123768,0.000000 11.515254,48.123696,0.000000 11.514916,48.123734,0.000000</coordinates>
         </LineString>
@@ -1160,7 +1160,7 @@
       <Placemark>
         <name>Forstenrieder Park, Max-Joseph Geräumt</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.425695,48.043316,0.000000 11.448526,48.061962,0.000000 11.473203,48.082122,0.000000</coordinates>
         </LineString>
@@ -1168,7 +1168,7 @@
       <Placemark>
         <name>Forstenrieder Park, Link Geräumt</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.468697,48.078437,0.000000 11.477494,48.073577,0.000000 11.486228,48.068745,0.000000 11.499038,48.061719,0.000000 11.509058,48.056140,0.000000</coordinates>
         </LineString>
@@ -1176,7 +1176,7 @@
       <Placemark>
         <name>Forstenrieder Park, Neurieder Sträßl, Ludwigs Geräumt</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.455758,48.067856,0.000000 11.453633,48.057287,0.000000 11.464727,48.051163,0.000000 11.471829,48.047261,0.000000 11.482194,48.041466,0.000000 11.497922,48.032814,0.000000</coordinates>
         </LineString>
@@ -1184,7 +1184,7 @@
       <Placemark>
         <name>Forstenrieder Park, Karolinen Geräumt</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.473439,48.046386,0.000000 11.480670,48.052274,0.000000 11.487772,48.058140,0.000000 11.489639,48.059510,0.000000 11.489403,48.062199,0.000000 11.489028,48.067283,0.000000 11.488663,48.070781,0.000000 11.488373,48.074817,0.000000</coordinates>
         </LineString>
@@ -1194,7 +1194,7 @@
 </name>
         <description>Frisch asphaltiert</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.538201,48.085752,0.000000 11.538422,48.085787,0.000000 11.538572,48.085891,0.000000 11.538653,48.086002,0.000000 11.538712,48.085995,0.000000</coordinates>
         </LineString>
@@ -1204,7 +1204,7 @@
 </name>
         <description>Sehr viel Platz</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.618943,48.069003,0.000000 11.650272,48.075513,0.000000</coordinates>
         </LineString>
@@ -1213,7 +1213,7 @@
         <name>S7 - Sendlinger Feldweg</name>
         <description>Gute Radlmöglichkeit vom Heimeranplatz (Garmischer Str.) bis zur Margaretenstr., sogar mit Brücke über die Baumgartnerstr.. Leider fehlt eine Brücke von der Martin-Behaim-Str. zur Konrad-Peutinger-Str., dann wäre nämlich eine durchgehende Verbindung bis zum Harras möglich. Fotos folgen</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.536628,48.120325,0.000000 11.537830,48.125810,0.000000 11.537422,48.127272,0.000000 11.537275,48.127394,0.000000 11.537299,48.127594,0.000000 11.537186,48.127773,0.000000 11.536450,48.128920,0.000000 11.533910,48.130940,0.000000 11.532101,48.131955,0.000000 11.530899,48.131296,0.000000</coordinates>
         </LineString>
@@ -1222,7 +1222,7 @@
         <name>Stäblistraße</name>
         <description>Beiderseitige Radwege vorhanden</description>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.498094,48.086967,0.000000 11.501497,48.087024,0.000000 11.502876,48.087393,0.000000</coordinates>
         </LineString>
@@ -1231,7 +1231,7 @@
         <name>Radweg Begasweg - Herterichstraße
 </name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <LineString>
           <coordinates>11.509101,48.078208,0.000000 11.509372,48.078262,0.000000 11.510740,48.078186,0.000000 11.510879,48.078241,0.000000</coordinates>
         </LineString>

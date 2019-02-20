@@ -3,34 +3,34 @@
     <name>doc name</name>
     <description>doc description</description>
     <visibility>1</visibility>
-    <Style id="grün">
+    <Style id="green">
       <LineStyle>
         <color>00ff00</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="gelb">
+    <Style id="yellow">
       <LineStyle>
         <color>ffff00</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="rot">
+    <Style id="red">
       <LineStyle>
         <color>ff0000</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="schwarz">
+    <Style id="black">
       <LineStyle>
         <color>000000</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
-    <Style id="grau">
+    <Style id="grey">
       <LineStyle>
         <color>888888</color>
-        <width>2</width>
+        <width>10</width>
       </LineStyle>
     </Style>
     <Folder>
@@ -39,7 +39,7 @@
       <Placemark>
         <name>Stadtbezirk 01 Altstadt-Lehel</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -51,7 +51,7 @@
       <Placemark>
         <name>Stadtbezirk 02 Ludwigsvorstadt-Isarvorstadt</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -63,7 +63,7 @@
       <Placemark>
         <name>Stadtbezirk 03 Maxvorstadt</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -75,7 +75,7 @@
       <Placemark>
         <name>Stadtbezirk 04 Schwabing-West</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -87,7 +87,7 @@
       <Placemark>
         <name>Stadtbezirk 05 Au-Haidhausen</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -99,7 +99,7 @@
       <Placemark>
         <name>Stadtbezirk 06 Sendling</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -111,7 +111,7 @@
       <Placemark>
         <name>Stadtbezirk 07 Sendling-Westpark</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -123,7 +123,7 @@
       <Placemark>
         <name>Stadtbezirk 08 Schwanthalerhöhe</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -135,7 +135,7 @@
       <Placemark>
         <name>Stadtbezirk 09 Neuhausen-Nymphenburg</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -147,7 +147,7 @@
       <Placemark>
         <name>Stadtbezirk 10 Moosach</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -159,7 +159,7 @@
       <Placemark>
         <name>Stadtbezirk 11 Milbertshofen-Am Hart</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -171,7 +171,7 @@
       <Placemark>
         <name>Stadtbezirk 12 Schwabing-Freimann</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -183,7 +183,7 @@
       <Placemark>
         <name>Stadtbezirk 13 Bogenhausen</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -195,7 +195,7 @@
       <Placemark>
         <name>Stadtbezirk 14 Berg am Laim</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -207,7 +207,7 @@
       <Placemark>
         <name>Stadtbezirk 15 Trudering-Riem</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -219,7 +219,7 @@
       <Placemark>
         <name>Stadtbezirk 16 Ramersdorf - Perlach</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -231,7 +231,7 @@
       <Placemark>
         <name>Stadtbezirk 17 Obergiesing-Fasangarten</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -243,7 +243,7 @@
       <Placemark>
         <name>Stadtbezirk 18 Untergiesing-Harlaching</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -255,7 +255,7 @@
       <Placemark>
         <name>Stadtbezirk 18 Untergiesing-Harlaching</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -267,7 +267,7 @@
       <Placemark>
         <name>Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -279,7 +279,7 @@
       <Placemark>
         <name>Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -291,7 +291,7 @@
       <Placemark>
         <name>Stadtbezirk 20 Hadern</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -303,7 +303,7 @@
       <Placemark>
         <name>Stadtbezirk 21 Pasing-Obermenzing</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -315,7 +315,7 @@
       <Placemark>
         <name>Stadtbezirk 22 Aubing-Lochhausen-Langwied</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -327,7 +327,7 @@
       <Placemark>
         <name>Stadtbezirk 23 Allach-Untermenzing</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -339,7 +339,7 @@
       <Placemark>
         <name>Stadtbezirk 24 Feldmoching-Hasenbergl</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -351,7 +351,7 @@
       <Placemark>
         <name>Stadtbezirk 25 Laim</name>
         <visibility>1</visibility>
-        <styleUrl>grau</styleUrl>
+        <styleUrl>grey</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>

@@ -68,6 +68,8 @@ class KMLTranslator:
         match = re.match(color_pattern, placemark.name)
         if match:
             color = match[1]
+            if color not in ['gelb', 'grün', 'rot', 'schwarz']:
+                color = 'grau'
         else:
             color = 'grau'
         placemark.styleUrl = color

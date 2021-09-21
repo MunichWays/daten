@@ -1,4 +1,4 @@
 # Daten
 
-siehe https://github.com/AppWerft/MunichWays
+process data for the RadlVorrang-Netz
 
